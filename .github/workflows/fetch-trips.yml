@@ -1,0 +1,33 @@
+# Fetches the NY-North Jersey trip list from the AMC Activities Directory
+# every morning and publishes the result as trips.json at the repo root.
+# GitHub Pages (Settings -> Pages -> Deploy from a branch -> main, / (root))
+# then serves it at https://<user>.github.io/<repo>/trips.json
+# The amc-ny.org page reads that URL with the browser-side embed snippet.
+name: Fetch AMC trips
+
+on:
+  schedule:
+    # 07:00 UTC daily = 2:00 AM EST / 3:00 AM EDT
+    - cron: '0 7 * * *'
+  workflow_dispatch:  # allow a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch trips
+        run: node fetch-trips-aura.mjs
+      - name: Commit trips.json if it changed
+        run: |
+          git config user.name "amc-trips-bot"
+          git config user.email "actions@github.com"
+          git add trips.json
+          git diff --cached --quiet || git commit -m "Update trips $(date -u +%Y-%m-%d)"
+          git push
