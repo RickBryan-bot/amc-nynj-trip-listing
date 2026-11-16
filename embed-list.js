@@ -14,7 +14,7 @@
 #amc-trips-embed .amc-trips-chips{display:flex;flex-wrap:wrap;gap:8px}
 #amc-trips-embed .amc-trips-chip{background:rgba(255,255,255,.16);color:#fff;border:1px solid rgba(255,255,255,.35);border-radius:999px;padding:5px 12px;font-size:13px;cursor:pointer;text-decoration:none}
 #amc-trips-embed .amc-trips-chip:hover{background:rgba(255,255,255,.3)}
-#amc-trips-embed .amc-trips-section{margin:28px 0 8px;font-size:22px;color:#14532d;border-bottom:2px solid #14532d;padding-bottom:6px}
+#amc-trips-embed .amc-trips-section{margin:34px 0 10px;font-size:26px;font-weight:700;color:#14532d;border-bottom:3px solid #14532d;padding-bottom:8px}
 #amc-trips-embed .amc-trips-count{font-size:14px;color:#666;font-weight:400}
 #amc-trips-embed .amc-trips-rows{margin-top:8px}
 #amc-trips-embed .amc-trip-row{display:flex;gap:16px;padding:12px 4px;border-bottom:1px solid #e5e5e5;align-items:flex-start}
