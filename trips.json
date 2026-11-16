@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-16T16:08:02.032Z",
+  "fetchedAt": "2026-11-16T17:39:04.682Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 16,
+  "count": 17,
   "trips": [
     {
       "title": "Biking - Bethpage to Jones Beach on Bike Path and Quiet Roads",
@@ -18,6 +18,7 @@
         "Brian Lownds"
       ],
       "location": "Old Bethpage, NY",
+      "online": false,
       "distanceMi": 26.8,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBv32AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011drUtYAI&d=%2Fa%2FVX000003x7wb%2Fx9pWZvcWF2YuUWIC9TAU7lRmte3hCBuIc8cZ026cST0&oid=00D50000000cBTwEAM",
@@ -37,9 +38,30 @@
         "Hank Zupnick"
       ],
       "location": "NY",
+      "online": false,
       "distanceMi": 29.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND5d2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Calling all Skiers!  Open Meeting to Discuss Plans for this Ski Season",
+      "date": "2026-11-18",
+      "time": "8:00 PM",
+      "dateText": "Wednesday, November 18, 2026 | 8:00 PM",
+      "dateISO": "2026-11-18T20:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Meetings",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Richard Bryan"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JkL72AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xTKB3YAO&d=%2Fa%2FVX000003l46T%2F0EHwrPYwr0td20ZXkE3.hDnRmgciRDdCVRkm9IJ3CKY&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -56,28 +78,10 @@
         "John Power"
       ],
       "location": "New York, NY",
+      "online": false,
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND7F2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kqDzZYAU&d=%2Fa%2FVX0000036PGX%2FUredcZu2y3SjGqc5g8oVeXI8owGKm3yZ.WKijo.dS60&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Conservation",
-      "subType": "Conservation",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eileen Yin"
-      ],
-      "location": "New York, NY",
-      "distanceMi": 10.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -94,28 +98,30 @@
         "Rebeca Galbinski"
       ],
       "location": "New York, NY",
+      "online": false,
       "distanceMi": 4.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
-      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
+      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
       "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Conservation",
+      "subType": "Conservation",
       "programType": "Volunteer Led",
       "status": "Published",
       "leaders": [
-        "Tom Bergen"
+        "Eileen Yin"
       ],
       "location": "New York, NY",
-      "distanceMi": 5.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
+      "online": false,
+      "distanceMi": 10.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -132,9 +138,30 @@
         "John Power"
       ],
       "location": "Peekskill, NY",
+      "online": false,
       "distanceMi": 36,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Tom Bergen"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 5.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -151,6 +178,7 @@
         "Rebeca Galbinski"
       ],
       "location": "Long Island City, NY",
+      "online": false,
       "distanceMi": 1.8,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N5G92AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000117rwCYAQ&d=%2Fa%2FVX000003wC3t%2FqLDKhXJSXBN_kWKCyc3nySCOeLqhaygbEK1Lm6Z1NhA&oid=00D50000000cBTwEAM",
@@ -170,6 +198,7 @@
         "Anastasia Tavarez"
       ],
       "location": "Tuxedo Park, NY",
+      "online": false,
       "distanceMi": 33,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MvqH2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010yZnCYAU&d=%2Fa%2FVX000003vbQv%2F14VbPJvUP8WN5IC_Kr4z6CH0H13vszP1C5wePatnEBw&oid=00D50000000cBTwEAM",
@@ -189,6 +218,7 @@
         "Timothy Watters"
       ],
       "location": "Beacon, NY",
+      "online": false,
       "distanceMi": 50.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001DFrt2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
@@ -208,6 +238,7 @@
         "John Power"
       ],
       "location": "New York, NY",
+      "online": false,
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N67N2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000119bH8YAI&d=%2Fa%2FVX000003wHwP%2FJewmxCQqsONwPEyBykGWRExcyJHbtAehU9_aMDWfFGY&oid=00D50000000cBTwEAM",
@@ -227,6 +258,7 @@
         "Rebeca Galbinski"
       ],
       "location": "New York, NY",
+      "online": false,
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8XN2A0",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GPERYA4&d=%2Fa%2FVX000003wUon%2FzfjLfNLlwkSPYHHuKbErMMmqOu4lrc3AZP9_1eIR.yI&oid=00D50000000cBTwEAM",
@@ -246,6 +278,7 @@
         "Ed Spirko"
       ],
       "location": "Mahwah, NJ",
+      "online": false,
       "distanceMi": 23.8,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCG12AO",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
@@ -265,6 +298,7 @@
         "Richard Dabal"
       ],
       "location": "Ringwood, NJ",
+      "online": false,
       "distanceMi": 27.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N4bp2AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000e79xNYAQ&d=%2Fa%2FVX000002g8o1%2FEACVe_ZNP8vthLPnAEcdAB6DNy7Uzi.vvSScyuf0BZY&oid=00D50000000cBTwEAM",
@@ -284,6 +318,7 @@
         "Richard Dabal"
       ],
       "location": "Ringwood, NJ",
+      "online": false,
       "distanceMi": 27.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N4wn2AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000e79xNYAQ&d=%2Fa%2FVX000002g8o1%2FEACVe_ZNP8vthLPnAEcdAB6DNy7Uzi.vvSScyuf0BZY&oid=00D50000000cBTwEAM",
@@ -303,6 +338,7 @@
         "AMC Outdoor Learning"
       ],
       "location": "Haverstraw, NY",
+      "online": false,
       "distanceMi": 30.9,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MPaH2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",

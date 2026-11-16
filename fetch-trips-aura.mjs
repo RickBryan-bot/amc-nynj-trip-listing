@@ -14,8 +14,9 @@
 //     Staff Activities and Naturalist Program are real types elsewhere
 //     but have zero NY-NoJ activities)
 //   - PLUS chapter-independent program types, fetched with separate
-//     chapterless calls and merged in (deduped by Id). The same
-//     online + 60-mile filters apply:
+//     chapterless calls and merged in (deduped by Id). The 60-mile
+//     filter applies to their in-person trips; their online events are
+//     excluded (no location to gate on — see the online rule below):
 //       "Professional Guides" — 19 records; only one within 60 miles:
 //         NOLS Wilderness First Aid - NY/NJ, May 22 2027, Harriman
 //         Outdoor Center, 30.9 mi. (The directory label "AMC
@@ -29,7 +30,16 @@
 //         Greenville ME: none within 60 miles as of Nov 16, 2026.
 //     These two add no trips today, but the calls are in place so any
 //     future nearby Naturalist / Staff activity appears automatically.
-//   - online-only events dropped (Online_Event__c)
+//     Online events from these chapterless calls are NOT included:
+//     with no location there is no 60-mile gate, so AMC-wide virtual
+//     events would land on a chapter page.
+//   - online events are included when they are the chapter's own
+//     (chapter-scoped call). Chapter-independent program types still
+//     need a physical location within 60 miles, so AMC-wide virtual
+//     events (e.g. Staff town halls) do not land on a chapter page.
+//     Online trips carry online:true, location '' and distanceMi null.
+//     (Nov 16 2026: online filter reversed per Richard — his own
+//     "Calling all Skiers!" online meeting had dropped out.)
 //   - 60-mile radius around 5 W 63rd St, New York, NY
 //     (site-geocoded 40.770936, -73.980547). Uses the trip's own
 //     Start_Latitude__c/Start_Longitude__c, reproducing the directory
@@ -148,10 +158,12 @@ function distanceMi(lat, lng) {
   return 2 * R * Math.asin(Math.sqrt(h));
 }
 
+const chapterIds = new Set(chapterRecords.map(a => a.Id));
+
 const trips = records
   .filter(a => a.Start_Date__c && a.Start_Date__c >= today)
-  .filter(a => !a.Online_Event__c) // drop online-only events (no physical location)
-  .filter(a => { // 60-mile radius; trips with no coordinates are dropped, as the site does
+  .filter(a => { // online: chapter's own only; in-person: 60-mile radius
+    if (a.Online_Event__c) return chapterIds.has(a.Id);
     const lat = a.Start_Latitude__c, lng = a.Start_Longitude__c;
     return lat && lng && distanceMi(lat, lng) <= RADIUS_MI;
   })
@@ -168,7 +180,9 @@ const trips = records
     leaders: (a.OC_Trip_Leaders__r || []).map(l => l.Contact__r && l.Contact__r.Name).filter(Boolean),
     location: a.Start_Location__c
       ? [a.Start_Location__c.city, a.Start_Location__c.state].filter(Boolean).join(', ') : '',
-    distanceMi: Math.round(distanceMi(a.Start_Latitude__c, a.Start_Longitude__c) * 10) / 10,
+    online: !!a.Online_Event__c,
+    distanceMi: a.Online_Event__c ? null
+      : Math.round(distanceMi(a.Start_Latitude__c, a.Start_Longitude__c) * 10) / 10,
     url: `https://activities.outdoors.org/s/oc-activity/${a.Id}`,
     image: imageUrl(a),
     openForRegistration: !!a.Open_for_registration__c,
