@@ -1,0 +1,552 @@
+{
+  "fetchedAt": "2026-11-16T02:24:32.462Z",
+  "chapter": "0015000001Sg064AAB",
+  "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
+  "count": 32,
+  "trips": [
+    {
+      "title": "Biking - Bethpage to Jones Beach on Bike Path and Quiet Roads",
+      "date": "2026-11-16",
+      "time": "10:30 AM",
+      "dateText": "Monday, November 16, 2026 | 10:30 AM",
+      "dateISO": "2026-11-16T10:30:00-05:00",
+      "activityType": "Biking",
+      "subType": "Road",
+      "status": "Published",
+      "leaders": [
+        "Brian Lownds"
+      ],
+      "location": "Old Bethpage, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBv32AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011drUtYAI&d=%2Fa%2FVX000003x7wb%2Fx9pWZvcWF2YuUWIC9TAU7lRmte3hCBuIc8cZ026cST0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Harriman: Orak & Reservoirs - 8 Miles (Moderate)",
+      "date": "2026-11-18",
+      "time": "9:30 AM",
+      "dateText": "Wednesday, November 18, 2026 | 9:30 AM",
+      "dateISO": "2026-11-18T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Hank Zupnick"
+      ],
+      "location": "NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND5d2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Calling all Skiers!  Open Meeting to Discuss Plans for this Ski Season",
+      "date": "2026-11-18",
+      "time": "8:00 PM",
+      "dateText": "Wednesday, November 18, 2026 | 8:00 PM",
+      "dateISO": "2026-11-18T20:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Meetings",
+      "status": "Published",
+      "leaders": [
+        "Richard Bryan"
+      ],
+      "location": "",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JkL72AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xTKB3YAO&d=%2Fa%2FVX000003l46T%2F0EHwrPYwr0td20ZXkE3.hDnRmgciRDdCVRkm9IJ3CKY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "AMC NY/NJ 20s and 30s Thirsty Thursday (Long Island City)",
+      "date": "2026-11-19",
+      "time": "6:30 PM",
+      "dateText": "Thursday, November 19, 2026 | 6:30 PM",
+      "dateISO": "2026-11-19T18:30:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "status": "Published",
+      "leaders": [
+        "John Power"
+      ],
+      "location": "New York, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND7F2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kqDzZYAU&d=%2Fa%2FVX0000036PGX%2FUredcZu2y3SjGqc5g8oVeXI8owGKm3yZ.WKijo.dS60&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Backpack/Basecamp on the Blackhead Range in the Northern Catskills",
+      "date": "2026-11-20",
+      "time": "1:45 PM",
+      "dateText": "Friday, November 20, 2026 | 1:45 PM",
+      "dateISO": "2026-11-20T13:45:00-05:00",
+      "activityType": "Backpacking",
+      "subType": "Backpacking",
+      "status": "Published",
+      "leaders": [
+        "Russell Faller"
+      ],
+      "location": "Maplecrest, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Mj9B2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010pBydYAE&d=%2Fa%2FVX000003vCIr%2F07sUnDweL26KH3Dk0Er8SjNsfI7HL_aAcgQDAv7sXsM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Cold Weather Car Camping in VA",
+      "date": "2026-11-20",
+      "time": "3:00 PM",
+      "dateText": "Friday, November 20, 2026 | 3:00 PM",
+      "dateISO": "2026-11-20T15:00:00-05:00",
+      "activityType": "Camping",
+      "subType": "Lodges, Huts, Camps, Cabins, & Campsites",
+      "status": "Published",
+      "leaders": [
+        "Robert J Coia"
+      ],
+      "location": "Fort Valley, VA",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MnxZ2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010oPacYAE&d=%2Fa%2FVX000003v8K5%2FO3UrqwkCQ2oZdYXcQGMhiiMHEvd5afTOw0bV4VtmlgU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
+      "date": "2026-11-21",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "status": "Published",
+      "leaders": [
+        "Rebeca Galbinski"
+      ],
+      "location": "New York, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
+      "date": "2026-11-21",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Conservation",
+      "subType": "Conservation",
+      "status": "Published",
+      "leaders": [
+        "Eileen Yin"
+      ],
+      "location": "New York, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "John Power"
+      ],
+      "location": "Peekskill, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "status": "Published",
+      "leaders": [
+        "Tom Bergen"
+      ],
+      "location": "New York, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "FRANNY REESE STATE PARK (MODERATE)",
+      "date": "2026-11-22",
+      "time": "11:00 AM",
+      "dateText": "Sunday, November 22, 2026 | 11:00 AM",
+      "dateISO": "2026-11-22T11:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Steve Galla"
+      ],
+      "location": "Poughkeepsie, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8ab2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GER2YAO&d=%2Fa%2FVX000003wV89%2FkvqEKJx4sBAEaY8wJ.05vq3Zg1F10czLAErJqJpTB.g&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "2nd Annual Friendsgiving Phone Photo Walk: from LIC Queens to Greenpoint Brooklyn",
+      "date": "2026-11-28",
+      "time": "11:00 AM",
+      "dateText": "Saturday, November 28, 2026 | 11:00 AM",
+      "dateISO": "2026-11-28T11:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "status": "Published",
+      "leaders": [
+        "Rebeca Galbinski"
+      ],
+      "location": "Long Island City, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N5G92AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000117rwCYAQ&d=%2Fa%2FVX000003wC3t%2FqLDKhXJSXBN_kWKCyc3nySCOeLqhaygbEK1Lm6Z1NhA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "AMC Northern Harriman Hike (Vigorous)",
+      "date": "2026-12-05",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 5, 2026",
+      "dateISO": "2026-12-05T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN0000028iPJ2AY",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Catskills Weekend Backcountry Ski Touring - 12/6/26",
+      "date": "2026-12-06",
+      "time": "9:00 AM",
+      "dateText": "Sunday, December 6, 2026 | 9:00 AM",
+      "dateISO": "2026-12-06T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "status": "Published",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "Big Indian, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LThZ2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zHqwkYAC&d=%2Fa%2FVX000003qcCL%2FtXhrzP1rQPjgOeCfU9WRAejP5AT76oRGf1GYhPvJqSE&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Sterling Forest Fire Tower and Sterling Ridge Loop Hike! 8 miles (Vigorous)",
+      "date": "2026-12-09",
+      "time": "9:00 AM",
+      "dateText": "Wednesday, December 9, 2026 | 9:00 AM",
+      "dateISO": "2026-12-09T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Anastasia Tavarez"
+      ],
+      "location": "Tuxedo Park, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MvqH2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010yZnCYAU&d=%2Fa%2FVX000003vbQv%2F14VbPJvUP8WN5IC_Kr4z6CH0H13vszP1C5wePatnEBw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Beacon to Bald Hill Hike (Vigorous)",
+      "date": "2026-12-12",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 12, 2026",
+      "dateISO": "2026-12-12T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Full",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "Beacon, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001DFrt2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Catskills Backcountry Ski Touring - 12/13/26",
+      "date": "2026-12-13",
+      "time": "9:00 AM",
+      "dateText": "Sunday, December 13, 2026 | 9:00 AM",
+      "dateISO": "2026-12-13T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "status": "Published",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "Windham, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTo12AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zI4tFYAS&d=%2Fa%2FVX000003qcHB%2F084ZhiE1AjOq9ZvFBgZS3gghBMRgKnUd57IUTR2ol9g&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Appalachian Trail NY Hike: NY 9D to Old Albany Post Rd 8.6 mi (Vigorous)",
+      "date": "2026-12-14",
+      "time": "8:45 AM",
+      "dateText": "Monday, December 14, 2026 | 8:45 AM",
+      "dateISO": "2026-12-14T08:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Anastasia Tavarez"
+      ],
+      "location": "",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N6tl2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011BpvlYAC&d=%2Fa%2FVX000003wLf3%2FNQTXaWFokkhq39CzAEXM7AR.7Ebb0NvJNk8x.FPWV2M&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "NY-NoJ Holiday Party 2026",
+      "date": "2026-12-16",
+      "time": "7:00 PM",
+      "dateText": "Wednesday, December 16, 2026 | 7:00 PM",
+      "dateISO": "2026-12-16T19:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "status": "Published",
+      "leaders": [
+        "John Power"
+      ],
+      "location": "New York, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N67N2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000119bH8YAI&d=%2Fa%2FVX000003wHwP%2FJewmxCQqsONwPEyBykGWRExcyJHbtAehU9_aMDWfFGY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Introduction to Winter Backpacking in the Central Adirondacks (Dec 18-21, 2026)",
+      "date": "2026-12-18",
+      "time": "5:00 PM",
+      "dateText": "Friday, December 18, 2026 | 5:00 PM",
+      "dateISO": "2026-12-18T17:00:00-05:00",
+      "activityType": "Backpacking",
+      "subType": "Backpacking",
+      "status": "Published",
+      "leaders": [
+        "David Mong"
+      ],
+      "location": "Tupper Lake, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000019vT72AI",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000Z7fzxYAB&d=%2Fa%2FUN000008ctdB%2FmIpaTDsvFIhA49DLrhzh0jhdhOk6TVFgQdwvIA0ytTg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Catskills Backcountry Ski Touring - 12/20/26",
+      "date": "2026-12-20",
+      "time": "9:00 AM",
+      "dateText": "Sunday, December 20, 2026 | 9:00 AM",
+      "dateISO": "2026-12-20T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "status": "Published",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "West Kill, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTpd2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zI5KfYAK&d=%2Fa%2FVX000003qcNd%2FhlseR.MbIe4AN3N4Nxr8r0M2cL2TwKMIMq47EsjYVSs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Solstice Phone Photo Walk: Bookstores with Coffee Shops in Manhattan",
+      "date": "2026-12-20",
+      "time": "12:00 PM",
+      "dateText": "Sunday, December 20, 2026 | 12:00 PM",
+      "dateISO": "2026-12-20T12:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "status": "Published",
+      "leaders": [
+        "Rebeca Galbinski"
+      ],
+      "location": "New York, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8XN2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GPERYA4&d=%2Fa%2FVX000003wUon%2FzfjLfNLlwkSPYHHuKbErMMmqOu4lrc3AZP9_1eIR.yI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Uphill Skiing at Mohawk Mountain, CT (alpine touring)",
+      "date": "2027-01-03",
+      "time": "9:00 AM",
+      "dateText": "Sunday, January 3, 2027 | 9:00 AM",
+      "dateISO": "2027-01-03T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "status": "Published",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "Cornwall, CT",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001IwzR2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wh0GPYAY&d=%2Fa%2FVX000003iZOX%2F.j48z0FeaQsau_0nvJhf0o5FIcjxGhRpuqP9UajLJhQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "MLK Weekend Tug Hill Ski Touring - Go With The Snow!",
+      "date": "2027-01-15",
+      "time": "6:00 PM",
+      "dateText": "Friday, January 15, 2027 | 6:00 PM",
+      "dateISO": "2027-01-15T18:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "status": "Waitlist",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "Boonville, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Iucf2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wg16MYAQ&d=%2Fa%2FVX000003iTML%2F8qHMdlrlpixB6HAce.4Zh_fgCwsrr6y6KLG.ePUVaMk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Black Head and MAYBE Black Dome in the Catskills (Strenuous)",
+      "date": "2027-01-23",
+      "time": "8:00 AM",
+      "dateText": "Saturday, January 23, 2027",
+      "dateISO": "2027-01-23T08:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "windham, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Hst32AC",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Annual NY-NoJ Leaders get together",
+      "date": "2027-01-30",
+      "time": "9:30 AM",
+      "dateText": "Saturday, January 30, 2027 | 9:30 AM",
+      "dateISO": "2027-01-30T09:30:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "status": "Published",
+      "leaders": [
+        "Ed Spirko"
+      ],
+      "location": "Mahwah, NJ",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCG12AO",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Climb the Twins and Indian Head in the Catskills (Vigorous)",
+      "date": "2027-02-20",
+      "time": "8:00 AM",
+      "dateText": "Saturday, February 20, 2027",
+      "dateISO": "2027-02-20T08:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "haines Falls, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Hsxt2AC",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "AMC NY-NoJ Winter Skills Workshop - Central Adirondacks - Feb 22-26, 2027 (Mon to Fri)",
+      "date": "2027-02-22",
+      "time": "5:00 PM",
+      "dateText": "Monday, February 22, 2027 | 5:00 PM",
+      "dateISO": "2027-02-22T17:00:00-05:00",
+      "activityType": "Backpacking",
+      "subType": "Backpacking",
+      "status": "Published",
+      "leaders": [
+        "David Mong"
+      ],
+      "location": "Tupper Lake, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000019vPt2AI",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000eurx4YAA&d=%2Fa%2FVX000002jNQj%2FLihIj5CfWAlapg2D45DviFMx7JEvzH0kgAeBaSZreJI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Climb Bear Pen & Vly in the Catskills (Vigorous)",
+      "date": "2027-03-06",
+      "time": "8:00 AM",
+      "dateText": "Saturday, March 6, 2027",
+      "dateISO": "2027-03-06T08:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "status": "Published",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "fleishmans, NY",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001HuJl2AK",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Wilderness First Aid",
+      "date": "2027-03-27",
+      "time": "8:30 AM",
+      "dateText": "Saturday, March 27, 2027 | 8:30 AM",
+      "dateISO": "2027-03-27T08:30:00-05:00",
+      "activityType": "Wilderness First Aid",
+      "subType": "Wilderness First Aid",
+      "status": "Published",
+      "leaders": [
+        "Richard Dabal"
+      ],
+      "location": "Ringwood, NJ",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N4bp2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000e79xNYAQ&d=%2Fa%2FVX000002g8o1%2FEACVe_ZNP8vthLPnAEcdAB6DNy7Uzi.vvSScyuf0BZY&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
+      "title": "Wilderness First Aid",
+      "date": "2027-04-24",
+      "time": "8:30 AM",
+      "dateText": "Saturday, April 24, 2027 | 8:30 AM",
+      "dateISO": "2027-04-24T08:30:00-05:00",
+      "activityType": "Wilderness First Aid",
+      "subType": "Wilderness First Aid",
+      "status": "Published",
+      "leaders": [
+        "Richard Dabal"
+      ],
+      "location": "Ringwood, NJ",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N4wn2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000e79xNYAQ&d=%2Fa%2FVX000002g8o1%2FEACVe_ZNP8vthLPnAEcdAB6DNy7Uzi.vvSScyuf0BZY&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
+      "title": "SAVE THE DATE!  2027 AMC New York–North Jersey Chapter Annual Picnic Weekend  June 4–6, 2027",
+      "date": "2027-06-04",
+      "time": "3:00 PM",
+      "dateText": "Friday, June 4, 2027 | 3:00 PM",
+      "dateISO": "2027-06-04T15:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Festivals & Celebrations",
+      "status": "Published",
+      "leaders": [
+        "Anastasia Tavarez"
+      ],
+      "location": "",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NDAT2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jOI1YAM&d=%2Fa%2FVX000003xGNB%2F5PKpXQ8BGnevWYFOZS2cnLa80JRP4NpOO0Epo8xKqCs&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    }
+  ]
+}
