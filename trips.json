@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-16T17:39:04.682Z",
+  "fetchedAt": "2026-11-16T17:41:00.144Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 17,
+  "count": 20,
   "trips": [
     {
       "title": "Biking - Bethpage to Jones Beach on Bike Path and Quiet Roads",
@@ -205,6 +205,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Intro to Trails - Virtual Training",
+      "date": "2026-12-09",
+      "time": "6:00 PM",
+      "dateText": "Wednesday, December 9, 2026 | 6:00 PM",
+      "dateISO": "2026-12-09T18:00:00-05:00",
+      "activityType": "Trail Work",
+      "subType": "Trail Work",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Patricia McGuire"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9Wf2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011NQdTYAW&d=%2Fa%2FVX000003wh9J%2FL5290Gl4m5IlYAyoXy9sLzFZKvLgLClFoZ7RmKErGiM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Beacon to Bald Hill Hike (Vigorous)",
       "date": "2026-12-12",
       "time": "9:00 AM",
@@ -245,6 +265,26 @@
       "openForRegistration": true
     },
     {
+      "title": "AMC Virtual Town Hall sponsored by the AMC President's Society",
+      "date": "2026-12-17",
+      "time": "4:00 PM",
+      "dateText": "Thursday, December 17, 2026 | 4:00 PM",
+      "dateISO": "2026-12-17T16:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Festivals & Celebrations",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Luke Gerard Moss Bartol"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LZ5R2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zVHO4YAO&d=%2Fa%2FVX000003rB8T%2F760XJM6VSkmTgskrUCuvBqeYiGDmfpEo88wiJJOEe2c&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Winter Solstice Phone Photo Walk: Bookstores with Coffee Shops in Manhattan",
       "date": "2026-12-20",
       "time": "12:00 PM",
@@ -262,6 +302,26 @@
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8XN2A0",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GPERYA4&d=%2Fa%2FVX000003wUon%2FzfjLfNLlwkSPYHHuKbErMMmqOu4lrc3AZP9_1eIR.yI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Effective Meeting Facilitation Workshop",
+      "date": "2027-01-20",
+      "time": "5:30 PM",
+      "dateText": "Wednesday, January 20, 2027 | 5:30 PM",
+      "dateISO": "2027-01-20T17:30:00-05:00",
+      "activityType": "Outdoor Leadership Training",
+      "subType": "Outdoor Leadership Training",
+      "programType": "Professional Guides",
+      "status": "Published",
+      "leaders": [
+        "AMC Outdoor Learning"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MYyX2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010Vy5sYAC&d=%2Fa%2FVX000003uI0X%2FGZZVyDSUc6ADNdf_zd40FLWHF5F_0.hPma3or5idFTI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
