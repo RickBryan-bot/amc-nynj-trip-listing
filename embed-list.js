@@ -14,6 +14,10 @@
 #amc-trips-embed .amc-trips-chips{display:flex;flex-wrap:wrap;gap:8px}
 #amc-trips-embed .amc-trips-chip{background:rgba(255,255,255,.16);color:#fff;border:1px solid rgba(255,255,255,.35);border-radius:999px;padding:5px 12px;font-size:13px;cursor:pointer;text-decoration:none}
 #amc-trips-embed .amc-trips-chip:hover{background:rgba(255,255,255,.3)}
+#amc-trips-embed .amc-trips-sort{display:flex;gap:8px;margin-bottom:14px}
+#amc-trips-embed .amc-trips-sort button{background:transparent;color:#fff;border:1px solid rgba(255,255,255,.5);border-radius:999px;padding:6px 14px;font-size:13px;cursor:pointer}
+#amc-trips-embed .amc-trips-sort button:hover{background:rgba(255,255,255,.2)}
+#amc-trips-embed .amc-trips-sort button.amc-active{background:#fff;color:#14532d;border-color:#fff;font-weight:700}
 #amc-trips-embed .amc-trips-section{margin:34px 0 10px;font-size:26px;font-weight:700;color:#14532d;border-bottom:3px solid #14532d;padding-bottom:8px}
 #amc-trips-embed .amc-trips-count{font-size:14px;color:#666;font-weight:400}
 #amc-trips-embed .amc-trips-rows{margin-top:8px}
@@ -43,6 +47,10 @@
     <p class="amc-trips-note" id="amc-trips-note">Loading trips…</p>
     <input class="amc-trips-filter" id="amc-trips-filter" type="search"
       placeholder="Filter by name, place, or leader — try Catskills or Harriman" aria-label="Filter trips">
+    <div class="amc-trips-sort" id="amc-trips-sort">
+      <button type="button" id="amc-trips-sort-activity" class="amc-active">By activity</button>
+      <button type="button" id="amc-trips-sort-date">Sort by upcoming</button>
+    </div>
     <div class="amc-trips-chips" id="amc-trips-chips"></div>
   </div>
   <div id="amc-trips-list"></div>`;
@@ -61,6 +69,9 @@
   var noteEl = document.getElementById('amc-trips-note');
   var chipsEl = document.getElementById('amc-trips-chips');
   var filterEl = document.getElementById('amc-trips-filter');
+  var sortActivityBtn = document.getElementById('amc-trips-sort-activity');
+  var sortDateBtn = document.getElementById('amc-trips-sort-date');
+  var sortMode = 'activity';
   var trips = [];
   var live = false;
 
@@ -71,52 +82,70 @@
   function sectionId(name) {
     return 'amc-sec-' + name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
   }
+  function rowHtml(t, showType) {
+    var badge = '';
+    if (t.status === 'Full') badge = '<span class="amc-trip-badge full">Full</span>';
+    else if (t.status === 'Waitlist') badge = '<span class="amc-trip-badge waitlist">Waitlist</span>';
+    var dt = (t.dateText || '').split(' | ');
+    var meta = (showType ? esc(t.activityType) : esc(t.subType || t.activityType)) +
+      (showType && t.subType && t.subType !== t.activityType ? ' · ' + esc(t.subType) : '') +
+      (t.leaders && t.leaders.length ? ' · Led by ' + esc(t.leaders.join(', ')) : '') +
+      (t.online ? ' · Online' : '') +
+      (t.location ? ' · ' + esc(t.location) : '') +
+      (t.distanceMi != null ? ' · ' + esc(t.distanceMi) + ' mi' : '');
+    return '<div class="amc-trip-row">' +
+      '<div class="amc-trip-row-date">' + esc(dt[0]) + badge +
+      (dt[1] ? '<span class="amc-trip-row-time">' + esc(dt[1]) + '</span>' : '') + '</div>' +
+      '<div class="amc-trip-row-main">' +
+      '<a class="amc-trip-row-title" href="' + esc(t.url) + '">' + esc(t.title) + '</a>' +
+      '<p class="amc-trip-row-meta">' + meta + '</p>' +
+      '</div></div>';
+  }
   function render() {
     var q = (filterEl.value || '').toLowerCase();
-    var grouped = {};
-    trips.forEach(function (t) {
+    var filtered = trips.filter(function (t) {
       var hay = [t.title, t.location, (t.leaders || []).join(' '), t.activityType, t.online ? 'online' : ''].join(' ').toLowerCase();
-      if (q && hay.indexOf(q) === -1) return;
-      (grouped[t.activityType] = grouped[t.activityType] || []).push(t);
+      return !q || hay.indexOf(q) !== -1;
     });
     var html = '';
-    var shown = 0;
-    SECTION_ORDER.forEach(function (sec) {
-      var items = grouped[sec];
-      if (!items || !items.length) return;
-      shown += items.length;
-      html += '<h3 class="amc-trips-section" id="' + sectionId(sec) + '">' + esc(sec) +
-        ' <span class="amc-trips-count">(' + items.length + ')</span></h3><div class="amc-trips-rows">';
-      items.forEach(function (t) {
-        var badge = '';
-        if (t.status === 'Full') badge = '<span class="amc-trip-badge full">Full</span>';
-        else if (t.status === 'Waitlist') badge = '<span class="amc-trip-badge waitlist">Waitlist</span>';
-        var dt = (t.dateText || '').split(' | ');
-        var meta = esc(t.subType || t.activityType) +
-          (t.leaders && t.leaders.length ? ' · Led by ' + esc(t.leaders.join(', ')) : '') +
-          (t.online ? ' · Online' : '') +
-          (t.location ? ' · ' + esc(t.location) : '') +
-          (t.distanceMi != null ? ' · ' + esc(t.distanceMi) + ' mi' : '');
-        html += '<div class="amc-trip-row">' +
-          '<div class="amc-trip-row-date">' + esc(dt[0]) + badge +
-          (dt[1] ? '<span class="amc-trip-row-time">' + esc(dt[1]) + '</span>' : '') + '</div>' +
-          '<div class="amc-trip-row-main">' +
-          '<a class="amc-trip-row-title" href="' + esc(t.url) + '">' + esc(t.title) + '</a>' +
-          '<p class="amc-trip-row-meta">' + meta + '</p>' +
-          '</div></div>';
+    if (sortMode === 'date') {
+      // Flat chronological list: nearest first, regardless of activity type.
+      filtered.sort(function (a, b) { return a.dateISO.localeCompare(b.dateISO); });
+      html = '<div class="amc-trips-rows">' +
+        filtered.map(function (t) { return rowHtml(t, true); }).join('') + '</div>';
+      chipsEl.innerHTML = '';
+    } else {
+      var grouped = {};
+      filtered.forEach(function (t) {
+        (grouped[t.activityType] = grouped[t.activityType] || []).push(t);
       });
-      html += '</div>';
-    });
+      SECTION_ORDER.forEach(function (sec) {
+        var items = grouped[sec];
+        if (!items || !items.length) return;
+        html += '<h3 class="amc-trips-section" id="' + sectionId(sec) + '">' + esc(sec) +
+          ' <span class="amc-trips-count">(' + items.length + ')</span></h3><div class="amc-trips-rows">';
+        items.forEach(function (t) { html += rowHtml(t, false); });
+        html += '</div>';
+      });
+      chipsEl.innerHTML = SECTION_ORDER.filter(function (s) { return grouped[s]; }).map(function (s) {
+        return '<a class="amc-trips-chip" href="#' + sectionId(s) + '">' + esc(s) + ' (' + grouped[s].length + ')</a>';
+      }).join('');
+    }
     listEl.innerHTML = html || '<p class="amc-trips-empty">No trips match that filter.</p>';
-    chipsEl.innerHTML = SECTION_ORDER.filter(function (s) { return grouped[s]; }).map(function (s) {
-      return '<a class="amc-trips-chip" href="#' + sectionId(s) + '">' + esc(s) + ' (' + grouped[s].length + ')</a>';
-    }).join('');
     noteEl.innerHTML = live
       ? 'Updated ' + esc(new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })) +
         ' · ' + trips.length + ' upcoming trips · <a href="' + DIRECTORY_URL + '">See the full live directory</a>'
       : 'Snapshot from November 16, 2026 · ' + trips.length + ' upcoming trips · ' +
         '<a href="' + DIRECTORY_URL + '">See the full live directory</a>';
   }
+  function setSort(mode) {
+    sortMode = mode;
+    sortActivityBtn.classList.toggle('amc-active', mode === 'activity');
+    sortDateBtn.classList.toggle('amc-active', mode === 'date');
+    render();
+  }
+  sortActivityBtn.addEventListener('click', function () { setSort('activity'); });
+  sortDateBtn.addEventListener('click', function () { setSort('date'); });
   filterEl.addEventListener('input', render);
   fetch(TRIPS_URL)
     .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
