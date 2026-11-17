@@ -1,5 +1,5 @@
 # Fetches the NY-North Jersey trip list from the AMC Activities Directory
-# every morning and publishes the result as trips.json at the repo root.
+# every four hours and publishes the result as trips.json at the repo root.
 # GitHub Pages (Settings -> Pages -> Deploy from a branch -> main, / (root))
 # then serves it at https://<user>.github.io/<repo>/trips.json
 # The amc-ny.org page reads that URL with the browser-side embed snippet.
@@ -7,8 +7,9 @@ name: Fetch AMC trips
 
 on:
   schedule:
-    # 07:00 UTC daily = 2:00 AM EST / 3:00 AM EDT
-    - cron: '0 7 * * *'
+    # Every 4 hours: 00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC
+    # = 7 PM, 11 PM, 3 AM, 7 AM, 11 AM, 3 PM EST (an hour later in EDT)
+    - cron: '0 */4 * * *'
   workflow_dispatch:  # allow a manual run from the Actions tab
 
 permissions:
