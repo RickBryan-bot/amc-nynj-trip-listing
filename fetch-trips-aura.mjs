@@ -14,41 +14,40 @@
 //     Staff Activities and Naturalist Program are real types elsewhere
 //     but have zero NY-NoJ activities)
 //   - PLUS chapter-independent program types, fetched with separate
-//     chapterless calls and merged in (deduped by Id). The 100-mile
+//     chapterless calls and merged in (deduped by Id). The 500-mile
 //     filter applies to their in-person trips; online events from all
 //     calls are included (see the online rule below):
-//       "Professional Guides" — 19 records; two within 100 miles:
-//         NOLS Wilderness First Aid - NY/NJ, May 22 2027, Harriman
-//         Outdoor Center, 30.9 mi; NOLS Wilderness First Aid -
-//         Connecticut, May 29 2027, Litchfield, 76.8 mi. (The directory
-//         label "AMC Professional Guides" matches nothing; the value is
-//         "Professional Guides".)
+//       "Professional Guides" — 19 records; all within 500 miles
+//         (NOLS WFA courses across New England, the farthest in
+//         Maine at ~304 mi). (The directory label "AMC Professional
+//         Guides" matches nothing; the value is "Professional Guides".)
 //       "Naturalist Program" — 42 records, all at the White Mountain
-//         lodges (Carroll / Gorham, NH), 272+ mi away: none within
-//         100 miles as of Nov 16, 2026.
-//       "Staff Activities" — 10 records: 4 online, one within 100
-//         miles (Rock Work Training, Philadelphia, 80.4 mi, Nov 21
-//         2026), the rest in Amherst / Boston MA, Jackson NH and
-//         Greenville ME: none within 100 miles as of Nov 16, 2026.
-//     Naturalist still adds no in-person trips, but the calls are in
-//     place so any future nearby Naturalist / Staff activity appears
-//     automatically. Their online events ARE included (see the online
-//     rule below).
+//         lodges (Carroll / Gorham, NH), 272+ mi away: all within
+//         500 miles as of Nov 16, 2026.
+//       "Staff Activities" — 10 records: 4 online, the rest in
+//         Philadelphia, Amherst / Boston MA, Jackson NH and
+//         Greenville ME: all within 500 miles as of Nov 16, 2026.
+//     At 500 miles these calls add a large number of trips — the page
+//     is effectively the whole upcoming directory with coordinates.
+//     Their online events ARE included (see the online rule below).
 //   - online events are included, from every call (chapter and
 //     chapterless program types alike). They carry online:true,
 //     location '' and distanceMi null. (Nov 16 2026: the online
 //     filter was first added, then reversed the same day per Richard,
 //     and then widened to all online events, also per Richard — the
 //     AMC-wide virtual events he first had left out are in too.)
-//   - 100-mile radius around 5 W 63rd St, New York, NY
+//   - 500-mile radius around 5 W 63rd St, New York, NY
 //     (site-geocoded 40.770936, -73.980547). Uses the trip's own
 //     Start_Latitude__c/Start_Longitude__c with a haversine
-//     calculation. Widened Nov 16 evening from 60 to 100 miles per
-//     Richard — the Franny Reese hike (64.9 mi) was dropping out;
-//     100 mi is also the directory page's own default radius.
-//     (At 60 mi this reproduced the directory's Where filter exactly,
-//     verified Nov 16.) In-person trips with no coordinates are
-//     dropped, as the site does.
+//     calculation; the result is still stored as distanceMi on each
+//     trip, but the embeds no longer display it (removed Nov 16
+//     evening per Richard — the mileage confused participants).
+//     Widened Nov 16 evening from 100 to 500 miles per Richard;
+//     500 mi is the directory page's own maximum radius, so the
+//     page now shows effectively every upcoming activity with
+//     coordinates. (At 60 mi this reproduced the directory's Where
+//     filter exactly, verified Nov 16.) In-person trips with no
+//     coordinates are dropped, as the site does.
 // Usage: node fetch-trips-aura.mjs [chapterId]
 //   Default chapter: NY-North Jersey (0015000001Sg064AAB)
 // Output: trips.json — { fetchedAt, chapter, source, count, trips[] }
@@ -152,7 +151,7 @@ function toISO(dateStr, timeStr) {
 const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
 
 const HOME_LAT = 40.770936, HOME_LNG = -73.980547; // 5 W 63rd St, NY, NY (site geocode)
-const RADIUS_MI = 100;
+const RADIUS_MI = 500;
 
 function distanceMi(lat, lng) {
   const R = 3958.8, toRad = d => d * Math.PI / 180;
@@ -164,7 +163,7 @@ function distanceMi(lat, lng) {
 
 const trips = records
   .filter(a => a.Start_Date__c && a.Start_Date__c >= today)
-  .filter(a => { // online: included from every call; in-person: 100-mile radius
+  .filter(a => { // online: included from every call; in-person: 500-mile radius
     if (a.Online_Event__c) return true;
     const lat = a.Start_Latitude__c, lng = a.Start_Longitude__c;
     return lat && lng && distanceMi(lat, lng) <= RADIUS_MI;
