@@ -36,6 +36,14 @@
 //     filter was first added, then reversed the same day per Richard,
 //     and then widened to all online events, also per Richard — the
 //     AMC-wide virtual events he first had left out are in too.)
+//   - New Hampshire is excluded, per Richard (Nov 16, 2026): the
+//     500-mile radius pulls in the White Mountain lodge programs
+//     (Naturalist Program evening programs, nature walks, yoga) and
+//     other NH activities, which are not what chapter members are
+//     looking for. In-person trips whose Start_Location__c state is
+//     NH are dropped, from every call. Online events have no
+//     location and are unaffected. To exclude another state, add its
+//     two-letter code to EXCLUDED_STATES below.
 //   - 500-mile radius around 5 W 63rd St, New York, NY
 //     (site-geocoded 40.770936, -73.980547). Uses the trip's own
 //     Start_Latitude__c/Start_Longitude__c with a haversine
@@ -152,6 +160,7 @@ const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/New_Yo
 
 const HOME_LAT = 40.770936, HOME_LNG = -73.980547; // 5 W 63rd St, NY, NY (site geocode)
 const RADIUS_MI = 500;
+const EXCLUDED_STATES = ['NH']; // state codes to drop, from every call (online events have no location)
 
 function distanceMi(lat, lng) {
   const R = 3958.8, toRad = d => d * Math.PI / 180;
@@ -163,7 +172,9 @@ function distanceMi(lat, lng) {
 
 const trips = records
   .filter(a => a.Start_Date__c && a.Start_Date__c >= today)
-  .filter(a => { // online: included from every call; in-person: 500-mile radius
+  .filter(a => { // online: included from every call; in-person: 500-mile radius, NH excluded
+    const loc = a.Start_Location__c || {};
+    if (EXCLUDED_STATES.includes(loc.stateCode) || EXCLUDED_STATES.includes(loc.state) || loc.state === 'New Hampshire') return false;
     if (a.Online_Event__c) return true;
     const lat = a.Start_Latitude__c, lng = a.Start_Longitude__c;
     return lat && lng && distanceMi(lat, lng) <= RADIUS_MI;
