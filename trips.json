@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-11-16T17:41:00.144Z",
+  "fetchedAt": "2026-11-17T02:00:46.107Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 20,
+  "count": 26,
   "trips": [
-    {
-      "title": "Biking - Bethpage to Jones Beach on Bike Path and Quiet Roads",
-      "date": "2026-11-16",
-      "time": "10:30 AM",
-      "dateText": "Monday, November 16, 2026 | 10:30 AM",
-      "dateISO": "2026-11-16T10:30:00-05:00",
-      "activityType": "Biking",
-      "subType": "Road",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Brian Lownds"
-      ],
-      "location": "Old Bethpage, NY",
-      "online": false,
-      "distanceMi": 26.8,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBv32AG",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011drUtYAI&d=%2Fa%2FVX000003x7wb%2Fx9pWZvcWF2YuUWIC9TAU7lRmte3hCBuIc8cZ026cST0&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Harriman: Orak & Reservoirs - 8 Miles (Moderate)",
       "date": "2026-11-18",
@@ -82,6 +62,26 @@
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND7F2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kqDzZYAU&d=%2Fa%2FVX0000036PGX%2FUredcZu2y3SjGqc5g8oVeXI8owGKm3yZ.WKijo.dS60&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Rock Work Training with AMC Trails",
+      "date": "2026-11-21",
+      "time": "9:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:00 AM",
+      "dateISO": "2026-11-21T09:00:00-05:00",
+      "activityType": "Trail Work",
+      "subType": "Trail Work",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Patricia McGuire"
+      ],
+      "location": "Philadelphia, PA",
+      "online": false,
+      "distanceMi": 80.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MWIP2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010TGQqYAO&d=%2Fa%2FVX000003u5T7%2FHgn.Ia_GDsF409xk_olo6EiEsZct_tj4SQdwkK2p5cQ&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -165,6 +165,26 @@
       "openForRegistration": true
     },
     {
+      "title": "FRANNY REESE STATE PARK (MODERATE)",
+      "date": "2026-11-22",
+      "time": "11:00 AM",
+      "dateText": "Sunday, November 22, 2026 | 11:00 AM",
+      "dateISO": "2026-11-22T11:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Steve Galla"
+      ],
+      "location": "Poughkeepsie, NY",
+      "online": false,
+      "distanceMi": 64.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8ab2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GER2YAO&d=%2Fa%2FVX000003wV89%2FkvqEKJx4sBAEaY8wJ.05vq3Zg1F10czLAErJqJpTB.g&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "2nd Annual Friendsgiving Phone Photo Walk: from LIC Queens to Greenpoint Brooklyn",
       "date": "2026-11-28",
       "time": "11:00 AM",
@@ -182,6 +202,26 @@
       "distanceMi": 1.8,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N5G92AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000117rwCYAQ&d=%2Fa%2FVX000003wC3t%2FqLDKhXJSXBN_kWKCyc3nySCOeLqhaygbEK1Lm6Z1NhA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Catskills Weekend Backcountry Ski Touring - 12/6/26",
+      "date": "2026-12-06",
+      "time": "9:00 AM",
+      "dateText": "Sunday, December 6, 2026 | 9:00 AM",
+      "dateISO": "2026-12-06T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "Big Indian, NY",
+      "online": false,
+      "distanceMi": 94.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LThZ2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zHqwkYAC&d=%2Fa%2FVX000003qcCL%2FtXhrzP1rQPjgOeCfU9WRAejP5AT76oRGf1GYhPvJqSE&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -305,6 +345,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Uphill Skiing at Mohawk Mountain, CT (alpine touring)",
+      "date": "2027-01-03",
+      "time": "9:00 AM",
+      "dateText": "Sunday, January 3, 2027 | 9:00 AM",
+      "dateISO": "2027-01-03T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Ronaldo Gonzalez"
+      ],
+      "location": "Cornwall, CT",
+      "online": false,
+      "distanceMi": 81.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001IwzR2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wh0GPYAY&d=%2Fa%2FVX000003iZOX%2F.j48z0FeaQsau_0nvJhf0o5FIcjxGhRpuqP9UajLJhQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Effective Meeting Facilitation Workshop",
       "date": "2027-01-20",
       "time": "5:30 PM",
@@ -325,6 +385,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Black Head and MAYBE Black Dome in the Catskills (Strenuous)",
+      "date": "2027-01-23",
+      "time": "8:00 AM",
+      "dateText": "Saturday, January 23, 2027",
+      "dateISO": "2027-01-23T08:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "windham, NY",
+      "online": false,
+      "distanceMi": 95.7,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Hst32AC",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "Annual NY-NoJ Leaders get together",
       "date": "2027-01-30",
       "time": "9:30 AM",
@@ -341,6 +421,26 @@
       "online": false,
       "distanceMi": 23.8,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCG12AO",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Climb Bear Pen & Vly in the Catskills (Vigorous)",
+      "date": "2027-03-06",
+      "time": "8:00 AM",
+      "dateText": "Saturday, March 6, 2027",
+      "dateISO": "2027-03-06T08:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Timothy Watters"
+      ],
+      "location": "fleishmans, NY",
+      "online": false,
+      "distanceMi": 98.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001HuJl2AK",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
@@ -401,6 +501,26 @@
       "online": false,
       "distanceMi": 30.9,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MPaH2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "NOLS Wilderness First Aid - Connecticut",
+      "date": "2027-05-29",
+      "time": "8:00 AM",
+      "dateText": "Saturday, May 29, 2027 | 8:00 AM",
+      "dateISO": "2027-05-29T08:00:00-05:00",
+      "activityType": "Wilderness First Aid",
+      "subType": "Wilderness First Aid",
+      "programType": "Professional Guides",
+      "status": "Published",
+      "leaders": [
+        "AMC Outdoor Learning"
+      ],
+      "location": "Litchfield, CT",
+      "online": false,
+      "distanceMi": 76.8,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MUq52AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     }
