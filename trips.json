@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-18T01:58:26.433Z",
+  "fetchedAt": "2026-11-18T12:31:01.424Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
   "count": 55,
@@ -205,26 +205,6 @@
       "openForRegistration": true
     },
     {
-      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
-      "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "John Power"
-      ],
-      "location": "Peekskill, NY",
-      "online": false,
-      "distanceMi": 36,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
       "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
       "date": "2026-11-21",
       "time": "10:00 AM",
@@ -242,6 +222,26 @@
       "distanceMi": 5.9,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "John Power"
+      ],
+      "location": "Peekskill, NY",
+      "online": false,
+      "distanceMi": 36,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
