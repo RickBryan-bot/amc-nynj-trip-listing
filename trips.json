@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-18T12:31:01.424Z",
+  "fetchedAt": "2026-11-18T22:47:55.073Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 55,
+  "count": 54,
   "trips": [
     {
       "title": "Harriman: Orak & Reservoirs - 8 Miles (Moderate)",
@@ -42,26 +42,6 @@
       "distanceMi": null,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JkL72AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xTKB3YAO&d=%2Fa%2FVX000003l46T%2F0EHwrPYwr0td20ZXkE3.hDnRmgciRDdCVRkm9IJ3CKY&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "AMC NY/NJ 20s and 30s Thirsty Thursday (Long Island City)",
-      "date": "2026-11-19",
-      "time": "6:30 PM",
-      "dateText": "Thursday, November 19, 2026 | 6:30 PM",
-      "dateISO": "2026-11-19T18:30:00-05:00",
-      "activityType": "Social",
-      "subType": "Local Socials",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "John Power"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 1.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND7F2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kqDzZYAU&d=%2Fa%2FVX0000036PGX%2FUredcZu2y3SjGqc5g8oVeXI8owGKm3yZ.WKijo.dS60&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -165,26 +145,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Conservation",
-      "subType": "Conservation",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eileen Yin"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 10.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
       "date": "2026-11-21",
       "time": "9:45 AM",
@@ -205,6 +165,46 @@
       "openForRegistration": true
     },
     {
+      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
+      "date": "2026-11-21",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Conservation",
+      "subType": "Conservation",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Eileen Yin"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 10.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "John Power"
+      ],
+      "location": "Peekskill, NY",
+      "online": false,
+      "distanceMi": 36,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
       "date": "2026-11-21",
       "time": "10:00 AM",
@@ -222,26 +222,6 @@
       "distanceMi": 5.9,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
-      "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "John Power"
-      ],
-      "location": "Peekskill, NY",
-      "online": false,
-      "distanceMi": 36,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -713,7 +693,7 @@
       "activityType": "Skiing",
       "subType": "Cross Country",
       "programType": "Staff Activities",
-      "status": "Published",
+      "status": "Full",
       "leaders": [
         "Luke Gerard Moss Bartol"
       ],
