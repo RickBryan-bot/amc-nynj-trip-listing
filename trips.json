@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-17T17:15:08.593Z",
+  "fetchedAt": "2026-11-18T01:58:26.433Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 52,
+  "count": 55,
   "trips": [
     {
       "title": "Harriman: Orak & Reservoirs - 8 Miles (Moderate)",
@@ -125,6 +125,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Public Transportation Hike : Bear Mountain Major Welch Trail",
+      "date": "2026-11-21",
+      "time": "8:15 AM",
+      "dateText": "Saturday, November 21, 2026 | 8:15 AM",
+      "dateISO": "2026-11-21T08:15:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Mari Ishihara"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 0.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NC6L2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011AwjBYAS&d=%2Fa%2FVX000003wKEL%2FjRxPBVI9zIxzvoV.d27NSAc6S3idyUesPgIY2tHwxJM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Rock Work Training with AMC Trails",
       "date": "2026-11-21",
       "time": "9:00 AM",
@@ -142,26 +162,6 @@
       "distanceMi": 80.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MWIP2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010TGQqYAO&d=%2Fa%2FVX000003u5T7%2FHgn.Ia_GDsF409xk_olo6EiEsZct_tj4SQdwkK2p5cQ&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Rebeca Galbinski"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 4.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -185,23 +185,23 @@
       "openForRegistration": true
     },
     {
-      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
+      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
       "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Local Walks",
       "programType": "Volunteer Led",
       "status": "Published",
       "leaders": [
-        "Tom Bergen"
+        "Rebeca Galbinski"
       ],
       "location": "New York, NY",
       "online": false,
-      "distanceMi": 5.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
+      "distanceMi": 4.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -222,6 +222,26 @@
       "distanceMi": 36,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Tom Bergen"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 5.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -262,6 +282,26 @@
       "distanceMi": 130.1,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MAEf2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100RPYYA2&d=%2Fa%2FVX000003sjw5%2FV.e0OfujpijqpogkeqpFqWZuGwbqmh_37Lk2nzRuIbo&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Mianus River Park (CT) Loop (Moderate)",
+      "date": "2026-11-23",
+      "time": "10:00 AM",
+      "dateText": "Monday, November 23, 2026 | 10:00 AM",
+      "dateISO": "2026-11-23T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Hank Zupnick"
+      ],
+      "location": "Greenwich, CT",
+      "online": false,
+      "distanceMi": 29.2,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NFAf2AO",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -325,26 +365,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Intro to Trails - Virtual Training",
-      "date": "2026-12-09",
-      "time": "6:00 PM",
-      "dateText": "Wednesday, December 9, 2026 | 6:00 PM",
-      "dateISO": "2026-12-09T18:00:00-05:00",
-      "activityType": "Trail Work",
-      "subType": "Trail Work",
-      "programType": "Staff Activities",
-      "status": "Published",
-      "leaders": [
-        "Patricia McGuire"
-      ],
-      "location": "",
-      "online": true,
-      "distanceMi": null,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9Wf2AK",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011NQdTYAW&d=%2Fa%2FVX000003wh9J%2FL5290Gl4m5IlYAyoXy9sLzFZKvLgLClFoZ7RmKErGiM&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "AMC President's Society Holiday Reception",
       "date": "2026-12-09",
       "time": "6:00 PM",
@@ -362,6 +382,26 @@
       "distanceMi": 186.7,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001FIKD2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010Ao38YAC&d=%2Fa%2FVX000003tCI9%2Fohhwu9WiTO3LmZFrNjkJs7tjaki9O2Ukdo.HzvV3UGs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Intro to Trails - Virtual Training",
+      "date": "2026-12-09",
+      "time": "6:00 PM",
+      "dateText": "Wednesday, December 9, 2026 | 6:00 PM",
+      "dateISO": "2026-12-09T18:00:00-05:00",
+      "activityType": "Trail Work",
+      "subType": "Trail Work",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Patricia McGuire"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9Wf2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011NQdTYAW&d=%2Fa%2FVX000003wh9J%2FL5290Gl4m5IlYAyoXy9sLzFZKvLgLClFoZ7RmKErGiM&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -645,6 +685,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Lake Placid - Mt. Van Hoevenberg XC Skiing",
+      "date": "2027-02-07",
+      "time": "4:30 PM",
+      "dateText": "Sunday, February 7, 2027 | 4:30 PM",
+      "dateISO": "2027-02-07T16:30:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Richard Cerruto"
+      ],
+      "location": "Lake Placid, NY",
+      "online": false,
+      "distanceMi": 238.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NExl2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011vB5mYAE&d=%2Fa%2FVX000003xZkn%2FQ0KA2XbtRxgTToYLshnF2KfjjLTFIh5jcYJSzx8OxX0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "President's Society Lodge to Lodge XC Ski Trip",
       "date": "2027-02-19",
       "time": "10:00 AM",
@@ -653,7 +713,7 @@
       "activityType": "Skiing",
       "subType": "Cross Country",
       "programType": "Staff Activities",
-      "status": "Full",
+      "status": "Published",
       "leaders": [
         "Luke Gerard Moss Bartol"
       ],
