@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-19T05:12:43.113Z",
+  "fetchedAt": "2026-11-19T16:57:38.787Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 54,
+  "count": 55,
   "trips": [
     {
       "title": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
@@ -125,26 +125,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Rebeca Galbinski"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 4.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
       "date": "2026-11-21",
       "time": "9:45 AM",
@@ -165,23 +145,23 @@
       "openForRegistration": true
     },
     {
-      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
       "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
       "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
+      "subType": "Local Walks",
       "programType": "Volunteer Led",
-      "status": "Full",
+      "status": "Published",
       "leaders": [
-        "John Power"
+        "Rebeca Galbinski"
       ],
-      "location": "Peekskill, NY",
+      "location": "New York, NY",
       "online": false,
-      "distanceMi": 36,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "distanceMi": 4.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -202,6 +182,26 @@
       "distanceMi": 5.9,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "John Power"
+      ],
+      "location": "Peekskill, NY",
+      "online": false,
+      "distanceMi": 36,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -262,6 +262,26 @@
       "distanceMi": 29.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NFAf2AO",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
+      "date": "2026-11-25",
+      "time": "9:30 AM",
+      "dateText": "Wednesday, November 25, 2026 | 9:30 AM",
+      "dateISO": "2026-11-25T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Dave Marx"
+      ],
+      "location": "Valley Cottage, NY",
+      "online": false,
+      "distanceMi": 25.8,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGWX2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000jf5bLYAQ&d=%2Fa%2FVX00000326qn%2FDUvDA_IjY3.md6AQQgHYuX4ocnc_PYXCQh61ncqE9KU&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
