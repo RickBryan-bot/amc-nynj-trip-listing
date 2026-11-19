@@ -1,47 +1,27 @@
 {
-  "fetchedAt": "2026-11-18T22:47:55.073Z",
+  "fetchedAt": "2026-11-19T05:12:43.113Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
   "count": 54,
   "trips": [
     {
-      "title": "Harriman: Orak & Reservoirs - 8 Miles (Moderate)",
-      "date": "2026-11-18",
-      "time": "9:30 AM",
-      "dateText": "Wednesday, November 18, 2026 | 9:30 AM",
-      "dateISO": "2026-11-18T09:30:00-05:00",
+      "title": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
+      "date": "2026-11-20",
+      "time": "9:00 AM",
+      "dateText": "Friday, November 20, 2026 | 9:00 AM",
+      "dateISO": "2026-11-20T09:00:00-05:00",
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
       "status": "Published",
       "leaders": [
-        "Hank Zupnick"
+        "Rolande Hodel"
       ],
       "location": "NY",
       "online": false,
-      "distanceMi": 29.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND5d2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
-      "title": "Calling all Skiers!  Open Meeting to Discuss Plans for this Ski Season",
-      "date": "2026-11-18",
-      "time": "8:00 PM",
-      "dateText": "Wednesday, November 18, 2026 | 8:00 PM",
-      "dateISO": "2026-11-18T20:00:00-05:00",
-      "activityType": "Social",
-      "subType": "Meetings",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Richard Bryan"
-      ],
-      "location": "",
-      "online": true,
-      "distanceMi": null,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JkL72AK",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xTKB3YAO&d=%2Fa%2FVX000003l46T%2F0EHwrPYwr0td20ZXkE3.hDnRmgciRDdCVRkm9IJ3CKY&oid=00D50000000cBTwEAM",
+      "distanceMi": 36.6,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGMr2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000124BEZYA2&d=%2Fa%2FVX000003xqs5%2F9XyFbUyDn5jpltleWdDEgKqBdUdMdJjczKCBEimnInI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -582,6 +562,26 @@
       "distanceMi": 199.7,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Iucf2AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wg16MYAQ&d=%2Fa%2FVX000003iTML%2F8qHMdlrlpixB6HAce.4Zh_fgCwsrr6y6KLG.ePUVaMk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "XC Skiing Mont-Sainte-Anne Quebec, Canada",
+      "date": "2027-01-18",
+      "time": "5:30 PM",
+      "dateText": "Monday, January 18, 2027 | 5:30 PM",
+      "dateISO": "2027-01-18T17:30:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Richard Cerruto"
+      ],
+      "location": "Québec, QC",
+      "online": false,
+      "distanceMi": 439.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGJd2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000123cyQYAQ&d=%2Fa%2FVX000003xqX7%2F0Huiq4LPZ.EVD3ZhK.yW10RPFAWEPAUPii_CWu1mq2M&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
