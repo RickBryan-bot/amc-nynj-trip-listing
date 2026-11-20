@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-19T16:57:38.787Z",
+  "fetchedAt": "2026-11-20T01:34:19.657Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 55,
+  "count": 54,
   "trips": [
     {
       "title": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
@@ -422,26 +422,6 @@
       "distanceMi": 107.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTo12AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zI4tFYAS&d=%2Fa%2FVX000003qcHB%2F084ZhiE1AjOq9ZvFBgZS3gghBMRgKnUd57IUTR2ol9g&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Appalachian Trail NY Hike: NY 9D to Old Albany Post Rd 8.6 mi (Vigorous)",
-      "date": "2026-12-14",
-      "time": "8:45 AM",
-      "dateText": "Monday, December 14, 2026 | 8:45 AM",
-      "dateISO": "2026-12-14T08:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Anastasia Tavarez"
-      ],
-      "location": "Cold Spring, NY",
-      "online": false,
-      "distanceMi": 45.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N6tl2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011BpvlYAC&d=%2Fa%2FVX000003wLf3%2FNQTXaWFokkhq39CzAEXM7AR.7Ebb0NvJNk8x.FPWV2M&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
