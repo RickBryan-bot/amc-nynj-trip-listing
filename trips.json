@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-20T01:34:19.657Z",
+  "fetchedAt": "2026-11-20T12:22:12.750Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 54,
+  "count": 56,
   "trips": [
     {
       "title": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
@@ -125,26 +125,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Conservation",
-      "subType": "Conservation",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eileen Yin"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 10.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
       "date": "2026-11-21",
       "time": "9:45 AM",
@@ -162,6 +142,26 @@
       "distanceMi": 4.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
+      "date": "2026-11-21",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Conservation",
+      "subType": "Conservation",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Eileen Yin"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 10.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -282,6 +282,26 @@
       "distanceMi": 25.8,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGWX2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000jf5bLYAQ&d=%2Fa%2FVX00000326qn%2FDUvDA_IjY3.md6AQQgHYuX4ocnc_PYXCQh61ncqE9KU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "EXPLORE NEW YORK BOTANICAL GARDEN TRAILS IN THE BRONX",
+      "date": "2026-11-25",
+      "time": "10:30 AM",
+      "dateText": "Wednesday, November 25, 2026 | 10:30 AM",
+      "dateISO": "2026-11-25T10:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Richard Perez"
+      ],
+      "location": "The Bronc, NY",
+      "online": false,
+      "distanceMi": 8.6,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHPN2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012C3waYAC&d=%2Fa%2FVX000003y0Y5%2FRXyDBYHyCRVoG4T3btHSjPkdLyIurA26R.IYOBJPBqw&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -422,6 +442,26 @@
       "distanceMi": 107.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTo12AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zI4tFYAS&d=%2Fa%2FVX000003qcHB%2F084ZhiE1AjOq9ZvFBgZS3gghBMRgKnUd57IUTR2ol9g&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Appalachian Trail NY Hike: NY 9D to Old Albany Post Rd 8.6 mi (Vigorous)",
+      "date": "2026-12-14",
+      "time": "8:45 AM",
+      "dateText": "Monday, December 14, 2026 | 8:45 AM",
+      "dateISO": "2026-12-14T08:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Anastasia Tavarez"
+      ],
+      "location": "West Point, NY",
+      "online": false,
+      "distanceMi": 42.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N6tl2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011BpvlYAC&d=%2Fa%2FVX000003wLf3%2FNQTXaWFokkhq39CzAEXM7AR.7Ebb0NvJNk8x.FPWV2M&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
