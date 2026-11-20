@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-20T12:22:12.750Z",
+  "fetchedAt": "2026-11-20T22:27:14.095Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 56,
+  "count": 58,
   "trips": [
     {
       "title": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
@@ -165,26 +165,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
-      "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Tom Bergen"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 5.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
       "date": "2026-11-21",
       "time": "10:00 AM",
@@ -202,6 +182,26 @@
       "distanceMi": 36,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Tom Bergen"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 5.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -262,6 +262,26 @@
       "distanceMi": 29.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NFAf2AO",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Eat The Day B4 Turkey Day In Little Italy Of The Bronx",
+      "date": "2026-11-25",
+      "time": "2:45 AM",
+      "dateText": "Wednesday, November 25, 2026 | 2:45 AM",
+      "dateISO": "2026-11-25T02:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Richard Perez"
+      ],
+      "location": "Bronx, NY",
+      "online": false,
+      "distanceMi": 7.2,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHQz2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012G3OTYA0&d=%2Fa%2FVX000003y4bh%2FggdjDRBAa0T76rSxCkX9IMyiw0C.SSFYBUJN9QtLUwI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -582,6 +602,26 @@
       "distanceMi": 81.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001IwzR2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wh0GPYAY&d=%2Fa%2FVX000003iZOX%2F.j48z0FeaQsau_0nvJhf0o5FIcjxGhRpuqP9UajLJhQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Indoor climbing evening - Hoboken",
+      "date": "2027-01-12",
+      "time": "7:00 PM",
+      "dateText": "Tuesday, January 12, 2027 | 7:00 PM",
+      "dateISO": "2027-01-12T19:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Alex de Chazal"
+      ],
+      "location": "Hoboken, NJ",
+      "online": false,
+      "distanceMi": 3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND412AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jHoPYAU&d=%2Fa%2FVX000003xGJx%2FKMDtFhd7pGYLNLOJ9bXNgyGo8WUuQ6qPm2f6QLiUt1s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
