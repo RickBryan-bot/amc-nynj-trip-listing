@@ -1,49 +1,9 @@
 {
-  "fetchedAt": "2026-11-21T04:55:21.798Z",
+  "fetchedAt": "2026-11-21T15:49:24.536Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 56,
+  "count": 53,
   "trips": [
-    {
-      "title": "Backpack/Basecamp on the Blackhead Range in the Northern Catskills",
-      "date": "2026-11-20",
-      "time": "1:45 PM",
-      "dateText": "Friday, November 20, 2026 | 1:45 PM",
-      "dateISO": "2026-11-20T13:45:00-05:00",
-      "activityType": "Backpacking",
-      "subType": "Backpacking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Russell Faller"
-      ],
-      "location": "Maplecrest, NY",
-      "online": false,
-      "distanceMi": 105.3,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Mj9B2AS",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010pBydYAE&d=%2Fa%2FVX000003vCIr%2F07sUnDweL26KH3Dk0Er8SjNsfI7HL_aAcgQDAv7sXsM&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Cold Weather Car Camping in VA",
-      "date": "2026-11-20",
-      "time": "3:00 PM",
-      "dateText": "Friday, November 20, 2026 | 3:00 PM",
-      "dateISO": "2026-11-20T15:00:00-05:00",
-      "activityType": "Camping",
-      "subType": "Lodges, Huts, Camps, Cabins, & Campsites",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Robert J Coia"
-      ],
-      "location": "Fort Valley, VA",
-      "online": false,
-      "distanceMi": 263.8,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MnxZ2AS",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010oPacYAE&d=%2Fa%2FVX000003v8K5%2FO3UrqwkCQ2oZdYXcQGMhiiMHEvd5afTOw0bV4VtmlgU&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Public Transportation Hike : Bear Mountain Major Welch Trail",
       "date": "2026-11-21",
@@ -85,26 +45,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Conservation",
-      "subType": "Conservation",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eileen Yin"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 10.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
       "date": "2026-11-21",
       "time": "9:45 AM",
@@ -125,23 +65,23 @@
       "openForRegistration": true
     },
     {
-      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
       "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Conservation",
+      "subType": "Conservation",
       "programType": "Volunteer Led",
-      "status": "Full",
+      "status": "Published",
       "leaders": [
-        "John Power"
+        "Eileen Yin"
       ],
-      "location": "Peekskill, NY",
+      "location": "New York, NY",
       "online": false,
-      "distanceMi": 36,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "distanceMi": 10.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -165,23 +105,23 @@
       "openForRegistration": true
     },
     {
-      "title": "FRANNY REESE STATE PARK (MODERATE)",
-      "date": "2026-11-22",
-      "time": "11:00 AM",
-      "dateText": "Sunday, November 22, 2026 | 11:00 AM",
-      "dateISO": "2026-11-22T11:00:00-05:00",
+      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
+      "date": "2026-11-21",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
+      "dateISO": "2026-11-21T10:00:00-05:00",
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
-      "status": "Published",
+      "status": "Full",
       "leaders": [
-        "Steve Galla"
+        "John Power"
       ],
-      "location": "Poughkeepsie, NY",
+      "location": "Peekskill, NY",
       "online": false,
-      "distanceMi": 64.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8ab2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GER2YAO&d=%2Fa%2FVX000003wV89%2FkvqEKJx4sBAEaY8wJ.05vq3Zg1F10czLAErJqJpTB.g&oid=00D50000000cBTwEAM",
+      "distanceMi": 36,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
