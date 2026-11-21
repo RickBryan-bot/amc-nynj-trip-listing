@@ -1,49 +1,9 @@
 {
-  "fetchedAt": "2026-11-20T22:27:14.095Z",
+  "fetchedAt": "2026-11-21T04:55:21.798Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 58,
+  "count": 56,
   "trips": [
-    {
-      "title": "West Mt. From Exit 19 @ 9 AM (Vigorous)",
-      "date": "2026-11-20",
-      "time": "9:00 AM",
-      "dateText": "Friday, November 20, 2026 | 9:00 AM",
-      "dateISO": "2026-11-20T09:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Rolande Hodel"
-      ],
-      "location": "NY",
-      "online": false,
-      "distanceMi": 36.6,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGMr2AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000124BEZYA2&d=%2Fa%2FVX000003xqs5%2F9XyFbUyDn5jpltleWdDEgKqBdUdMdJjczKCBEimnInI&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Johnsontown Circle 7.5 miles 9:30 am (Moderate)",
-      "date": "2026-11-20",
-      "time": "9:30 AM",
-      "dateText": "Friday, November 20, 2026 | 9:30 AM",
-      "dateISO": "2026-11-20T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Jay Beilis"
-      ],
-      "location": "Sloatsburg, NY",
-      "online": false,
-      "distanceMi": 29.8,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NEuX2AW",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
     {
       "title": "Backpack/Basecamp on the Blackhead Range in the Northern Catskills",
       "date": "2026-11-20",
@@ -125,26 +85,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Rebeca Galbinski"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 4.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
       "date": "2026-11-21",
       "time": "9:45 AM",
@@ -162,6 +102,26 @@
       "distanceMi": 10.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
+      "date": "2026-11-21",
+      "time": "9:45 AM",
+      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
+      "dateISO": "2026-11-21T09:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Rebeca Galbinski"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 4.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
