@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-11-22T15:48:18.651Z",
+  "fetchedAt": "2026-11-22T21:25:35.238Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 53,
+  "count": 52,
   "trips": [
-    {
-      "title": "CANCELLED:  FRANNY REESE STATE PARK (MODERATE)",
-      "date": "2026-11-22",
-      "time": "11:00 AM",
-      "dateText": "Sunday, November 22, 2026 | 11:00 AM",
-      "dateISO": "2026-11-22T11:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Steve Galla"
-      ],
-      "location": "Poughkeepsie, NY",
-      "online": false,
-      "distanceMi": 64.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8ab2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GER2YAO&d=%2Fa%2FVX000003wV89%2FkvqEKJx4sBAEaY8wJ.05vq3Zg1F10czLAErJqJpTB.g&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Animated Video Premiere - People of the New England Trail",
       "date": "2026-11-22",
@@ -142,7 +122,7 @@
       "distanceMi": 1.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIV72AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6pBYAS&d=%2Fa%2FVX000003yBrh%2FLfFYwGI.Bkd.zMceP6T0KhyXubYq3MQWlZEEeepKxo0&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
+      "openForRegistration": true
     },
     {
       "title": "Reeves Meadow 9:30 am (Moderate)",
@@ -182,10 +162,10 @@
       "distanceMi": 7,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIdB2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6qoYAC&d=%2Fa%2FVX000003yBtK%2F4k8uGSg9UwU6rTV24T9WkskI1Y.Zcdujju4ZUT442y0&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
+      "openForRegistration": true
     },
     {
-      "title": "Turkey Day Trot & Talk: South Mountain Reservation (NJ) #OptOutside (Strenuous)",
+      "title": "Turkey Day Trot & Talk: South Mountain Reservation (NJ) #OptOutside (Vigorous)",
       "date": "2026-11-28",
       "time": "8:30 AM",
       "dateText": "Saturday, November 28, 2026 | 8:30 AM",
@@ -201,8 +181,8 @@
       "online": false,
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIi12AG",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K5jRYAS&d=%2Fa%2FVX000003yBgP%2FRCq70Em_I_1dMXH1XwktPOOf8X4ti1K3rWnQPdoweFQ&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012KnMIYA0&d=%2Fa%2FVX000003yDK1%2F1CK7mpjHoNnGPE.mXln66RjbA_8nQ85hBCabRp8DnXc&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
     },
     {
       "title": "2nd Annual Friendsgiving Phone Photo Walk: from LIC Queens to Greenpoint Brooklyn",
@@ -242,7 +222,7 @@
       "distanceMi": 5.1,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIgP2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6xFYAS&d=%2Fa%2FVX000003yBwX%2FUZyI8UcB.ulrw6od_JR38wAUB94.hMq3LvUdLId0V28&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
+      "openForRegistration": true
     },
     {
       "title": "Catskills Weekend Backcountry Ski Touring - 12/6/26",
@@ -505,7 +485,7 @@
       "openForRegistration": true
     },
     {
-      "title": "Indoor climbing evening - Hoboken",
+      "title": "Social Event at Indoor climbing gym - Hoboken",
       "date": "2027-01-12",
       "time": "7:00 PM",
       "dateText": "Tuesday, January 12, 2027 | 7:00 PM",
