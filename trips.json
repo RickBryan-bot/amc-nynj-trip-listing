@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-11-22T04:14:47.246Z",
+  "fetchedAt": "2026-11-22T15:48:18.651Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 50,
+  "count": 53,
   "trips": [
-    {
-      "title": "Rock Work Training with AMC Trails",
-      "date": "2026-11-21",
-      "time": "9:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:00 AM",
-      "dateISO": "2026-11-21T09:00:00-05:00",
-      "activityType": "Trail Work",
-      "subType": "Trail Work",
-      "programType": "Staff Activities",
-      "status": "Published",
-      "leaders": [
-        "Patricia McGuire"
-      ],
-      "location": "Philadelphia, PA",
-      "online": false,
-      "distanceMi": 80.4,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MWIP2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010TGQqYAO&d=%2Fa%2FVX000003u5T7%2FHgn.Ia_GDsF409xk_olo6EiEsZct_tj4SQdwkK2p5cQ&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "CANCELLED:  FRANNY REESE STATE PARK (MODERATE)",
       "date": "2026-11-22",
@@ -145,6 +125,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Turkey Day Trot & Talk: Cold Spring to Beacon #OptOutside (Strenuous)",
+      "date": "2026-11-26",
+      "time": "6:30 AM",
+      "dateText": "Thursday, November 26, 2026 | 6:30 AM",
+      "dateISO": "2026-11-26T06:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Eltan Samoylov"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 1.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIV72AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6pBYAS&d=%2Fa%2FVX000003yBrh%2FLfFYwGI.Bkd.zMceP6T0KhyXubYq3MQWlZEEeepKxo0&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
       "title": "Reeves Meadow 9:30 am (Moderate)",
       "date": "2026-11-27",
       "time": "9:30 AM",
@@ -165,6 +165,46 @@
       "openForRegistration": true
     },
     {
+      "title": "Turkey Day Trot & Talk: Prospect Park Loop #OptOutside (Easy)",
+      "date": "2026-11-27",
+      "time": "10:00 AM",
+      "dateText": "Friday, November 27, 2026 | 10:00 AM",
+      "dateISO": "2026-11-27T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Eltan Samoylov"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 7,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIdB2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6qoYAC&d=%2Fa%2FVX000003yBtK%2F4k8uGSg9UwU6rTV24T9WkskI1Y.Zcdujju4ZUT442y0&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
+      "title": "Turkey Day Trot & Talk: South Mountain Reservation (NJ) #OptOutside (Strenuous)",
+      "date": "2026-11-28",
+      "time": "8:30 AM",
+      "dateText": "Saturday, November 28, 2026 | 8:30 AM",
+      "dateISO": "2026-11-28T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Eltan Samoylov"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 1.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIi12AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K5jRYAS&d=%2Fa%2FVX000003yBgP%2FRCq70Em_I_1dMXH1XwktPOOf8X4ti1K3rWnQPdoweFQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
       "title": "2nd Annual Friendsgiving Phone Photo Walk: from LIC Queens to Greenpoint Brooklyn",
       "date": "2026-11-28",
       "time": "11:00 AM",
@@ -183,6 +223,26 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N5G92AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000117rwCYAQ&d=%2Fa%2FVX000003wC3t%2FqLDKhXJSXBN_kWKCyc3nySCOeLqhaygbEK1Lm6Z1NhA&oid=00D50000000cBTwEAM",
       "openForRegistration": true
+    },
+    {
+      "title": "Turkey Day Trot & Talk: The Greenbelt (Staten Island) #OptOutside (Vigorous)",
+      "date": "2026-11-29",
+      "time": "9:30 AM",
+      "dateText": "Sunday, November 29, 2026 | 9:30 AM",
+      "dateISO": "2026-11-29T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Eltan Samoylov"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 5.1,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIgP2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6xFYAS&d=%2Fa%2FVX000003yBwX%2FUZyI8UcB.ulrw6od_JR38wAUB94.hMq3LvUdLId0V28&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
     },
     {
       "title": "Catskills Weekend Backcountry Ski Touring - 12/6/26",
