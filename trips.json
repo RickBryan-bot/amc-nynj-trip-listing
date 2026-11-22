@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-11-21T21:22:51.679Z",
+  "fetchedAt": "2026-11-22T04:14:47.246Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 53,
+  "count": 50,
   "trips": [
-    {
-      "title": "Public Transportation Hike : Bear Mountain Major Welch Trail",
-      "date": "2026-11-21",
-      "time": "8:15 AM",
-      "dateText": "Saturday, November 21, 2026 | 8:15 AM",
-      "dateISO": "2026-11-21T08:15:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Staff Activities",
-      "status": "Published",
-      "leaders": [
-        "Mari Ishihara"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 0.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NC6L2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011AwjBYAS&d=%2Fa%2FVX000003wKEL%2FjRxPBVI9zIxzvoV.d27NSAc6S3idyUesPgIY2tHwxJM&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Rock Work Training with AMC Trails",
       "date": "2026-11-21",
@@ -45,83 +25,23 @@
       "openForRegistration": true
     },
     {
-      "title": "Downtown Manhattan Phone Photo Walk & free Nutcracker Ballet",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Rebeca Galbinski"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 4.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8kH2AS",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011HHzZYAW&d=%2Fa%2FVX000003wXUv%2FoVBBoBkKx67NR49GSFPI5GPZu1p8odkfDGwoRHtS31s&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Shirley Chisholm State Park Shore Clean Up & Hike with NYS Parks & AMC",
-      "date": "2026-11-21",
-      "time": "9:45 AM",
-      "dateText": "Saturday, November 21, 2026 | 9:45 AM",
-      "dateISO": "2026-11-21T09:45:00-05:00",
-      "activityType": "Conservation",
-      "subType": "Conservation",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eileen Yin"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 10.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Jf3h2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000pKV3uYAG&d=%2Fa%2FVX000003LFgf%2FDUnPeV2AsD5e0A539TAejIQOZM70IeKsp6voTak0QKs&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Rockefeller Lookout with Fort Lee Historic Park and Carpenter's Stairs (Vigorous)",
-      "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Tom Bergen"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 5.9,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND2P2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011jAwdYAE&d=%2Fa%2FVX000003xGGj%2FqJADFFlgw1eDYDlisIBRJNAUIFCUs5HDv6eEeN_jDwA&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "20S & 30S ANTHONY'S NOSE HIKE (STRENUOUS)",
-      "date": "2026-11-21",
-      "time": "10:00 AM",
-      "dateText": "Saturday, November 21, 2026 | 10:00 AM",
-      "dateISO": "2026-11-21T10:00:00-05:00",
+      "title": "CANCELLED:  FRANNY REESE STATE PARK (MODERATE)",
+      "date": "2026-11-22",
+      "time": "11:00 AM",
+      "dateText": "Sunday, November 22, 2026 | 11:00 AM",
+      "dateISO": "2026-11-22T11:00:00-05:00",
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
-      "status": "Full",
+      "status": "Published",
       "leaders": [
-        "John Power"
+        "Steve Galla"
       ],
-      "location": "Peekskill, NY",
+      "location": "Poughkeepsie, NY",
       "online": false,
-      "distanceMi": 36,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ND8r2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "distanceMi": 64.9,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8ab2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GER2YAO&d=%2Fa%2FVX000003wV89%2FkvqEKJx4sBAEaY8wJ.05vq3Zg1F10czLAErJqJpTB.g&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -165,26 +85,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Eat The Day B4 Turkey Day In Little Italy Of The Bronx",
-      "date": "2026-11-25",
-      "time": "2:45 AM",
-      "dateText": "Wednesday, November 25, 2026 | 2:45 AM",
-      "dateISO": "2026-11-25T02:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Richard Perez"
-      ],
-      "location": "Bronx, NY",
-      "online": false,
-      "distanceMi": 7.2,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHQz2AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012G3OTYA0&d=%2Fa%2FVX000003y4bh%2FggdjDRBAa0T76rSxCkX9IMyiw0C.SSFYBUJN9QtLUwI&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
       "date": "2026-11-25",
       "time": "9:30 AM",
@@ -222,6 +122,46 @@
       "distanceMi": 8.6,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHPN2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012C3waYAC&d=%2Fa%2FVX000003y0Y5%2FRXyDBYHyCRVoG4T3btHSjPkdLyIurA26R.IYOBJPBqw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Eat The Day B4 Turkey Day In Little Italy Of The Bronx",
+      "date": "2026-11-25",
+      "time": "2:45 PM",
+      "dateText": "Wednesday, November 25, 2026 | 2:45 PM",
+      "dateISO": "2026-11-25T14:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Richard Perez"
+      ],
+      "location": "Bronx, NY",
+      "online": false,
+      "distanceMi": 7.2,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHQz2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012G3OTYA0&d=%2Fa%2FVX000003y4bh%2FggdjDRBAa0T76rSxCkX9IMyiw0C.SSFYBUJN9QtLUwI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Reeves Meadow 9:30 am (Moderate)",
+      "date": "2026-11-27",
+      "time": "9:30 AM",
+      "dateText": "Friday, November 27, 2026 | 9:30 AM",
+      "dateISO": "2026-11-27T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jay Beilis"
+      ],
+      "location": "Sloatsburg, NY",
+      "online": false,
+      "distanceMi": 29.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIQH2A4",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -285,26 +225,6 @@
       "openForRegistration": true
     },
     {
-      "title": "AMC President's Society Holiday Reception",
-      "date": "2026-12-09",
-      "time": "6:00 PM",
-      "dateText": "Wednesday, December 9, 2026 | 6:00 PM",
-      "dateISO": "2026-12-09T18:00:00-05:00",
-      "activityType": "Social",
-      "subType": "Festivals & Celebrations",
-      "programType": "Staff Activities",
-      "status": "Published",
-      "leaders": [
-        "Luke Gerard Moss Bartol"
-      ],
-      "location": "Boston, MA",
-      "online": false,
-      "distanceMi": 186.7,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001FIKD2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010Ao38YAC&d=%2Fa%2FVX000003tCI9%2Fohhwu9WiTO3LmZFrNjkJs7tjaki9O2Ukdo.HzvV3UGs&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Intro to Trails - Virtual Training",
       "date": "2026-12-09",
       "time": "6:00 PM",
@@ -322,6 +242,26 @@
       "distanceMi": null,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9Wf2AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011NQdTYAW&d=%2Fa%2FVX000003wh9J%2FL5290Gl4m5IlYAyoXy9sLzFZKvLgLClFoZ7RmKErGiM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "AMC President's Society Holiday Reception",
+      "date": "2026-12-09",
+      "time": "6:00 PM",
+      "dateText": "Wednesday, December 9, 2026 | 6:00 PM",
+      "dateISO": "2026-12-09T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Festivals & Celebrations",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Luke Gerard Moss Bartol"
+      ],
+      "location": "Boston, MA",
+      "online": false,
+      "distanceMi": 186.7,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001FIKD2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010Ao38YAC&d=%2Fa%2FVX000003tCI9%2Fohhwu9WiTO3LmZFrNjkJs7tjaki9O2Ukdo.HzvV3UGs&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
