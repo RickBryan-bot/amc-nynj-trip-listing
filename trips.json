@@ -1,27 +1,27 @@
 {
-  "fetchedAt": "2026-11-22T21:25:35.238Z",
+  "fetchedAt": "2026-11-23T04:54:54.734Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 52,
+  "count": 53,
   "trips": [
     {
-      "title": "Animated Video Premiere - People of the New England Trail",
+      "title": "Join AMC today and enjoy 50% off membership for a limited time.",
       "date": "2026-11-22",
-      "time": "1:00 PM",
-      "dateText": "Sunday, November 22, 2026 | 1:00 PM",
-      "dateISO": "2026-11-22T13:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Staff Activities",
+      "time": "All Day",
+      "dateText": "Sunday, November 22, 2026 | All Day",
+      "dateISO": "2026-11-22T00:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
       "status": "Published",
       "leaders": [
-        "Benjamin van der Hulst"
+        "Anastasia Tavarez"
       ],
-      "location": "Amherst, MA",
+      "location": "New York, NY",
       "online": false,
-      "distanceMi": 130.1,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MAEf2AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100RPYYA2&d=%2Fa%2FVX000003sjw5%2FV.e0OfujpijqpogkeqpFqWZuGwbqmh_37Lk2nzRuIbo&oid=00D50000000cBTwEAM",
+      "distanceMi": 4.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJML2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012LwLvYAK&d=%2Fa%2FVX000003yERN%2F6J1G5b31cVfdxmPac84NmVGSQbQKDNP2aiKxkZVer8s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -122,6 +122,26 @@
       "distanceMi": 1.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIV72AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6pBYAS&d=%2Fa%2FVX000003yBrh%2FLfFYwGI.Bkd.zMceP6T0KhyXubYq3MQWlZEEeepKxo0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Teatown Ossining NY (Moderate)",
+      "date": "2026-11-26",
+      "time": "9:00 AM",
+      "dateText": "Thursday, November 26, 2026 | 9:00 AM",
+      "dateISO": "2026-11-26T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Rolande Hodel"
+      ],
+      "location": "Ossining, NY",
+      "online": false,
+      "distanceMi": 31.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJEH2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012LaZvYAK&d=%2Fa%2FVX000003yE9d%2FekmaCVGcBPhk71lYVtx0uSXMb_t83jxdk3PeBtC5OK0&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
