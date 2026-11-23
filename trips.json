@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-11-23T04:54:54.734Z",
+  "fetchedAt": "2026-11-23T19:40:52.557Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 53,
+  "count": 54,
   "trips": [
-    {
-      "title": "Join AMC today and enjoy 50% off membership for a limited time.",
-      "date": "2026-11-22",
-      "time": "All Day",
-      "dateText": "Sunday, November 22, 2026 | All Day",
-      "dateISO": "2026-11-22T00:00:00-05:00",
-      "activityType": "Social",
-      "subType": "Local Socials",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Anastasia Tavarez"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 4.5,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJML2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012LwLvYAK&d=%2Fa%2FVX000003yERN%2F6J1G5b31cVfdxmPac84NmVGSQbQKDNP2aiKxkZVer8s&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Mianus River Park (CT) Loop (Moderate)",
       "date": "2026-11-23",
@@ -242,6 +222,46 @@
       "distanceMi": 5.1,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIgP2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6xFYAS&d=%2Fa%2FVX000003yBwX%2FUZyI8UcB.ulrw6od_JR38wAUB94.hMq3LvUdLId0V28&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Friendsgiving in Astoria: Lunch at Rio Market & Brigadoon Movie at MOMI",
+      "date": "2026-11-29",
+      "time": "10:45 AM",
+      "dateText": "Sunday, November 29, 2026 | 10:45 AM",
+      "dateISO": "2026-11-29T10:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Rebeca Galbinski"
+      ],
+      "location": "Astoria, NY",
+      "online": false,
+      "distanceMi": 3.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJm92AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012Nzu1YAC&d=%2Fa%2FVX000003yIbR%2Fn0jSPHx_kSvcW1biwnwF2ybbII.vNFJyMAKOYknDFqg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Public Transportation Hike : Tuxedo Claudius Smith Den (Moderate)",
+      "date": "2026-12-05",
+      "time": "8:45 AM",
+      "dateText": "Saturday, December 5, 2026 | 8:45 AM",
+      "dateISO": "2026-12-05T08:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Staff Activities",
+      "status": "Published",
+      "leaders": [
+        "Mari Ishihara"
+      ],
+      "location": "New York, NY",
+      "online": false,
+      "distanceMi": 1.5,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJ1N2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011AwjBYAS&d=%2Fa%2FVX000003wKEL%2FjRxPBVI9zIxzvoV.d27NSAc6S3idyUesPgIY2tHwxJM&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
