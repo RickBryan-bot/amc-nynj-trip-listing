@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-24T04:31:44.642Z",
+  "fetchedAt": "2026-11-24T19:13:58.610Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 55,
+  "count": 56,
   "trips": [
     {
       "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
@@ -105,26 +105,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Post Thanksgiving Fall Foliage Hike: Exploring Sterling Forest & Harriman State Park - Public Transportation Accessible (Vigorous)",
-      "date": "2026-11-27",
-      "time": "9:30 AM",
-      "dateText": "Friday, November 27, 2026",
-      "dateISO": "2026-11-27T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Gwen Hartstein"
-      ],
-      "location": "Tuxedo, NY",
-      "online": false,
-      "distanceMi": 33.4,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJqz2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
       "title": "Reeves Meadow 9:30 am (Moderate)",
       "date": "2026-11-27",
       "time": "9:30 AM",
@@ -141,6 +121,26 @@
       "online": false,
       "distanceMi": 29.3,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIQH2A4",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Post Thanksgiving Fall Foliage Hike: Exploring Sterling Forest & Harriman State Park - Public Transportation Accessible (Vigorous)",
+      "date": "2026-11-27",
+      "time": "9:30 AM",
+      "dateText": "Friday, November 27, 2026",
+      "dateISO": "2026-11-27T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Gwen Hartstein"
+      ],
+      "location": "Tuxedo, NY",
+      "online": false,
+      "distanceMi": 33.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJqz2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
@@ -202,6 +202,26 @@
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIi12AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012KnMIYA0&d=%2Fa%2FVX000003yDK1%2F1CK7mpjHoNnGPE.mXln66RjbA_8nQ85hBCabRp8DnXc&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Arden Point and Glenclyffe Loop Trail Fall Day Hike - Public Transportation Accessible (Moderate)",
+      "date": "2026-11-28",
+      "time": "9:30 AM",
+      "dateText": "Saturday, November 28, 2026",
+      "dateISO": "2026-11-28T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Gwen Hartstein"
+      ],
+      "location": "Philipstown, NY",
+      "online": false,
+      "distanceMi": 42.1,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000018UJh2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000anas1YAA&d=%2Fa%2FUN000008sgyX%2FiWi5LniXh86HKTZulkfOOSnfWp.MU3fc0WeZ9vqd0dg&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
