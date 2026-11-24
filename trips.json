@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-11-23T19:40:52.557Z",
+  "fetchedAt": "2026-11-24T04:31:44.642Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 54,
+  "count": 55,
   "trips": [
-    {
-      "title": "Mianus River Park (CT) Loop (Moderate)",
-      "date": "2026-11-23",
-      "time": "10:00 AM",
-      "dateText": "Monday, November 23, 2026 | 10:00 AM",
-      "dateISO": "2026-11-23T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Hank Zupnick"
-      ],
-      "location": "Greenwich, CT",
-      "online": false,
-      "distanceMi": 29.2,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NFAf2AO",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
     {
       "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
       "date": "2026-11-25",
@@ -125,6 +105,26 @@
       "openForRegistration": true
     },
     {
+      "title": "Post Thanksgiving Fall Foliage Hike: Exploring Sterling Forest & Harriman State Park - Public Transportation Accessible (Vigorous)",
+      "date": "2026-11-27",
+      "time": "9:30 AM",
+      "dateText": "Friday, November 27, 2026",
+      "dateISO": "2026-11-27T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Gwen Hartstein"
+      ],
+      "location": "Tuxedo, NY",
+      "online": false,
+      "distanceMi": 33.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJqz2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "Reeves Meadow 9:30 am (Moderate)",
       "date": "2026-11-27",
       "time": "9:30 AM",
@@ -142,6 +142,26 @@
       "distanceMi": 29.3,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIQH2A4",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Castle Rock at Hudson Highlands (Moderate)",
+      "date": "2026-11-27",
+      "time": "9:45 AM",
+      "dateText": "Friday, November 27, 2026 | 9:45 AM",
+      "dateISO": "2026-11-27T09:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Hank Zupnick"
+      ],
+      "location": "Garrison, NY",
+      "online": false,
+      "distanceMi": 41.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKK12AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000W2AbyYAF&d=%2Fa%2FUN0000086PlV%2F6ad1yoyzHpv39HVicF8vZehkQeq8PB6pNyxK9zSR5Wk&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
