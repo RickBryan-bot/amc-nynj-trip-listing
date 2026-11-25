@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-24T19:13:58.610Z",
+  "fetchedAt": "2026-11-25T03:16:12.132Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 56,
+  "count": 57,
   "trips": [
     {
       "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
@@ -542,6 +542,26 @@
       "distanceMi": 1.5,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8XN2A0",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GPERYA4&d=%2Fa%2FVX000003wUon%2FzfjLfNLlwkSPYHHuKbErMMmqOu4lrc3AZP9_1eIR.yI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "A walk in Saxon Woods (3.5 or 7 miles)",
+      "date": "2026-12-22",
+      "time": "10:00 AM",
+      "dateText": "Tuesday, December 22, 2026 | 10:00 AM",
+      "dateISO": "2026-12-22T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Hank Zupnick"
+      ],
+      "location": "White Plains, NY",
+      "online": false,
+      "distanceMi": 19.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLMX2A4",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
