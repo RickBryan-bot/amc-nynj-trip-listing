@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-25T13:45:05.784Z",
+  "fetchedAt": "2026-11-25T23:55:37.953Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 58,
+  "count": 57,
   "trips": [
     {
       "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
@@ -62,26 +62,6 @@
       "distanceMi": 7.2,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHQz2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012G3OTYA0&d=%2Fa%2FVX000003y4bh%2FggdjDRBAa0T76rSxCkX9IMyiw0C.SSFYBUJN9QtLUwI&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Turkey Day Trot & Talk: Cold Spring to Beacon #OptOutside (Strenuous)",
-      "date": "2026-11-26",
-      "time": "6:30 AM",
-      "dateText": "Thursday, November 26, 2026 | 6:30 AM",
-      "dateISO": "2026-11-26T06:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eltan Samoylov"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 1.4,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIV72AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6pBYAS&d=%2Fa%2FVX000003yBrh%2FLfFYwGI.Bkd.zMceP6T0KhyXubYq3MQWlZEEeepKxo0&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
