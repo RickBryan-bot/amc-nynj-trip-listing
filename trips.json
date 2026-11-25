@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-25T03:16:12.132Z",
+  "fetchedAt": "2026-11-25T13:45:05.784Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 57,
+  "count": 58,
   "trips": [
     {
       "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
@@ -762,6 +762,26 @@
       "distanceMi": 392.3,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LpQL2A0",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ziWcCYAU&d=%2Fa%2FVX000003rs5N%2FozFqcsGE71pqptxmIvngFOd_KMs2UlpqcXGx21V0Xdg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Backcountry Skiing – Mt. Greylock Weekend",
+      "date": "2027-02-20",
+      "time": "9:00 AM",
+      "dateText": "Saturday, February 20, 2027 | 9:00 AM",
+      "dateISO": "2027-02-20T09:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Martin Egan"
+      ],
+      "location": "Adams, MA",
+      "online": false,
+      "distanceMi": 135.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLWD2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012YGwjYAG&d=%2Fa%2FVX000003ydzF%2F3iRPihuKOGeiWq5y5WKcFRDWibKiDxMizt5mkypbbkY&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
