@@ -1,69 +1,9 @@
 {
-  "fetchedAt": "2026-11-25T23:55:37.953Z",
+  "fetchedAt": "2026-11-26T06:17:10.011Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
-  "count": 57,
+  "count": 54,
   "trips": [
-    {
-      "title": "Hiking - Hook Mountain Circular \"Plus\" - (Moderate)",
-      "date": "2026-11-25",
-      "time": "9:30 AM",
-      "dateText": "Wednesday, November 25, 2026 | 9:30 AM",
-      "dateISO": "2026-11-25T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Dave Marx"
-      ],
-      "location": "Valley Cottage, NY",
-      "online": false,
-      "distanceMi": 25.8,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGWX2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000jf5bLYAQ&d=%2Fa%2FVX00000326qn%2FDUvDA_IjY3.md6AQQgHYuX4ocnc_PYXCQh61ncqE9KU&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "EXPLORE NEW YORK BOTANICAL GARDEN TRAILS IN THE BRONX",
-      "date": "2026-11-25",
-      "time": "10:30 AM",
-      "dateText": "Wednesday, November 25, 2026 | 10:30 AM",
-      "dateISO": "2026-11-25T10:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Richard Perez"
-      ],
-      "location": "The Bronc, NY",
-      "online": false,
-      "distanceMi": 8.6,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHPN2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012C3waYAC&d=%2Fa%2FVX000003y0Y5%2FRXyDBYHyCRVoG4T3btHSjPkdLyIurA26R.IYOBJPBqw&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Eat The Day B4 Turkey Day In Little Italy Of The Bronx",
-      "date": "2026-11-25",
-      "time": "2:45 PM",
-      "dateText": "Wednesday, November 25, 2026 | 2:45 PM",
-      "dateISO": "2026-11-25T14:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Richard Perez"
-      ],
-      "location": "Bronx, NY",
-      "online": false,
-      "distanceMi": 7.2,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHQz2AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012G3OTYA0&d=%2Fa%2FVX000003y4bh%2FggdjDRBAa0T76rSxCkX9IMyiw0C.SSFYBUJN9QtLUwI&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Teatown Ossining NY (Moderate)",
       "date": "2026-11-26",
@@ -85,26 +25,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Reeves Meadow 9:30 am (Moderate)",
-      "date": "2026-11-27",
-      "time": "9:30 AM",
-      "dateText": "Friday, November 27, 2026 | 9:30 AM",
-      "dateISO": "2026-11-27T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Jay Beilis"
-      ],
-      "location": "Sloatsburg, NY",
-      "online": false,
-      "distanceMi": 29.3,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIQH2A4",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
       "title": "Post Thanksgiving Fall Foliage Hike: Exploring Sterling Forest & Harriman State Park - Public Transportation Accessible (Vigorous)",
       "date": "2026-11-27",
       "time": "9:30 AM",
@@ -121,6 +41,26 @@
       "online": false,
       "distanceMi": 33.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJqz2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Reeves Meadow 9:30 am (Moderate)",
+      "date": "2026-11-27",
+      "time": "9:30 AM",
+      "dateText": "Friday, November 27, 2026 | 9:30 AM",
+      "dateISO": "2026-11-27T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jay Beilis"
+      ],
+      "location": "Sloatsburg, NY",
+      "online": false,
+      "distanceMi": 29.3,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIQH2A4",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
