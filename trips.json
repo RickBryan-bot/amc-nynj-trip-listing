@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-26T06:17:10.011Z",
+  "fetchedAt": "2026-11-26T18:00:03.124Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
   "count": 54,
@@ -41,26 +41,6 @@
       "online": false,
       "distanceMi": 33.4,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJqz2AG",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
-      "title": "Reeves Meadow 9:30 am (Moderate)",
-      "date": "2026-11-27",
-      "time": "9:30 AM",
-      "dateText": "Friday, November 27, 2026 | 9:30 AM",
-      "dateISO": "2026-11-27T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Jay Beilis"
-      ],
-      "location": "Sloatsburg, NY",
-      "online": false,
-      "distanceMi": 29.3,
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIQH2A4",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
@@ -202,6 +182,26 @@
       "distanceMi": 3.3,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJm92AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012Nzu1YAC&d=%2Fa%2FVX000003yIbR%2Fn0jSPHx_kSvcW1biwnwF2ybbII.vNFJyMAKOYknDFqg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Harriman: Kakiat and Back (Strenuous)",
+      "date": "2026-12-02",
+      "time": "9:30 AM",
+      "dateText": "Wednesday, December 2, 2026 | 9:30 AM",
+      "dateISO": "2026-12-02T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Hank Zupnick"
+      ],
+      "location": "Montebello, NY",
+      "online": false,
+      "distanceMi": 26.4,
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMVV2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012gjiDYAQ&d=%2Fa%2FVX000003yus1%2Fr8GleY3SfVbHEwp99lxLtN5zY9CVqDEnMFnmDbaIgVg&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
