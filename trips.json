@@ -1,15 +1,21 @@
 {
-  "fetchedAt": "2026-11-27T17:59:47.083Z",
+  "fetchedAt": "2026-11-27T18:19:59.478Z",
   "chapter": "0015000001Sg064AAB",
   "chapters": [
     "0015000001Sg064AAB",
     "0015000001Sg06BAAR",
     "0015000001Sg05zAAB",
     "0015000001Sg05xAAB",
-    "0015000001Sg06DAAR"
+    "0015000001Sg06DAAR",
+    "0015000001Sg061AAB",
+    "0015000001Sg069AAB",
+    "0015000001Sg066AAB",
+    "0015000001Sg065AAB",
+    "0015000001Sg060AAB",
+    "0015000001Sg06EAAR"
   ],
-  "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB,0015000001Sg06BAAR,0015000001Sg05zAAB,0015000001Sg05xAAB,0015000001Sg06DAAR",
-  "count": 197,
+  "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB,0015000001Sg06BAAR,0015000001Sg05zAAB,0015000001Sg05xAAB,0015000001Sg06DAAR,0015000001Sg061AAB,0015000001Sg069AAB,0015000001Sg066AAB,0015000001Sg065AAB,0015000001Sg060AAB,0015000001Sg06EAAR",
+  "count": 294,
   "trips": [
     {
       "title": "Fast and Light - Post-Thanksgiving Hike at the Cape Cod Canal",
@@ -53,6 +59,28 @@
       "chapterName": "Connecticut",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NK5V2AW",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "20s/30s Black Friday hike in Arcadia",
+      "date": "2026-11-27",
+      "time": "9:30 AM",
+      "dateText": "Friday, November 27, 2026 | 9:30 AM",
+      "dateISO": "2026-11-27T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Catherine LiVolsi"
+      ],
+      "location": "West Greenwich, RI",
+      "online": false,
+      "distanceMi": 129,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBtR2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000dWJtvYAG&d=%2Fa%2FUN000009ALM9%2FQ7XEKSjKtF2QlOCwxVoGrcV8Y7kiWmH0.Ln9jqukqmc&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -142,6 +170,50 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MavV2AS",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
+    },
+    {
+      "title": "Day After Thanksgiving Hike at Callahan State Park",
+      "date": "2026-11-27",
+      "time": "10:00 AM",
+      "dateText": "Friday, November 27, 2026 | 10:00 AM",
+      "dateISO": "2026-11-27T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Pam Richardson"
+      ],
+      "location": "Framingham, MA",
+      "online": false,
+      "distanceMi": 168.4,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001L3Wz2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000yn7DvYAI&d=%2Fa%2FVX000003p5iH%2Fv9H9wi5voLmLlfXJRlmYWXbvHS2HS8OtYIRHB5Dc6xw&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
+      "title": "20s & 30s Hike at Leominster State Forest (Optional Social After)",
+      "date": "2026-11-27",
+      "time": "10:30 AM",
+      "dateText": "Friday, November 27, 2026 | 10:30 AM",
+      "dateISO": "2026-11-27T10:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Peter Eggleston"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 162.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N7Hx2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011ChePYAS&d=%2Fa%2FVX000003wNYn%2F.w0rOHIHleI.oMS7egHfET51SuIw9k_OGx_270JV9fM&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
     },
     {
       "title": "7 MILES BULLS ISLAND-LOCKATONG BLACK FRIDAY LOOP HIKE",
@@ -408,6 +480,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Old Town Hill, Newbury",
+      "date": "2026-11-28",
+      "time": "10:00 AM",
+      "dateText": "Saturday, November 28, 2026 | 10:00 AM",
+      "dateISO": "2026-11-28T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Robin Doyle"
+      ],
+      "location": "Newbury, MA",
+      "online": false,
+      "distanceMi": 212.1,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLnx2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "2nd Annual Friendsgiving Phone Photo Walk: from LIC Queens to Greenpoint Brooklyn",
       "date": "2026-11-28",
       "time": "11:00 AM",
@@ -449,6 +543,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9Wg2AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000eNMaHYAW&d=%2Fa%2FVX000002hBS5%2FpH7.MmHG8YjZB0kKB9F6f6my7UYXP62aBcmVdVyvUKg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Sunday Morning by India Point Park: Coffee & Walk 20s and 30s",
+      "date": "2026-11-29",
+      "time": "8:30 AM",
+      "dateText": "Sunday, November 29, 2026 | 8:30 AM",
+      "dateISO": "2026-11-29T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Christopher Vieira"
+      ],
+      "location": "Providence, RI",
+      "online": false,
+      "distanceMi": 152.9,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9LN2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011MOp1YAG&d=%2Fa%2FVX000003we09%2F_Wj3sF5c6_tLDreSx0QQYbXdsvBDCJAL0XPKW_tHPBk&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -494,6 +610,50 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NEph2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000g3OX4YAM&d=%2Fa%2FUN000009PTEX%2FGsfKpNuS5qoaM.cJ9gQbM62X6qn.SWJXrxeD2exNGnE&oid=00D50000000cBTwEAM",
       "openForRegistration": true
+    },
+    {
+      "title": "Hike the Boroughs - Boroughs Loop Trail (BLT1)",
+      "date": "2026-11-29",
+      "time": "9:30 AM",
+      "dateText": "Sunday, November 29, 2026",
+      "dateISO": "2026-11-29T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Marlborough, MA",
+      "online": false,
+      "distanceMi": 168.2,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMLp2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012gDfCYAU&d=%2Fa%2FVX000003ytsj%2FGVzteYG7zilu56DamR9sHS6E_ohszTKBXSDze1aWo_c&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Explore the Tompson Street Reservation in Autumn on the North Shore",
+      "date": "2026-11-29",
+      "time": "10:00 AM",
+      "dateText": "Sunday, November 29, 2026 | 10:00 AM",
+      "dateISO": "2026-11-29T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Jonathan Unger"
+      ],
+      "location": "Gloucester, MA",
+      "online": false,
+      "distanceMi": 211.7,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001K7Ub2AK",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": false
     },
     {
       "title": "Friendsgiving in Astoria: Lunch at Rio Market & Brigadoon Movie at MOMI",
@@ -584,6 +744,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Family Outings Leader Social  - open to all interested in leading families!",
+      "date": "2026-11-29",
+      "time": "5:00 PM",
+      "dateText": "Sunday, November 29, 2026 | 5:00 PM",
+      "dateISO": "2026-11-29T17:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Meetings",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Heather McCurdy"
+      ],
+      "location": "Medford, MA",
+      "online": false,
+      "distanceMi": 187.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NI6v2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012GpeTYAS&d=%2Fa%2FVX000003y705%2FmCRHFGU6uxrE.ExLv4h3kvK4h2Ng7uQfauP4.K6XllE&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Pachaug SF loop on Pachaug & Quinebaug Trails past Hell Hollow Pond",
       "date": "2026-11-30",
       "time": "9:45 AM",
@@ -628,6 +810,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Hiking with Trailwork in the Blue Hills",
+      "date": "2026-11-30",
+      "time": "10:00 AM",
+      "dateText": "Monday, November 30, 2026 | 10:00 AM",
+      "dateISO": "2026-11-30T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joanne Newton"
+      ],
+      "location": "MA",
+      "online": false,
+      "distanceMi": 180.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NDGv2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000NZr2bYAD&d=%2Fa%2FUN000006Sz1t%2FvFuZ3baesuaEr0T4czWXqeUSfXOlLkxXZwaQEikghw0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Backpacking Social & Planning Meeting",
       "date": "2026-11-30",
       "time": "4:30 PM",
@@ -669,6 +873,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MOcb2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000Wpc7aYAB&d=%2Fa%2FUN000008EgKX%2F_YL.T2N1KxAfFkF6CRvCfD3VrBg4VeNROys7PRyQwaU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20s/30s Blackstone Boulevard Park Walk",
+      "date": "2026-11-30",
+      "time": "6:30 PM",
+      "dateText": "Monday, November 30, 2026 | 6:30 PM",
+      "dateISO": "2026-11-30T18:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Local Walks",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Christopher Vieira"
+      ],
+      "location": "Providence, RI",
+      "online": false,
+      "distanceMi": 153.8,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLG52AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000MVcfSYAT&d=%2Fa%2FUN000006FQDF%2FXLhFXq89v4ZuI949pPzNAVQoLF4hYMYPj2n5PEAJJDk&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -782,6 +1008,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Whipple Hill and Arlington Reservoir on a Tuesday",
+      "date": "2026-12-01",
+      "time": "9:30 AM",
+      "dateText": "Tuesday, December 1, 2026 | 9:30 AM",
+      "dateISO": "2026-12-01T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Amy Kelliher"
+      ],
+      "location": "Lexington, MA",
+      "online": false,
+      "distanceMi": 185.1,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBJx2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011pYudYAE&d=%2Fa%2FVX000003xPAL%2F6sZQiJS.XrzFLkpzHvjHDNhY.K84bYr4iEHpZsNEZL8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "THE PROGRESSIVE HIKING SERIES - HIKE #11",
       "date": "2026-12-01",
       "time": "9:45 AM",
@@ -870,6 +1118,28 @@
       "openForRegistration": true
     },
     {
+      "title": "20s & 30s Cookie Swap",
+      "date": "2026-12-01",
+      "time": "6:00 PM",
+      "dateText": "Tuesday, December 1, 2026 | 6:00 PM",
+      "dateISO": "2026-12-01T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Kaitlyn Hung"
+      ],
+      "location": "Medford, MA",
+      "online": false,
+      "distanceMi": 187.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGDB2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000123JaqYAE&d=%2Fa%2FVX000003xpxd%2FfQOY7iKmuBzM9W4OG9kh1itRWAdp.PdDcAGM51i8cxY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "(20s/30s) New Haven New Member Urban Night Walk",
       "date": "2026-12-01",
       "time": "6:15 PM",
@@ -892,6 +1162,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Worcester December Book Club: A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon by Kevin Fedarko",
+      "date": "2026-12-01",
+      "time": "6:30 PM",
+      "dateText": "Tuesday, December 1, 2026 | 6:30 PM",
+      "dateISO": "2026-12-01T18:30:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Laura Reynolds"
+      ],
+      "location": "Worcester, MA",
+      "online": false,
+      "distanceMi": 152.8,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001KPo52AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000fJlbXYAS&d=%2Fa%2FVX000002kp6P%2FwYbSnpHSAhDvACBvY7Az0BFsHH9036Y0LJRCkz_jmX4&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Harriman: Kakiat and Back (Strenuous)",
       "date": "2026-12-02",
       "time": "9:30 AM",
@@ -911,6 +1203,28 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMVV2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012gjiDYAQ&d=%2Fa%2FVX000003yus1%2Fr8GleY3SfVbHEwp99lxLtN5zY9CVqDEnMFnmDbaIgVg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hike the Boroughs - Boroughs Loop Trail (BLT3)",
+      "date": "2026-12-02",
+      "time": "9:30 AM",
+      "dateText": "Wednesday, December 2, 2026",
+      "dateISO": "2026-12-02T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Southborough, MA",
+      "online": false,
+      "distanceMi": 167.1,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMNR2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012ftepYAA&d=%2Fa%2FVX000003yu2P%2F_akmGatr5osrxRsFxnGH6gpqrd4T1pANjbtN5hgjlhI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -1068,6 +1382,28 @@
       "openForRegistration": true
     },
     {
+      "title": "December Early Morning Fitness Hike",
+      "date": "2026-12-04",
+      "time": "6:00 AM",
+      "dateText": "Friday, December 4, 2026",
+      "dateISO": "2026-12-04T06:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Patricia Lambert"
+      ],
+      "location": "Westborough, MA",
+      "online": false,
+      "distanceMi": 160.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLj72AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012ZtPlYAK&d=%2Fa%2FVX000003yg4H%2FY4vxY.2Gvkhn.ZWrryy51.YZCH9iCnLmuon4Irzo7Jo&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Fall Nature Preserve Hike Series - #3 Stroud Preserve",
       "date": "2026-12-04",
       "time": "9:00 AM",
@@ -1087,6 +1423,50 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Mv8j2AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010wPVPYA2&d=%2Fa%2FVX000003vXqL%2FWSjlyNzi4Le4JrBurPZ7S3dYWwfmtkfF3KdkPqecX30&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Friday Hike of Assabet River National Wildlife Refuge",
+      "date": "2026-12-04",
+      "time": "10:00 AM",
+      "dateText": "Friday, December 4, 2026 | 10:00 AM",
+      "dateISO": "2026-12-04T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Kerry Leonard"
+      ],
+      "location": "Sudbury, MA",
+      "online": false,
+      "distanceMi": 172.3,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9tF2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011OzCXYA0&d=%2Fa%2FVX000003wiq9%2F35TemT7XLzmLYTZpsdYOlFiSeDdge0sOzW3F5Cy0lG8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "NH Mountaineering Committee Retreat",
+      "date": "2026-12-04",
+      "time": "5:00 PM",
+      "dateText": "Friday, December 4, 2026 | 5:00 PM",
+      "dateISO": "2026-12-04T17:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Meetings",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Adam Berthiaume"
+      ],
+      "location": "Bethel, ME",
+      "online": false,
+      "distanceMi": 298.8,
+      "chapter": "0015000001Sg060AAB",
+      "chapterName": "New Hampshire",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Mcqr2AC",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -1112,6 +1492,50 @@
       "openForRegistration": true
     },
     {
+      "title": "20s and 30s Social at The Guild PVD Beer Garden",
+      "date": "2026-12-04",
+      "time": "6:00 PM",
+      "dateText": "Friday, December 4, 2026 | 6:00 PM",
+      "dateISO": "2026-12-04T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Christopher Vieira"
+      ],
+      "location": "Providence, RI",
+      "online": false,
+      "distanceMi": 152,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9Jl2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000KiZoDYAV&d=%2Fa%2FUN000005snIb%2F_pJtnHb7KRb65Bq6T846B_n1qmlM69ao7kiBpbg14wk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "BCMC December Holiday Party",
+      "date": "2026-12-04",
+      "time": "7:30 PM",
+      "dateText": "Friday, December 4, 2026 | 7:30 PM",
+      "dateISO": "2026-12-04T19:30:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Rosy Cohane-Mann"
+      ],
+      "location": "Everett, MA",
+      "online": false,
+      "distanceMi": 188.4,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LOun2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zDf3wYAC&d=%2Fa%2FVX000003qRLl%2FWc_sCeA6YX44EPWY7RranVdTJ54.bIhchS7hIIOC13k&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Hike the CT AT : West Cornwall Rd.to Falls Village",
       "date": "2026-12-05",
       "time": "8:30 AM",
@@ -1131,6 +1555,50 @@
       "chapterName": "Connecticut",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MuPZ2A0",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010vzFxYAI&d=%2Fa%2FVX000003vWvt%2FRhI1l85Z2BF_f3hNZOIeciNm1Y6o7sZ7VuuBvHXyin0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "WHP:  Blue Hills Hike  1",
+      "date": "2026-12-05",
+      "time": "8:30 AM",
+      "dateText": "Saturday, December 5, 2026 | 8:30 AM",
+      "dateISO": "2026-12-05T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Rosa Zhang"
+      ],
+      "location": "Milton, MA",
+      "online": false,
+      "distanceMi": 179.7,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MjQv2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010iPa8YAE&d=%2Fa%2FVX000003uqIL%2FAl5sc.1YHpLoJ0OYyj2uvyZ81S.JbAO6t2xZnoDkcPM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Explore Your Inner Winter Hiker: Wachusett Mountain Gear Shakedown - Group A",
+      "date": "2026-12-05",
+      "time": "8:30 AM",
+      "dateText": "Saturday, December 5, 2026",
+      "dateISO": "2026-12-05T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Walter Lazarz, Sr."
+      ],
+      "location": "MA",
+      "online": false,
+      "distanceMi": 161,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LAbh2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ywus5YAA&d=%2Fa%2FVX000003pVpd%2F50pB_qC_4B38t11nnAxPqN5RmFKep4opmimf7nAiaWM&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -1178,6 +1646,28 @@
       "openForRegistration": true
     },
     {
+      "title": "20s and 30s Volunteering at Drumlin Farm",
+      "date": "2026-12-05",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 5, 2026 | 9:00 AM",
+      "dateISO": "2026-12-05T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Jason Bui"
+      ],
+      "location": "Lincoln, MA",
+      "online": false,
+      "distanceMi": 177.8,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKez2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000n2DY2YAM&d=%2Fa%2FVX000003EHIb%2FQ6L_yEROHU.SryODVFf9FgjqeKkTqdn9Qk8b2Z_cau4&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "AMAZING tree + HOLIDAY market! Short hike, Oaks & Valley Forge PA",
       "date": "2026-12-05",
       "time": "9:30 AM",
@@ -1197,6 +1687,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKAL2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012R2GzYAK&d=%2Fa%2FVX000003yPOP%2Fd96YGne_MhLv5bSnqGN98x1KSHhM_aKfn8uaSEJAhW0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Assabet River from Northboro to Hudson",
+      "date": "2026-12-05",
+      "time": "9:30 AM",
+      "dateText": "Saturday, December 5, 2026 | 9:30 AM",
+      "dateISO": "2026-12-05T09:30:00-05:00",
+      "activityType": "Paddling",
+      "subType": "Flatwater",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "David Miller"
+      ],
+      "location": "Marlboro, MA",
+      "online": false,
+      "distanceMi": 164.2,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGxx2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00001293t6YAA&d=%2Fa%2FVX000003xyZV%2FCrzaey5HmOBiufGjMGjRldTPZgXOpf3DvqxT7F_udwA&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -1310,6 +1822,72 @@
       "openForRegistration": true
     },
     {
+      "title": "2027 Ice Program Information Session and Skills Assessment",
+      "date": "2026-12-05",
+      "time": "10:00 AM",
+      "dateText": "Saturday, December 5, 2026 | 10:00 AM",
+      "dateISO": "2026-12-05T10:00:00-05:00",
+      "activityType": "Climbing & Mountaineering",
+      "subType": "Ice",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Ariana Wermer-Colan"
+      ],
+      "location": "",
+      "online": false,
+      "distanceMi": 186.8,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MJMn2AO",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "An Early Winter Willowdale Walk and Dance with the BCT",
+      "date": "2026-12-05",
+      "time": "10:00 AM",
+      "dateText": "Saturday, December 5, 2026 | 10:00 AM",
+      "dateISO": "2026-12-05T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jonathan Unger"
+      ],
+      "location": "Ipswich, MA",
+      "online": false,
+      "distanceMi": 207,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LmNd2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zbBcTYAU&d=%2Fa%2FVX000003rQp3%2FItvt3B..yZ8dOVn1DRIyvn.5ce123YAGGq9OTN9Pd7U&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Backpacking: Appalachian Trail near Front Royal, VA — 8.4 Miles",
+      "date": "2026-12-05",
+      "time": "10:30 AM",
+      "dateText": "Saturday, December 5, 2026 | 10:30 AM",
+      "dateISO": "2026-12-05T10:30:00-05:00",
+      "activityType": "Backpacking",
+      "subType": "Backpacking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Brian Finkle"
+      ],
+      "location": "Markham, VA",
+      "online": false,
+      "distanceMi": 251.1,
+      "chapter": "0015000001Sg06EAAR",
+      "chapterName": "Potomac",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M7Ld2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zvjIDYAY&d=%2Fa%2FVX000003sV0H%2FWdawP.JqF.VXPFSkJYZwmjzGgudBwuqpwEi8zuImaLg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "(20s/30s) Tromp on Mt Toby",
       "date": "2026-12-05",
       "time": "11:15 AM",
@@ -1376,6 +1954,28 @@
       "openForRegistration": true
     },
     {
+      "title": "WHP: Blue Hills Sunday",
+      "date": "2026-12-06",
+      "time": "All Day",
+      "dateText": "Sunday, December 6, 2026 | All Day",
+      "dateISO": "2026-12-06T00:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Pablo Trigo Mourino"
+      ],
+      "location": "Milton, MA",
+      "online": false,
+      "distanceMi": 179.7,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M7dN2AS",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "Catskills Weekend Backcountry Ski Touring - 12/6/26",
       "date": "2026-12-06",
       "time": "9:00 AM",
@@ -1395,6 +1995,50 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LThZ2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zHqwkYAC&d=%2Fa%2FVX000003qcCL%2FtXhrzP1rQPjgOeCfU9WRAejP5AT76oRGf1GYhPvJqSE&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Moose Hill Farm Loop",
+      "date": "2026-12-06",
+      "time": "9:00 AM",
+      "dateText": "Sunday, December 6, 2026 | 9:00 AM",
+      "dateISO": "2026-12-06T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Barbara Lightizer"
+      ],
+      "location": "Sharon, MA",
+      "online": false,
+      "distanceMi": 171.6,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBS12AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011rL22YAE&d=%2Fa%2FVX000003xRQg%2F7.6CGuhV3pRefTXmB_3O6XlewBeeqaajjdoQW3aZdTI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hike the Boroughs - Westboro Charm Bracelet (WCB4)",
+      "date": "2026-12-06",
+      "time": "9:30 AM",
+      "dateText": "Sunday, December 6, 2026",
+      "dateISO": "2026-12-06T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Westborough, MA",
+      "online": false,
+      "distanceMi": 159.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMP32AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012gTK5YAM&d=%2Fa%2FVX000003yuGv%2FJB6xOC4Qv6w1Xo017AuhcgNJwrzOcg7XKofXYERs5oQ&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -1486,6 +2130,50 @@
       "openForRegistration": true
     },
     {
+      "title": "AMC Boston 20s and 30s - 2026 Holiday Party",
+      "date": "2026-12-06",
+      "time": "6:00 PM",
+      "dateText": "Sunday, December 6, 2026 | 6:00 PM",
+      "dateISO": "2026-12-06T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "August Orlow"
+      ],
+      "location": "Boston, MA",
+      "online": false,
+      "distanceMi": 186,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLO92AO",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking with Trailwork in the Blue Hills",
+      "date": "2026-12-07",
+      "time": "10:00 AM",
+      "dateText": "Monday, December 7, 2026 | 10:00 AM",
+      "dateISO": "2026-12-07T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joanne Newton"
+      ],
+      "location": "MA",
+      "online": false,
+      "distanceMi": 180.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKQT2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000NZr2bYAD&d=%2Fa%2FUN000006Sz1t%2FvFuZ3baesuaEr0T4czWXqeUSfXOlLkxXZwaQEikghw0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Monday Evening Hike in Phoenixville",
       "date": "2026-12-07",
       "time": "6:30 PM",
@@ -1505,6 +2193,50 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHAr2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000Wpc7aYAB&d=%2Fa%2FUN000008EgKX%2F_YL.T2N1KxAfFkF6CRvCfD3VrBg4VeNROys7PRyQwaU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "December Early Morning Fitness Hike",
+      "date": "2026-12-08",
+      "time": "6:00 AM",
+      "dateText": "Tuesday, December 8, 2026 | 6:00 AM",
+      "dateISO": "2026-12-08T06:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Scott Turner"
+      ],
+      "location": "Westborough, MA",
+      "online": false,
+      "distanceMi": 160.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJiv2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Another Tuesday on the New England Trail",
+      "date": "2026-12-08",
+      "time": "7:00 AM",
+      "dateText": "Tuesday, December 8, 2026",
+      "dateISO": "2026-12-08T07:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Julie Huber"
+      ],
+      "location": "Amherst, MA",
+      "online": false,
+      "distanceMi": 130.3,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJpN2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012OIF6YAO&d=%2Fa%2FVX000003yJ9J%2FjCZqOKz6uZrWiCPUidDFgzGiGw24hYeU9.Py3oflzHM&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -1706,6 +2438,72 @@
       "openForRegistration": true
     },
     {
+      "title": "20s/30s Providence River After Work Walk",
+      "date": "2026-12-08",
+      "time": "6:00 PM",
+      "dateText": "Tuesday, December 8, 2026 | 6:00 PM",
+      "dateISO": "2026-12-08T18:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Christopher Vieira"
+      ],
+      "location": "Providence, RI",
+      "online": false,
+      "distanceMi": 152.3,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLHh2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012WIRbYAO&d=%2Fa%2FVX000003yZkL%2FsXYAxvyuZ2NrEKZjBjoK0Cn7mdQ8awBFr7LIPRITADE&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Boston Chapter Hiking/Backpacking Committee Meeting",
+      "date": "2026-12-08",
+      "time": "7:00 PM",
+      "dateText": "Tuesday, December 8, 2026 | 7:00 PM",
+      "dateISO": "2026-12-08T19:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Stephen Duly"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001EGHF2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000h3r8kYAA&d=%2Fa%2FVX000002s0eb%2FLV9OllSoT6cQKGBblXSHK4Gwxhx1nC1yZtTlGh.4GNA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20s & 30s book club: Bog Queen (novel)",
+      "date": "2026-12-08",
+      "time": "7:00 PM",
+      "dateText": "Tuesday, December 8, 2026 | 7:00 PM",
+      "dateISO": "2026-12-08T19:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Catherine Bentsen"
+      ],
+      "location": "Waltham, MA",
+      "online": false,
+      "distanceMi": 182.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MDdx2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000102oUtYAI&d=%2Fa%2FVX000003stFV%2F_sqEhZpLlx.ESOl4aPfRinbg_K6R9XloOwcxnTqPj20&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Sterling Forest Fire Tower and Sterling Ridge Loop Hike! 8 miles (Vigorous)",
       "date": "2026-12-09",
       "time": "9:00 AM",
@@ -1860,6 +2658,72 @@
       "openForRegistration": true
     },
     {
+      "title": "🎄🍻 A Little Christmas Cheer & Secret Santa Exchange! 🎁",
+      "date": "2026-12-10",
+      "time": "6:00 PM",
+      "dateText": "Thursday, December 10, 2026 | 6:00 PM",
+      "dateISO": "2026-12-10T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Carlos Moriella"
+      ],
+      "location": "Providence, RI",
+      "online": false,
+      "distanceMi": 152.1,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKGn2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012R6xMYAS&d=%2Fa%2FVX000003yQ5x%2FXkGVfr7ndAkM6.OGJWdNuaw9v6vtLaqbjYmyrwDpVGQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Avalanche Awareness",
+      "date": "2026-12-10",
+      "time": "7:00 PM",
+      "dateText": "Thursday, December 10, 2026 | 7:00 PM",
+      "dateISO": "2026-12-10T19:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Gregory Maslowe"
+      ],
+      "location": "Boston, MA",
+      "online": false,
+      "distanceMi": 185.1,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001KulR2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ziqfhYAA&d=%2Fa%2FVX000003rrdx%2FGkQrbB_VNM8ptxraPKXqvOXqZwe1hUGLwlJKUz4Y.Zs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Leominster State Forest Hike--Rolling Hills on a Friday",
+      "date": "2026-12-11",
+      "time": "8:30 AM",
+      "dateText": "Friday, December 11, 2026 | 8:30 AM",
+      "dateISO": "2026-12-11T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Amy Kelliher"
+      ],
+      "location": "Westminster, MA",
+      "online": false,
+      "distanceMi": 163.6,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N7mb2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011NaWPYA0&d=%2Fa%2FVX000003wh1F%2FAl935SPIGlc7UUWZn3vmiQXH0FgQMzAM0pT64fXJxjw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Ken Lockwood Gorge: Easy 3.2 mile River Walk with optional outing afterwards",
       "date": "2026-12-11",
       "time": "9:45 AM",
@@ -1904,6 +2768,28 @@
       "openForRegistration": false
     },
     {
+      "title": "[BCMC] Rock/Ice Climbing Self-Rescue Fundamentals",
+      "date": "2026-12-12",
+      "time": "8:00 AM",
+      "dateText": "Saturday, December 12, 2026 | 8:00 AM",
+      "dateISO": "2026-12-12T08:00:00-05:00",
+      "activityType": "Climbing & Mountaineering",
+      "subType": "Top Rope Rock",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Xiaoyu Chen"
+      ],
+      "location": "Quincy, MA",
+      "online": false,
+      "distanceMi": 183.4,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NI8X2AW",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "Beacon to Bald Hill Hike (Vigorous)",
       "date": "2026-12-12",
       "time": "9:00 AM",
@@ -1923,6 +2809,72 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001DFrt2AG",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "WHP: Middlesex Fells Saturday",
+      "date": "2026-12-12",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 12, 2026",
+      "dateISO": "2026-12-12T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Robert Mackin"
+      ],
+      "location": "Stoneham, MA",
+      "online": false,
+      "distanceMi": 189.6,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Lc9l2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zPfGFYA0&d=%2Fa%2FVX000003qxDZ%2FjcI54YjAOITak_qc3UjE57565aFvxXSWqADhAQ8azFg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20s-40s Hybrid Wilderness First Aid (WFA) + CPR Course",
+      "date": "2026-12-12",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 12, 2026 | 9:00 AM",
+      "dateISO": "2026-12-12T09:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Meetings",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Carly Hodes"
+      ],
+      "location": "Westford, MA",
+      "online": false,
+      "distanceMi": 181.3,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001K1Qn2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xmApXYAU&d=%2Fa%2FVX000003lxkT%2FWDQ4lwmubnkBzQvF0u_5zZOPtZ9O1Wlc3boRy_ocr3c&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Explore Your Inner Winter Hiker: Wachusett Mountain Gear Shakedown - Group B",
+      "date": "2026-12-12",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 12, 2026",
+      "dateISO": "2026-12-12T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Paul Glazebrook"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 160.6,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LEsD2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000z18BjYAI&d=%2Fa%2FVX000003pmyX%2F1LlaStMfnrianeKMRx3UJkIRDKILQYtdi6IJzMKd0Qw&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2058,6 +3010,72 @@
       "openForRegistration": true
     },
     {
+      "title": "Tom leads Mt Tom/ Holyoke MA.",
+      "date": "2026-12-12",
+      "time": "10:00 AM",
+      "dateText": "Saturday, December 12, 2026 | 10:00 AM",
+      "dateISO": "2026-12-12T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Thomas McParland"
+      ],
+      "location": "Holyoke, MA",
+      "online": false,
+      "distanceMi": 122.8,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NH4P2AW",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Ponkapoag Pond, Canton",
+      "date": "2026-12-12",
+      "time": "11:00 AM",
+      "dateText": "Saturday, December 12, 2026 | 11:00 AM",
+      "dateISO": "2026-12-12T11:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Brian Connolly"
+      ],
+      "location": "Canton, MA",
+      "online": false,
+      "distanceMi": 177.7,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NB3p2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011W4nNYAS&d=%2Fa%2FVX000003wuL3%2Fi2yjfFT9d5E9hpvbqiiZ47d.OaZh1NBMSf.ck8Dx0GE&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Cookies & Cocoa in Camden - Sunset Hike on Mt. Battie",
+      "date": "2026-12-12",
+      "time": "2:00 PM",
+      "dateText": "Saturday, December 12, 2026 | 2:00 PM",
+      "dateISO": "2026-12-12T14:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Rota Knott"
+      ],
+      "location": "Camden, ME",
+      "online": false,
+      "distanceMi": 346.7,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NFDt2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000WlM2jYAF&d=%2Fa%2FUN000008E0TN%2FE_WwXI_G9xZ0XKRK96m3rslyeMVZhuitbn7hN.1jH94&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "20s/30s Holiday Adventure:  Phoenixville Firebird Festival with Dinner + 4.0-Mile Evening Hike",
       "date": "2026-12-12",
       "time": "4:45 PM",
@@ -2080,6 +3098,28 @@
       "openForRegistration": true
     },
     {
+      "title": "WHP - Middlesex Fells",
+      "date": "2026-12-13",
+      "time": "8:30 AM",
+      "dateText": "Sunday, December 13, 2026",
+      "dateISO": "2026-12-13T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Eric Robbie"
+      ],
+      "location": "Stoneham, MA",
+      "online": false,
+      "distanceMi": 189.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MWVJ2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000c0qokYAA&d=%2Fa%2FUN0000091eFx%2FW1cLW8lEglkkocKuq2U.3Eh8UGBo4c2alMypEEeEQKk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Catskills Backcountry Ski Touring - 12/13/26",
       "date": "2026-12-13",
       "time": "9:00 AM",
@@ -2099,6 +3139,28 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTo12AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zI4tFYAS&d=%2Fa%2FVX000003qcHB%2F084ZhiE1AjOq9ZvFBgZS3gghBMRgKnUd57IUTR2ol9g&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hike the Boroughs - Boroughs Loop Trail (BLT4)",
+      "date": "2026-12-13",
+      "time": "9:30 AM",
+      "dateText": "Sunday, December 13, 2026",
+      "dateISO": "2026-12-13T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Northborough, MA",
+      "online": false,
+      "distanceMi": 163.2,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMQf2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012g6gsYAA&d=%2Fa%2FVX000003yuTp%2FzXYj4EHJusL6rjmoaK6PK7mqJc.gcLDt84KhFt59Lkk&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2143,6 +3205,28 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MIYn2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010APZJYA4&d=%2Fa%2FVX000003t9If%2F6QFr2N8vL.dayT2CcEdn7RCyvW.g9QLIH9xWosajzGo&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Boston Chapter's 50th Annual Meeting",
+      "date": "2026-12-13",
+      "time": "7:00 PM",
+      "dateText": "Sunday, December 13, 2026 | 7:00 PM",
+      "dateISO": "2026-12-13T19:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Annual Chapter Dinners",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jesse Waites"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001L8YH2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ytDq5YAE&d=%2Fa%2FVX000003pOY1%2FA1y19G6jdj1kHCGBz1gQ2I.Ey0mZmwJtUTn3i.OHKW8&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2212,6 +3296,28 @@
       "openForRegistration": true
     },
     {
+      "title": "BCMC Sendhers Holiday Gym Night & Party",
+      "date": "2026-12-14",
+      "time": "6:00 PM",
+      "dateText": "Monday, December 14, 2026 | 6:00 PM",
+      "dateISO": "2026-12-14T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Rosy Cohane-Mann"
+      ],
+      "location": "Somerville, MA",
+      "online": false,
+      "distanceMi": 185.5,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NL1Z2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012VhILYA0&d=%2Fa%2FVX000003yXll%2FHRVKDj.OxTRHFFUGKC7uaxscPGiITxs2vDzQGo_WUP0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Monday Evening Hike in Phoenixville",
       "date": "2026-12-14",
       "time": "6:30 PM",
@@ -2253,6 +3359,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIWj2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012JfLxYAK&d=%2Fa%2FVX000003yAij%2FqD1v0JD507.bEZ5vdm4GEQl7xVx9ecg8lI1GX_bf4pY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Boston Family Outings Committee Leader Meeting",
+      "date": "2026-12-14",
+      "time": "8:00 PM",
+      "dateText": "Monday, December 14, 2026 | 8:00 PM",
+      "dateISO": "2026-12-14T20:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Meetings",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Heather McCurdy"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Ke2L2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000yN3AmYAK&d=%2Fa%2FVX000003nqN7%2FcI8OjwvlL1mowQ6S9QzxA27V7LnK.IwOvpSETGallmY&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2410,6 +3538,28 @@
       "openForRegistration": true
     },
     {
+      "title": "🎄 SEAL Christmas Gathering: A Night of Holiday Cheer",
+      "date": "2026-12-15",
+      "time": "6:00 PM",
+      "dateText": "Tuesday, December 15, 2026 | 6:00 PM",
+      "dateISO": "2026-12-15T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Carlos Moriella"
+      ],
+      "location": "Warwick, RI",
+      "online": false,
+      "distanceMi": 147.3,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9wT2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011PTH3YAO&d=%2Fa%2FVX000003wjav%2FyESpocZqbG3TKtHYFaagPznn.OcYUFYc5srMsXan0Qs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Gym Climbing at CRG Hadley",
       "date": "2026-12-16",
       "time": "6:00 PM",
@@ -2429,6 +3579,50 @@
       "chapterName": "Western Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001IMG12AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000ZOwzdYAD&d=%2Fa%2FUN000008frQL%2FtMacTgResMEqsPrcEMNqg_wl88jM5yV.SF9K0Zd2apw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "3rd Wednesday Potluck Social & Trivia Night",
+      "date": "2026-12-16",
+      "time": "6:30 PM",
+      "dateText": "Wednesday, December 16, 2026 | 6:30 PM",
+      "dateISO": "2026-12-16T18:30:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Northborough, MA",
+      "online": false,
+      "distanceMi": 161.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NK772AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012QAF3YAO&d=%2Fa%2FVX000003yPBV%2FaG7iEdnpSjvDK.2QR.4e0dr0_EgHvLN8ArZHfSt65Sk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "AMC Boston Chapter Winter Camping and Backpacking Program 2026-27",
+      "date": "2026-12-16",
+      "time": "6:45 PM",
+      "dateText": "Wednesday, December 16, 2026 | 6:45 PM",
+      "dateISO": "2026-12-16T18:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Stephen Conlin"
+      ],
+      "location": "Medford, MA",
+      "online": false,
+      "distanceMi": 187.2,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LJVJ2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000z6zotYAA&d=%2Fa%2FVX000003pytF%2FLiDyexqqGueGYTScLgu4Cjf8L0bV1c4hJOTPlKCws54&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2452,6 +3646,28 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N67N2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000119bH8YAI&d=%2Fa%2FVX000003wHwP%2FJewmxCQqsONwPEyBykGWRExcyJHbtAehU9_aMDWfFGY&oid=00D50000000cBTwEAM",
       "openForRegistration": true
+    },
+    {
+      "title": "Mount Watatic to Stony Top",
+      "date": "2026-12-17",
+      "time": "8:30 AM",
+      "dateText": "Thursday, December 17, 2026 | 8:30 AM",
+      "dateISO": "2026-12-17T08:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Carol Straney"
+      ],
+      "location": "Ashby, MA",
+      "online": false,
+      "distanceMi": 172.1,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NG6j2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012LlAQYA0&d=%2Fa%2FVX000003yEeH%2F8ZFdp_NPzZyRKPD_F1I.L14qfK3HO3Aux_ECvJJZQEA&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
     },
     {
       "title": "Prospect Mountain Preserve, Litchfield, CT - Moderate",
@@ -2517,6 +3733,28 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M7rt2AC",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hike the Boroughs - Westboro Charm Bracelet (WCB5)",
+      "date": "2026-12-17",
+      "time": "9:30 AM",
+      "dateText": "Thursday, December 17, 2026",
+      "dateISO": "2026-12-17T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Westborough, MA",
+      "online": false,
+      "distanceMi": 159.3,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMSH2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012gXp7YAE&d=%2Fa%2FVX000003yudV%2FLHe4wWMzlaY1ziXDsusPF7YX05Gg5aXNXccFBOBMO3s&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2586,6 +3824,50 @@
       "openForRegistration": true
     },
     {
+      "title": "[BCMC] GYM NIGHT @CRG STONEHAM",
+      "date": "2026-12-17",
+      "time": "6:00 PM",
+      "dateText": "Thursday, December 17, 2026 | 6:00 PM",
+      "dateISO": "2026-12-17T18:00:00-05:00",
+      "activityType": "Climbing & Mountaineering",
+      "subType": "Gym",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Ada Ao-Baslock"
+      ],
+      "location": "Stoneham, MA",
+      "online": false,
+      "distanceMi": 189.7,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001J5g92AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000XdYOdYAN&d=%2Fa%2FUN000008NB6D%2F8QiAxkNMbuVIrqWOpO_Iwo7M1EcZyagmX2i4ohJGO6U&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Worcester 20s & 30s Holiday Social",
+      "date": "2026-12-17",
+      "time": "6:00 PM",
+      "dateText": "Thursday, December 17, 2026 | 6:00 PM",
+      "dateISO": "2026-12-17T18:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Zenya Molnar"
+      ],
+      "location": "Clinton, MA",
+      "online": false,
+      "distanceMi": 164.4,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGmf2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000127mhOYAQ&d=%2Fa%2FVX000003xv3l%2FnFgwq9wiIiYRdTGJPXEW46GxZb5l_w8eZ9.b9l0bsmM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Introduction to Winter Backpacking in the Central Adirondacks (Dec 18-21, 2026)",
       "date": "2026-12-18",
       "time": "5:00 PM",
@@ -2627,6 +3909,28 @@
       "chapterName": "Western Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NFtp2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000121eMnYAI&d=%2Fa%2FVX000003xkpt%2FccFKTQNwi4y8w4i9XKZf0vriIqKOAG0m6Q_illRnhCU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Sunrike up 'Chussey! (Optional social after)",
+      "date": "2026-12-19",
+      "time": "5:30 AM",
+      "dateText": "Saturday, December 19, 2026 | 5:30 AM",
+      "dateISO": "2026-12-19T05:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Christopher Vieira"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 160.5,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLJJ2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xqWBVYA2&d=%2Fa%2FVX000003mDhB%2FNmtjB97WaPYI1im80.OgolPA4KKcRHWWWlG5xY7erbU&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2674,6 +3978,28 @@
       "openForRegistration": false
     },
     {
+      "title": "Explore Your Inner Winter Hiker: Wachusett Mountain Gear Shakedown - Group C",
+      "date": "2026-12-19",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 19, 2026",
+      "dateISO": "2026-12-19T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Waitlist",
+      "leaders": [
+        "Josephina Schroen"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 161,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LM6b2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000ax4hFYAQ&d=%2Fa%2FUN000008tcPp%2FA_80GlwWERRcdThiWOu23EFbn.E6YFnZqyEcSdtpGD8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Cape Hike - Fitness Hike - Danforth  & Otis Atwood Conservation Areas,  Marstons Mills",
       "date": "2026-12-19",
       "time": "9:45 AM",
@@ -2693,6 +4019,50 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NDK92AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011kHzFYAU&d=%2Fa%2FVX000003xGtR%2F0Dt5KSCf8YuIoWBNsAEdMV.umyThFloWK5dN8D2vH5k&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "A Winter Exploration of the Wilderness in Essex, on the North Shore",
+      "date": "2026-12-19",
+      "time": "10:00 AM",
+      "dateText": "Saturday, December 19, 2026 | 10:00 AM",
+      "dateISO": "2026-12-19T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jonathan Unger"
+      ],
+      "location": "Essex, MA",
+      "online": false,
+      "distanceMi": 208.1,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MBPF2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011krujYAA&d=%2Fa%2FVX000003xHW9%2FJEetooNWlZFoxXPNsAY_utzsM22Oa4GCczSwodiNvnI&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
+      "title": "Winter Solstice Cold Weather Backpacking: One night out",
+      "date": "2026-12-19",
+      "time": "10:00 AM",
+      "dateText": "Saturday, December 19, 2026 | 10:00 AM",
+      "dateISO": "2026-12-19T10:00:00-05:00",
+      "activityType": "Backpacking",
+      "subType": "Backpacking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Peg Barratt"
+      ],
+      "location": "Delaplane, VA",
+      "online": false,
+      "distanceMi": 244.1,
+      "chapter": "0015000001Sg06EAAR",
+      "chapterName": "Potomac",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Lcg12AC",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -2718,6 +4088,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Family hike to Wrights Tower and Panther Cave",
+      "date": "2026-12-19",
+      "time": "12:00 PM",
+      "dateText": "Saturday, December 19, 2026 | 12:00 PM",
+      "dateISO": "2026-12-19T12:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Heather McCurdy"
+      ],
+      "location": "Medford, MA",
+      "online": false,
+      "distanceMi": 188,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9zh2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011PhQVYA0&d=%2Fa%2FVX000003wjsf%2FsW7BALm6i.1tP.WOCMNPQrVw7tJoagXJUOBsNGpOMgk&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
       "title": "Catskills Backcountry Ski Touring - 12/20/26",
       "date": "2026-12-20",
       "time": "9:00 AM",
@@ -2740,6 +4132,28 @@
       "openForRegistration": true
     },
     {
+      "title": "EXPLORE YOUR INNER WINTER HIKER (Track I): CROW HILL LEDGES",
+      "date": "2026-12-20",
+      "time": "9:00 AM",
+      "dateText": "Sunday, December 20, 2026",
+      "dateISO": "2026-12-20T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Donald C Davies"
+      ],
+      "location": "Leominster, MA",
+      "online": false,
+      "distanceMi": 167.2,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LrK52AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000bbPK3YAM&d=%2Fa%2FUN000008yMNd%2FdQR3HjP7G.vd.uWxQD6IY1sPVVSy.Om3hQVwk1AsTvk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Cape Hikes - Johns Pond Park Conservation Area, Mashpee",
       "date": "2026-12-20",
       "time": "9:45 AM",
@@ -2759,6 +4173,28 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001YXFV2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011e500YAA&d=%2Fa%2FVX000003x9AP%2F_VBKXfqF8TqeW8u9KkNtOMG.J3ATAWYyE5_X1d6.m_4&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Ramble Around the Cascades",
+      "date": "2026-12-20",
+      "time": "9:45 AM",
+      "dateText": "Sunday, December 20, 2026 | 9:45 AM",
+      "dateISO": "2026-12-20T09:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Walt Yarbrough"
+      ],
+      "location": "Worcester, MA",
+      "online": false,
+      "distanceMi": 151.9,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LVMn2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zJPArYAO&d=%2Fa%2FVX000003qehB%2FCwkNbW6gFNdJERKmAyVW3iO6eiOp.agAieXLqAPJMAU&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2825,6 +4261,28 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8XN2A0",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011GPERYA4&d=%2Fa%2FVX000003wUon%2FzfjLfNLlwkSPYHHuKbErMMmqOu4lrc3AZP9_1eIR.yI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "EXPLORE YOUR INNER WINTER HIKER (TRACK I): Quabbin Park & Winsor Dam Hike",
+      "date": "2026-12-21",
+      "time": "9:00 AM",
+      "dateText": "Monday, December 21, 2026",
+      "dateISO": "2026-12-21T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Christine Judycki Crepeault"
+      ],
+      "location": "Belchertown, MA",
+      "online": false,
+      "distanceMi": 134.3,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8An2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011FFthYAG&d=%2Fa%2FVX000003wSAH%2FhgS7exytO3Vs6Gb1CpNzVZyq9Qgur016r6.JJgtp9oI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2913,6 +4371,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHE52AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000Wpc7aYAB&d=%2Fa%2FUN000008EgKX%2F_YL.T2N1KxAfFkF6CRvCfD3VrBg4VeNROys7PRyQwaU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "December Early Morning Fitness Hike",
+      "date": "2026-12-22",
+      "time": "6:00 AM",
+      "dateText": "Tuesday, December 22, 2026 | 6:00 AM",
+      "dateISO": "2026-12-22T06:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Scott Turner"
+      ],
+      "location": "Westborough, MA",
+      "online": false,
+      "distanceMi": 160.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKn32AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -3048,6 +4528,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Explore Your Inner Winter Hiker Track 1:  Wachusett Full Moon Night Hike",
+      "date": "2026-12-23",
+      "time": "6:00 PM",
+      "dateText": "Wednesday, December 23, 2026",
+      "dateISO": "2026-12-23T18:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Wendy M Dziemian"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 159.6,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCfp2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011ipnJYAQ&d=%2Fa%2FVX000003xFe1%2FG1yDZt27oCR8LCaERX1zD2Pc3271BigvKed8C7iySsg&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
       "title": "THURSDAY MORNING - BLUE HILLS LOWLAND HIKE!",
       "date": "2026-12-24",
       "time": "10:00 AM",
@@ -3114,6 +4616,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Young Family New Years in Carrabassett Valley / Sugarloaf",
+      "date": "2026-12-30",
+      "time": "3:00 PM",
+      "dateText": "Wednesday, December 30, 2026 | 3:00 PM",
+      "dateISO": "2026-12-30T15:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Leah Salloway"
+      ],
+      "location": "Carrabassett Valley, ME",
+      "online": false,
+      "distanceMi": 351.7,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000014CRp2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000iSfzpYAC&d=%2Fa%2FVX000002xhEH%2F5S658CJXkGMjdOhOcIgaUHrr8SHN.15h.S3rUf5YwEg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Western MA 20s/30s Gear Library Purchase",
       "date": "2026-12-31",
       "time": "All Day",
@@ -3136,6 +4660,28 @@
       "openForRegistration": true
     },
     {
+      "title": "AMC 150th Anniversary Challenge-Worcester MA Chapter",
+      "date": "2026-12-31",
+      "time": "All Day",
+      "dateText": "Thursday, December 31, 2026",
+      "dateISO": "2026-12-31T00:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "AMC 150",
+      "status": "Published",
+      "leaders": [
+        "Cynthia Pratt"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN0000028jej2AA",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000g2dejYAA&d=%2Fa%2FUN000009PPyv%2F6gcFd7kxXzqcdHZej6V9glCr90w9dpndsdnHCCzvO48&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
+    },
+    {
       "title": "Western MA 20s/30s and 30s/40s WhatsApp Group",
       "date": "2027-01-01",
       "time": "All Day",
@@ -3155,6 +4701,28 @@
       "chapterName": "Western Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001NHkL2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000NDX92YAH&d=%2Fa%2FUN000006ONT3%2F0_qzN47_UMG8nZKrbSi50yElp.KN.eDjLQ.hX9WGtHQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "OC Testing Social Everyone Registration Yes-waitlist  Q:basic",
+      "date": "2027-01-01",
+      "time": "All Day",
+      "dateText": "Friday, January 1, 2027 | All Day",
+      "dateISO": "2027-01-01T00:00:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Chao Xie"
+      ],
+      "location": "Milton, MA",
+      "online": false,
+      "distanceMi": 180.4,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000019pVl2AI",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000aEWg8YAG&d=%2Fa%2FUN000008nuSf%2FZ_V3F3iYPzROOTKktSaRLEVusmdkALGe1N2N4icwsfI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -3334,6 +4902,28 @@
       "openForRegistration": false
     },
     {
+      "title": "Winter Hiking Workshop",
+      "date": "2027-01-06",
+      "time": "5:30 PM",
+      "dateText": "Wednesday, January 6, 2027 | 5:30 PM",
+      "dateISO": "2027-01-06T17:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Denise Fredette"
+      ],
+      "location": "Freeport, ME",
+      "online": false,
+      "distanceMi": 291.4,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N4C12AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000117PlQYAU&d=%2Fa%2FVX000003w6Mf%2FOMcwk.2iLGV.kHmqVaO2obdyv9eFd5zsoMS_xz4QBmU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Thursday Hike at F Gilbert State Forest",
       "date": "2027-01-07",
       "time": "10:00 AM",
@@ -3376,6 +4966,50 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LMmX2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zCbYXYA0&d=%2Fa%2FVX000003qIgf%2FC54.BxPoTubifdZC0oywjDhZCwfdz3msBGUr3f2c.4M&oid=00D50000000cBTwEAM",
       "openForRegistration": false
+    },
+    {
+      "title": "Explore Your Inner Winter Hiker-Bearsden. Track 1 hike",
+      "date": "2027-01-10",
+      "time": "9:30 AM",
+      "dateText": "Sunday, January 10, 2027",
+      "dateISO": "2027-01-10T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Paul Glazebrook"
+      ],
+      "location": "Athol, MA",
+      "online": false,
+      "distanceMi": 156.7,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8qj2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011J17QYAS&d=%2Fa%2FVX000003wZoT%2Fte7ng52sO_lIrA3BWprfZOF8J3cMQddzZQsSus0WShY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Beginner Cross Country Ski Trip at Medawisla Lodge with Maine Master Naturalist",
+      "date": "2027-01-10",
+      "time": "3:00 PM",
+      "dateText": "Sunday, January 10, 2027 | 3:00 PM",
+      "dateISO": "2027-01-10T15:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jeanine Libby"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 391.9,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LiFB2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000clvwGYAQ&d=%2Fa%2FUN00000963u5%2FQPvpQYveuEuVSn5fte2AJYyt0q2fis2o.ylXM0oW4so&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
     },
     {
       "title": "Heat and Cold Related Illnesses - how to recognize and treat - Online Event",
@@ -3466,6 +5100,50 @@
       "openForRegistration": true
     },
     {
+      "title": "Boston Ski - Maine Woods West Branch and Little Lyford XC Ski Tour",
+      "date": "2027-01-14",
+      "time": "11:00 AM",
+      "dateText": "Thursday, January 14, 2027 | 11:00 AM",
+      "dateISO": "2027-01-14T11:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jim Hutchinson"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 392.4,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001L7SX2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000yrdALYAY&d=%2Fa%2FVX000003pHzZ%2Fg84W9I9tSaJNOXoxRrcGDQyxC.CHWQC7QhSegV8f.Ow&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "19th Annual VT MLK Ski, Snowshoe & Hike Weekend",
+      "date": "2027-01-15",
+      "time": "All Day",
+      "dateText": "Friday, January 15, 2027",
+      "dateISO": "2027-01-15T00:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Alexandra Molnar"
+      ],
+      "location": "Londonderry, VT",
+      "online": false,
+      "distanceMi": 179.1,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Mhtl2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000ZxysAYAR&d=%2Fa%2FUN000008lOgb%2FLotOhVZhvXXB44GvwSA6kB8WzQQUynPrr5y8NPW6FnU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "MLK Weekend Tug Hill Ski Touring - Go With The Snow!",
       "date": "2027-01-15",
       "time": "6:00 PM",
@@ -3488,6 +5166,72 @@
       "openForRegistration": true
     },
     {
+      "title": "Winter Wander at SVT’s Cedar Hill",
+      "date": "2027-01-16",
+      "time": "9:00 AM",
+      "dateText": "Saturday, January 16, 2027 | 9:00 AM",
+      "dateISO": "2027-01-16T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Cynthia Pratt"
+      ],
+      "location": "Marlborough, MA",
+      "online": false,
+      "distanceMi": 163.6,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKqH2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000es3UzYAI&d=%2Fa%2FUN000009ILyT%2FzgCtD2MGf2qYCq3iZpnaWeyThsXfwXqoJqoRPtnWXHw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "EXPLORE YOUR INNER WINTER HIKER (Track I): Wachusett Loop",
+      "date": "2027-01-16",
+      "time": "9:30 AM",
+      "dateText": "Saturday, January 16, 2027",
+      "dateISO": "2027-01-16T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 161,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8p72AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011IXSjYAO&d=%2Fa%2FVX000003wZV7%2FV3dNmD5uK.NogzYRF_.ew8k.G0WWh0Ztfh_uRhmkwFM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Hike/Ramble Around Perkins Farm",
+      "date": "2027-01-16",
+      "time": "9:45 AM",
+      "dateText": "Saturday, January 16, 2027 | 9:45 AM",
+      "dateISO": "2027-01-16T09:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Walt Yarbrough"
+      ],
+      "location": "Worcester, MA",
+      "online": false,
+      "distanceMi": 153.9,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGY92AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000124shhYAA&d=%2Fa%2FVX000003xrTB%2FvnKhELOZfkbbtAsk3Ew3WDlpIuVS5ghxE0WC_RpFoyA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "CT AMC Whitewater BRISTOL, CT Pool Rolling sessions 2027",
       "date": "2027-01-16",
       "time": "6:00 PM",
@@ -3507,6 +5251,28 @@
       "chapterName": "Connecticut",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NL3B2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012QSgXYAW&d=%2Fa%2FVX000003yOXB%2FUWHCpG8x.q_o.1K0Gj7kiuASZS0KG7mia3yUx.w8z48&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Lodge to Lodge Ski Tour in the Maine Woods",
+      "date": "2027-01-17",
+      "time": "5:00 PM",
+      "dateText": "Sunday, January 17, 2027 | 5:00 PM",
+      "dateISO": "2027-01-17T17:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Joshua Barlow"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 411.9,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001HENl2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000uwacLYAQ&d=%2Fa%2FVX000003cxIH%2FqtIm2364rKDQv2Z6MZHITGdRgnFzqTYd_BNVKeJHeio&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -3598,6 +5364,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Audubon to Wachusett hike",
+      "date": "2027-01-24",
+      "time": "9:15 AM",
+      "dateText": "Sunday, January 24, 2027",
+      "dateISO": "2027-01-24T09:15:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Arthur Beaverson"
+      ],
+      "location": "Princeton, MA",
+      "online": false,
+      "distanceMi": 158.4,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NH2n2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": false
+    },
+    {
       "title": "Catskill Mtns. Winter Hiking Midweek",
       "date": "2027-01-26",
       "time": "All Day",
@@ -3620,6 +5408,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Winter Women's Weekend at Gorman Chairback Lodge",
+      "date": "2027-01-29",
+      "time": "All Day",
+      "dateText": "Friday, January 29, 2027",
+      "dateISO": "2027-01-29T00:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Sarah Hunter"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 392.4,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Fatp2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000tHjNdYAK&d=%2Fa%2FVX000003XTkf%2FyRYjzd6XKnJs12RIs.qv_OAClzWfSP5dYf9DhKUhVRo&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "AMC President's Society Medawisla Winter Weekend",
       "date": "2027-01-29",
       "time": "9:00 AM",
@@ -3639,6 +5449,50 @@
       "chapterName": "AMC-wide",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LwRp2AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ziq32YAA&d=%2Fa%2FVX000003rsLW%2FmaGUd14R4TqzapC3SOke0mADa2Iov5TESv.hEAf6w54&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Lodge-to-Lodge Trip in Maine Wilderness",
+      "date": "2027-01-29",
+      "time": "10:00 AM",
+      "dateText": "Friday, January 29, 2027 | 10:00 AM",
+      "dateISO": "2027-01-29T10:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Charles Arsenault"
+      ],
+      "location": "Beaver Cove, ME",
+      "online": false,
+      "distanceMi": 401,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCkf2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011iLCXYA2&d=%2Fa%2FVX000003xFNt%2F2PeZ3SQjQCgmaNH5OIBYkwTCSoZZy5CCf_FXUJO6i8w&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Lodge-to-Lodge Trip in Maine Wilderness",
+      "date": "2027-01-29",
+      "time": "10:00 AM",
+      "dateText": "Friday, January 29, 2027 | 10:00 AM",
+      "dateISO": "2027-01-29T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joe Massery"
+      ],
+      "location": "Beaver Cove, ME",
+      "online": false,
+      "distanceMi": 401,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTb72AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011Aww5YAC&d=%2Fa%2FVX000003wKJB%2FunRxjuHuU6apc9QDBmJysuH_AaEwMK5jpb0o69Hx4Yk&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -3708,6 +5562,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Maine Woods Lodge-to-Lodge Ski Adventure",
+      "date": "2027-02-02",
+      "time": "All Day",
+      "dateText": "Tuesday, February 2, 2027 | All Day",
+      "dateISO": "2027-02-02T00:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Phillip Coyne"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 392.4,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001I0Qn2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000beAEfYAM&d=%2Fa%2FUN000008yodF%2FO7LzKI6drsQrUNfT_xFYcxYYvo1jcV_7CXm73vEMjzg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "CT AMC Whitewater BRISTOL, CT Pool Rolling sessions 2027",
       "date": "2027-02-06",
       "time": "6:00 PM",
@@ -3728,6 +5604,28 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NL812AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012QSgXYAW&d=%2Fa%2FVX000003yOXB%2FUWHCpG8x.q_o.1K0Gj7kiuASZS0KG7mia3yUx.w8z48&oid=00D50000000cBTwEAM",
       "openForRegistration": true
+    },
+    {
+      "title": "Explore Your Inner Winter Hiker, Track 1 Mount Norwottock",
+      "date": "2027-02-07",
+      "time": "9:30 AM",
+      "dateText": "Sunday, February 7, 2027",
+      "dateISO": "2027-02-07T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Paul Glazebrook"
+      ],
+      "location": "Amherst, MA",
+      "online": false,
+      "distanceMi": 131.1,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N8tx2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011JOASYA4&d=%2Fa%2FVX000003waHV%2FLHFfAOXzqKbdnSrQX_Hrv67xt43Iub5z3g9Whtg.FOk&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
     },
     {
       "title": "Lake Placid - Mt. Van Hoevenberg XC Skiing",
@@ -3771,6 +5669,50 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000016iyf2AA",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kbZynYAE&d=%2Fa%2FVX0000035R2f%2F1uJaS6NoRWrzcjqnjS9oo0kS.9E1qVpqxXN2fMdxKlQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "2026 - 2027 WHP Social",
+      "date": "2027-02-09",
+      "time": "6:00 PM",
+      "dateText": "Tuesday, February 9, 2027 | 6:00 PM",
+      "dateISO": "2027-02-09T18:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Patricia Sanchez"
+      ],
+      "location": "Boston, MA",
+      "online": false,
+      "distanceMi": 186.8,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LMZd2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zC4BDYA0&d=%2Fa%2FVX000003qHz7%2FD9sWjASm1uWB7U7s5obBHVwd1.3i31xX1fARvlRziVA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "⛸️❄️Ice Skating at the Worcester Common Oval❄️⛸️",
+      "date": "2027-02-13",
+      "time": "1:30 PM",
+      "dateText": "Saturday, February 13, 2027 | 1:30 PM",
+      "dateISO": "2027-02-13T13:30:00-05:00",
+      "activityType": "Social",
+      "subType": "Local Socials",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Cynthia Pratt"
+      ],
+      "location": "Worcester, MA",
+      "online": false,
+      "distanceMi": 152.8,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKrt2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012VTTvYAO&d=%2Fa%2FVX000003yWuX%2Fgk8arFtQTInR9QTqcKbMVSvmjq7pnFjIfAoSuMaN1zI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -3840,6 +5782,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Southern VT Winter Weekend at Blue Gentian Lodge – Classic, Skate & Downhill Welcome!",
+      "date": "2027-02-19",
+      "time": "7:00 PM",
+      "dateText": "Friday, February 19, 2027 | 7:00 PM",
+      "dateISO": "2027-02-19T19:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Heather Mills"
+      ],
+      "location": "Londonderry, VT",
+      "online": false,
+      "distanceMi": 179.1,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKTh2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012RtTNYA0&d=%2Fa%2FVX000003yR21%2F9TaOEV0CIUBizS13P186IM.ss0wsPcVWFf3XeqJ18cc&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Backcountry Skiing – Mt. Greylock Weekend",
       "date": "2027-02-20",
       "time": "9:00 AM",
@@ -3859,6 +5823,28 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLWD2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012YGwjYAG&d=%2Fa%2FVX000003ydzF%2F3iRPihuKOGeiWq5y5WKcFRDWibKiDxMizt5mkypbbkY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Explore Your Inner Winter Hiker: Wachusett Mountain (Track I)",
+      "date": "2027-02-20",
+      "time": "9:00 AM",
+      "dateText": "Saturday, February 20, 2027 | 9:00 AM",
+      "dateISO": "2027-02-20T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Joseph Ciras"
+      ],
+      "location": "Westminster, MA",
+      "online": false,
+      "distanceMi": 160,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJfh2AG",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
@@ -3884,6 +5870,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Boston Whitewater Kayaking Pool Rolling Instructional 2027",
+      "date": "2027-02-21",
+      "time": "5:30 PM",
+      "dateText": "Sunday, February 21, 2027 | 5:30 PM",
+      "dateISO": "2027-02-21T17:30:00-05:00",
+      "activityType": "Paddling",
+      "subType": "Whitewater",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Susan Carter"
+      ],
+      "location": "Lowell, MA",
+      "online": false,
+      "distanceMi": 188.9,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJJ72AO",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
+      "openForRegistration": true
+    },
+    {
       "title": "AMC NY-NoJ Winter Skills Workshop - Central Adirondacks - Feb 22-26, 2027 (Mon to Fri)",
       "date": "2027-02-22",
       "time": "5:00 PM",
@@ -3906,6 +5914,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Boston Ski: Rangeley Ski Adventure",
+      "date": "2027-02-26",
+      "time": "1:00 PM",
+      "dateText": "Friday, February 26, 2027 | 1:00 PM",
+      "dateISO": "2027-02-26T13:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Gregory Maslowe"
+      ],
+      "location": "ADAMSTOWN Township, ME",
+      "online": false,
+      "distanceMi": 327.4,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001I8Un2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000vuObYYAU&d=%2Fa%2FVX000003fyo5%2FP0kkWPR2kCnukaq9tKYfMCh.0balHkMg62KxGTmKJVY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "CT AMC Whitewater BRISTOL, CT Pool Rolling sessions 2027",
       "date": "2027-02-27",
       "time": "6:00 PM",
@@ -3925,6 +5955,50 @@
       "chapterName": "Connecticut",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NLCr2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012QSgXYAW&d=%2Fa%2FVX000003yOXB%2FUWHCpG8x.q_o.1K0Gj7kiuASZS0KG7mia3yUx.w8z48&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Lodge-to-Lodge Ski in the Maine Woods:  Little Lyford Lodge and Cabins to Gorman Chairback Lodge and Cabins with start and finish at the Winter Parking Lot on the KI Road",
+      "date": "2027-02-28",
+      "time": "10:00 AM",
+      "dateText": "Sunday, February 28, 2027 | 10:00 AM",
+      "dateISO": "2027-02-28T10:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Peter Roderick"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 392.4,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001K4wX2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000bjQPRYA2&d=%2Fa%2FUN000008zI0D%2FqJij_1VT_EdigM8.t15JlMvTFGVT48wLbSRVF8wAkaU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Women's Weekend at Little Lyford  Lodge",
+      "date": "2027-03-05",
+      "time": "All Day",
+      "dateText": "Friday, March 5, 2027",
+      "dateISO": "2027-03-05T00:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Backcountry",
+      "programType": "Volunteer Led",
+      "status": "Full",
+      "leaders": [
+        "Sarah Hunter"
+      ],
+      "location": "Greenville, ME",
+      "online": false,
+      "distanceMi": 392.4,
+      "chapter": "0015000001Sg065AAB",
+      "chapterName": "Maine",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JEl32AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wxf2ZYAQ&d=%2Fa%2FVX000003jQ33%2F12OzDUxH2HmYECgbdHc7ivvVMSKt_UEyCq_zOoGsAVo&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -3992,6 +6066,28 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MBx72AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
       "openForRegistration": true
+    },
+    {
+      "title": "Explore Your Inner Winter Hiker, Track , Quabbin Equinox Hike Equinox",
+      "date": "2027-03-20",
+      "time": "9:30 AM",
+      "dateText": "Saturday, March 20, 2027",
+      "dateISO": "2027-03-20T09:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Paul Glazebrook"
+      ],
+      "location": "Petersham, MA",
+      "online": false,
+      "distanceMi": 149.3,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N95F2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011JTDNYA4&d=%2Fa%2FVX000003waRB%2F9Sclid7OX..eZzIvFkdrDolov1q95Vwebnf_v6zvhO8&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
     },
     {
       "title": "Wilderness First Aid",
@@ -4146,6 +6242,28 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N4wn2AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000e79xNYAQ&d=%2Fa%2FVX000002g8o1%2FEACVe_ZNP8vthLPnAEcdAB6DNy7Uzi.vvSScyuf0BZY&oid=00D50000000cBTwEAM",
       "openForRegistration": false
+    },
+    {
+      "title": "Essentials of Cycle Touring Seminar",
+      "date": "2027-05-01",
+      "time": "9:00 AM",
+      "dateText": "Saturday, May 1, 2027 | 9:00 AM",
+      "dateISO": "2027-05-01T09:00:00-05:00",
+      "activityType": "Biking",
+      "subType": "Touring & Bike Packing",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Denis LaForce"
+      ],
+      "location": "Worcester, MA",
+      "online": false,
+      "distanceMi": 151.9,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGI12AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000123S37YAE&d=%2Fa%2FVX000003xq2U%2FCuugBHQ8LEe93cNBGXrUVRul6KX_5_w2T2rWwvjQf4o&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
     },
     {
       "title": "NOLS Wilderness First Aid - Boston",
@@ -4321,6 +6439,28 @@
       "chapterName": "AMC-wide",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MPVR2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Outdoor Leadership Training",
+      "date": "2027-10-16",
+      "time": "9:00 AM",
+      "dateText": "Saturday, October 16, 2027 | 9:00 AM",
+      "dateISO": "2027-10-16T09:00:00-05:00",
+      "activityType": "Outdoor Leadership Training",
+      "subType": "Outdoor Leadership Training",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Bob Sirhal"
+      ],
+      "location": "Hope Valley, RI",
+      "online": false,
+      "distanceMi": 230.6,
+      "chapter": "0015000001Sg066AAB",
+      "chapterName": "Narragansett",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Fixp2AC",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": true
     },
     {
