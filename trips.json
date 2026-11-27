@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T02:33:54.712Z",
+  "fetchedAt": "2026-11-27T13:21:11.978Z",
   "chapter": "0015000001Sg064AAB",
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB",
   "count": 52,
@@ -42,7 +42,7 @@
       "distanceMi": 7,
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIdB2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6qoYAC&d=%2Fa%2FVX000003yBtK%2F4k8uGSg9UwU6rTV24T9WkskI1Y.Zcdujju4ZUT442y0&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
+      "openForRegistration": false
     },
     {
       "title": "Turkey Day Trot & Talk: South Mountain Reservation (NJ) #OptOutside (Vigorous)",
