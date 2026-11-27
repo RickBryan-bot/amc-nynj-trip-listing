@@ -1,15 +1,18 @@
-// AMC Activities Directory fetcher — multi-chapter version (v2).
+// AMC Activities Directory fetcher — multi-chapter version (v3).
 //
 // Replaces fetch-trips-aura.mjs in the rickbryan-bot/amc-nynj-trip-listing
 // repo. Run by the GitHub Action with no arguments (see
 // .github/workflows/fetch-trips.yml — no workflow change needed).
 //
 // WHAT CHANGED vs v1 (Nov 27, 2026, per Richard):
-//   - Fetches FIVE chapters, not just NY-North Jersey, and tags every trip
+//   - Fetches ELEVEN chapters (all AMC chapters), not just NY-North Jersey, and tags every trip
 //     with its chapter: `chapter` (Salesforce record Id) and `chapterName`.
 //     Chapterless program-type trips (Professional Guides, Naturalist
 //     Program, Staff Activities) get chapter: null / chapterName 'AMC-wide'
 //     and are shown for every chapter selection on the homepage.
+//   - v3 (Nov 27, 2026): added the remaining six chapters (Boston, Worcester,
+//     Narragansett, Maine, New Hampshire, Potomac). NH-location exclusion and
+//     500-mile radius unchanged.
 //   - Distance origin moved to 5 Central Park West, New York, NY
 //     (geocoded 40.76882, -73.98155). RADIUS_MI stays 500 (the feed maximum);
 //     the homepage's 60/100/250/500-mile buttons filter client-side.
@@ -28,8 +31,9 @@
 // (see README).
 
 // Filters applied:
-//   - chapters: NY-North Jersey, Delaware Valley, Connecticut, Western
-//     Massachusetts, Southeastern Massachusetts; programTypes '--all--'
+//   - chapters: all eleven - NY-North Jersey, Delaware Valley, Connecticut,
+//     Western Massachusetts, Southeastern Massachusetts, Boston, Worcester,
+//     Narragansett, Maine, New Hampshire, Potomac; programTypes '--all--'
 //   - PLUS chapter-independent program types, fetched with separate
 //     chapterless calls and merged in (deduped by Id):
 //       "Professional Guides", "Naturalist Program", "Staff Activities"
@@ -43,7 +47,7 @@
 //     the result is stored as distanceMi on each trip. In-person trips
 //     with no coordinates are dropped, as the site does.
 //
-// Usage: node fetch-trips-aura.mjs            # all five chapters (default)
+// Usage: node fetch-trips-aura.mjs            # all eleven chapters (default)
 //        node fetch-trips-aura.mjs <chapterId> # one chapter, as before
 //
 // Output: trips.json — { fetchedAt, chapter, chapters, source, count, trips[] }
@@ -60,6 +64,12 @@ const CHAPTERS = [
   { id: '0015000001Sg05zAAB', name: 'Connecticut' },
   { id: '0015000001Sg05xAAB', name: 'Western Massachusetts' },
   { id: '0015000001Sg06DAAR', name: 'Southeastern Massachusetts' },
+  { id: '0015000001Sg061AAB', name: 'Boston' },
+  { id: '0015000001Sg069AAB', name: 'Worcester' },
+  { id: '0015000001Sg066AAB', name: 'Narragansett' },
+  { id: '0015000001Sg065AAB', name: 'Maine' },
+  { id: '0015000001Sg060AAB', name: 'New Hampshire' },
+  { id: '0015000001Sg06EAAR', name: 'Potomac' },
 ];
 
 // Single-chapter override, as in v1: node fetch-trips-aura.mjs <chapterId>.
