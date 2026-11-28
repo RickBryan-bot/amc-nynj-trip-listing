@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-28T09:27:48.760Z",
+  "fetchedAt": "2026-11-28T16:30:28.685Z",
   "chapter": "0015000001Sg064AAB",
   "chapters": [
     "0015000001Sg064AAB",
@@ -15,7 +15,7 @@
     "0015000001Sg06EAAR"
   ],
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB,0015000001Sg06BAAR,0015000001Sg05zAAB,0015000001Sg05xAAB,0015000001Sg06DAAR,0015000001Sg061AAB,0015000001Sg069AAB,0015000001Sg066AAB,0015000001Sg065AAB,0015000001Sg060AAB,0015000001Sg06EAAR",
-  "count": 343,
+  "count": 344,
   "trips": [
     {
       "title": "Hornbeck's Creek and PEEC",
@@ -81,7 +81,7 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIi12AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012KnMIYA0&d=%2Fa%2FVX000003yDK1%2F1CK7mpjHoNnGPE.mXln66RjbA_8nQ85hBCabRp8DnXc&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
+      "openForRegistration": false
     },
     {
       "title": "Mount Higby, Middlefield/Middletown, (C4B, Vigorous)",
@@ -1030,28 +1030,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Delaware Canal -- Riegelsville-Groundhog Locks",
-      "date": "2026-12-02",
-      "time": "10:00 AM",
-      "dateText": "Wednesday, December 2, 2026 | 10:00 AM",
-      "dateISO": "2026-12-02T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Greg Bernet"
-      ],
-      "location": "Kintnersville, PA",
-      "online": false,
-      "distanceMi": 65.2,
-      "chapter": "0015000001Sg06BAAR",
-      "chapterName": "Delaware Valley",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJ6D2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012L5MQYA0&d=%2Fa%2FVX000003yDbl%2Fv43sBmbJQxffuyfoLq3dBl1xJhWAt8HHi8N74WD8Q9E&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Washington Crossing PA to Yardley Canal Walk - 8.5 miles-",
       "date": "2026-12-02",
       "time": "10:00 AM",
@@ -1071,6 +1049,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N9y52AC",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ffRHgYAM&d=%2Fa%2FVX000002mQa9%2Fs4uTxlUm60D9G33kCswSBCho5MRuAc29J_.3roJ1ql4&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Delaware Canal -- Riegelsville-Groundhog Locks",
+      "date": "2026-12-02",
+      "time": "10:00 AM",
+      "dateText": "Wednesday, December 2, 2026 | 10:00 AM",
+      "dateISO": "2026-12-02T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Greg Bernet"
+      ],
+      "location": "Kintnersville, PA",
+      "online": false,
+      "distanceMi": 65.2,
+      "chapter": "0015000001Sg06BAAR",
+      "chapterName": "Delaware Valley",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJ6D2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012L5MQYA0&d=%2Fa%2FVX000003yDbl%2Fv43sBmbJQxffuyfoLq3dBl1xJhWAt8HHi8N74WD8Q9E&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -1170,7 +1170,7 @@
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
-      "status": "Published",
+      "status": "Waitlist",
       "leaders": [
         "Gerard Campbell"
       ],
@@ -1654,7 +1654,7 @@
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
-      "status": "Published",
+      "status": "Waitlist",
       "leaders": [
         "Michael April"
       ],
@@ -2878,6 +2878,28 @@
       "openForRegistration": true
     },
     {
+      "title": "4 mile Bryn Coed Preserve Hike",
+      "date": "2026-12-12",
+      "time": "10:30 AM",
+      "dateText": "Saturday, December 12, 2026 | 10:30 AM",
+      "dateISO": "2026-12-12T10:30:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Sharon Yates"
+      ],
+      "location": "Chester Springs, PA",
+      "online": false,
+      "distanceMi": 96.3,
+      "chapter": "0015000001Sg06BAAR",
+      "chapterName": "Delaware Valley",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NMs52AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012l2HfYAI&d=%2Fa%2FVX000003z66n%2FHbJa4Jb02U5ozAFQrD9Do4V2OWpnf7IyRI4rEbPhIi8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Ponkapoag Pond, Canton",
       "date": "2026-12-12",
       "time": "11:00 AM",
@@ -3821,7 +3843,7 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MCun2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100xu6YAA&d=%2Fa%2FVX000003snOb%2Fm0MBW.m2UiulnNIV7tT4FM_dIUyEiVSdwI21z3w6AHE&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
+      "openForRegistration": true
     },
     {
       "title": "Explore Your Inner Winter Hiker: Wachusett Mountain Gear Shakedown - Group C",
@@ -3886,7 +3908,7 @@
       "chapter": "0015000001Sg061AAB",
       "chapterName": "Boston",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MBPF2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011krujYAA&d=%2Fa%2FVX000003xHW9%2FJEetooNWlZFoxXPNsAY_utzsM22Oa4GCczSwodiNvnI&oid=00D50000000cBTwEAM",
+      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
       "openForRegistration": false
     },
     {
@@ -4044,28 +4066,6 @@
       "openForRegistration": true
     },
     {
-      "title": "20s/30s 5 Mile Hike through Jacobsburg State Park",
-      "date": "2026-12-20",
-      "time": "10:00 AM",
-      "dateText": "Sunday, December 20, 2026 | 10:00 AM",
-      "dateISO": "2026-12-20T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Welles Lobb"
-      ],
-      "location": "Nazareth, PA",
-      "online": false,
-      "distanceMi": 68.5,
-      "chapter": "0015000001Sg06BAAR",
-      "chapterName": "Delaware Valley",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGt72AG",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00001298HeYAI&d=%2Fa%2FVX000003xxbp%2FRe.c9gw7qI_d6vZcJeo7D4McrmbxxYkwlq8401IZD5E&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "French Creek Sunday Morning 10 at 10 Hike",
       "date": "2026-12-20",
       "time": "10:00 AM",
@@ -4085,6 +4085,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHKX2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010IFzOYAW&d=%2Fa%2FVX000003tYDp%2Flgmd_zwTrDkZ2RRIzON0BLjAgpgEVkWdp1F7iVMZVV8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "20s/30s 5 Mile Hike through Jacobsburg State Park",
+      "date": "2026-12-20",
+      "time": "10:00 AM",
+      "dateText": "Sunday, December 20, 2026 | 10:00 AM",
+      "dateISO": "2026-12-20T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Welles Lobb"
+      ],
+      "location": "Nazareth, PA",
+      "online": false,
+      "distanceMi": 68.5,
+      "chapter": "0015000001Sg06BAAR",
+      "chapterName": "Delaware Valley",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGt72AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00001298HeYAI&d=%2Fa%2FVX000003xxbp%2FRe.c9gw7qI_d6vZcJeo7D4McrmbxxYkwlq8401IZD5E&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -4261,7 +4283,7 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MCwP2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100xu6YAA&d=%2Fa%2FVX000003snOb%2Fm0MBW.m2UiulnNIV7tT4FM_dIUyEiVSdwI21z3w6AHE&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
+      "openForRegistration": true
     },
     {
       "title": "Fitness Hike - Borderland State Park",
