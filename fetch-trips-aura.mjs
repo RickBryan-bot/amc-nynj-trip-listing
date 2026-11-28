@@ -1,4 +1,4 @@
-// AMC Activities Directory fetcher — multi-chapter version (v3).
+// AMC Activities Directory fetcher — multi-chapter version (v4).
 //
 // Replaces fetch-trips-aura.mjs in the rickbryan-bot/amc-nynj-trip-listing
 // repo. Run by the GitHub Action with no arguments (see
@@ -13,6 +13,8 @@
 //   - v3 (Nov 27, 2026): added the remaining six chapters (Boston, Worcester,
 //     Narragansett, Maine, New Hampshire, Potomac). NH-location exclusion and
 //     500-mile radius unchanged.
+//   - v4 (Nov 28, 2026): Adventure Travel fetched chapterlessly (EXTRA_PROGRAM_TYPES),
+//     exempt from the radius and NH rules, tagged chapterName 'Adventure Travel'.
 //   - Distance origin moved to 5 Central Park West, New York, NY
 //     (geocoded 40.76882, -73.98155). RADIUS_MI stays 500 (the feed maximum);
 //     the homepage's 60/100/250/500-mile buttons filter client-side.
@@ -36,7 +38,7 @@
 //     Narragansett, Maine, New Hampshire, Potomac; programTypes '--all--'
 //   - PLUS chapter-independent program types, fetched with separate
 //     chapterless calls and merged in (deduped by Id):
-//       "Professional Guides", "Naturalist Program", "Staff Activities"
+//       "Professional Guides", "Naturalist Program", "Staff Activities", "Adventure Travel"
 //   - online events are included, from every call. They carry online:true,
 //     location '' and distanceMi null.
 //   - New Hampshire is excluded: in-person trips whose Start_Location__c
@@ -146,7 +148,7 @@ for (const ch of CHAPTERS_TO_FETCH) {
 // Calls 2+: chapter-independent program types — fetched chapterless and
 // merged in (deduped by Id below). Tagged chapter: null so the homepage
 // shows them for every chapter selection.
-const EXTRA_PROGRAM_TYPES = ['Professional Guides', 'Naturalist Program', 'Staff Activities'];
+const EXTRA_PROGRAM_TYPES = ['Professional Guides', 'Naturalist Program', 'Staff Activities', 'Adventure Travel'];
 
 const extraRecords = [];
 for (const programType of EXTRA_PROGRAM_TYPES) {
@@ -157,7 +159,7 @@ for (const programType of EXTRA_PROGRAM_TYPES) {
     noCostTrips: false,
   }, '/s/activity-directory');
   console.log(`  ${programType}: ${recs.length} records`);
-  extraRecords.push(...recs.map(r => ({ ...r, _chapterId: null, _chapterName: 'AMC-wide' })));
+  extraRecords.push(...recs.map(r => ({ ...r, _chapterId: null, _chapterName:programType === 'Adventure Travel' ? 'Adventure Travel' :  'AMC-wide' })));
 }
 
 const seen = new Set();
@@ -207,7 +209,8 @@ function distanceMi(lat, lng) {
 
 const trips = records
   .filter(a => a.Start_Date__c && a.Start_Date__c >= today)
-  .filter(a => { // online: included from every call; in-person: 500-mile radius, NH excluded
+.filter(a => { // online: included from every call; in-person: 500-mile radius, NH excluded
+  if (a.Main_Activity_Type__c === 'Adventure Travel') return true; // Adventure Travel: any distance, NH included
     const loc = a.Start_Location__c || {};
     if (EXCLUDED_STATES.includes(loc.stateCode) || EXCLUDED_STATES.includes(loc.state) || loc.state === 'New Hampshire') return false;
     if (a.Online_Event__c) return true;
@@ -228,7 +231,7 @@ const trips = records
     location: a.Start_Location__c
       ? [a.Start_Location__c.city, a.Start_Location__c.state].filter(Boolean).join(', ') : '',
     online: !!a.Online_Event__c,
-    distanceMi: a.Online_Event__c ? null
+    distanceMi: (a.Online_Event__c || !a.Start_Latitude__c || !a.Start_Longitude__c) ? null
       : Math.round(distanceMi(a.Start_Latitude__c, a.Start_Longitude__c) * 10) / 10,
     chapter: (a._chapterId === undefined ? null : a._chapterId),
     chapterName: a._chapterName || '',
