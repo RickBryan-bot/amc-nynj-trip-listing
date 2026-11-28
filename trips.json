@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T23:50:45.948Z",
+  "fetchedAt": "2026-11-28T05:39:40.671Z",
   "chapter": "0015000001Sg064AAB",
   "chapters": [
     "0015000001Sg064AAB",
@@ -15,228 +15,8 @@
     "0015000001Sg06EAAR"
   ],
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB,0015000001Sg06BAAR,0015000001Sg05zAAB,0015000001Sg05xAAB,0015000001Sg06DAAR,0015000001Sg061AAB,0015000001Sg069AAB,0015000001Sg066AAB,0015000001Sg065AAB,0015000001Sg060AAB,0015000001Sg06EAAR",
-  "count": 296,
+  "count": 286,
   "trips": [
-    {
-      "title": "Fast and Light - Post-Thanksgiving Hike at the Cape Cod Canal",
-      "date": "2026-11-27",
-      "time": "8:15 AM",
-      "dateText": "Friday, November 27, 2026 | 8:15 AM",
-      "dateISO": "2026-11-27T08:15:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Brian Gollub"
-      ],
-      "location": "Bourne, MA",
-      "online": false,
-      "distanceMi": 187.8,
-      "chapter": "0015000001Sg06DAAR",
-      "chapterName": "Southeastern Massachusetts",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MYwv2AG",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xmVZ4YAM&d=%2Fa%2FVX000003m05d%2FMRoQ.CM4U9dtZk0O.WEnB.yJdKgeJBvOksDQ6onLGv8&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Westchester Wilderness Walk, Pound Ridge, NY  EASY/MODERATE",
-      "date": "2026-11-27",
-      "time": "9:30 AM",
-      "dateText": "Friday, November 27, 2026 | 9:30 AM",
-      "dateISO": "2026-11-27T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Bill McCarthy"
-      ],
-      "location": "Stamford, CT",
-      "online": false,
-      "distanceMi": 31.4,
-      "chapter": "0015000001Sg05zAAB",
-      "chapterName": "Connecticut",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NK5V2AW",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
-      "title": "20s/30s Black Friday hike in Arcadia",
-      "date": "2026-11-27",
-      "time": "9:30 AM",
-      "dateText": "Friday, November 27, 2026 | 9:30 AM",
-      "dateISO": "2026-11-27T09:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Catherine LiVolsi"
-      ],
-      "location": "West Greenwich, RI",
-      "online": false,
-      "distanceMi": 129,
-      "chapter": "0015000001Sg066AAB",
-      "chapterName": "Narragansett",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBtR2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000dWJtvYAG&d=%2Fa%2FUN000009ALM9%2FQ7XEKSjKtF2QlOCwxVoGrcV8Y7kiWmH0.Ln9jqukqmc&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Castle Rock at Hudson Highlands (Moderate)",
-      "date": "2026-11-27",
-      "time": "9:45 AM",
-      "dateText": "Friday, November 27, 2026 | 9:45 AM",
-      "dateISO": "2026-11-27T09:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Hank Zupnick"
-      ],
-      "location": "Garrison, NY",
-      "online": false,
-      "distanceMi": 41.6,
-      "chapter": "0015000001Sg064AAB",
-      "chapterName": "New York–North Jersey",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKK12AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000W2AbyYAF&d=%2Fa%2FUN0000086PlV%2F6ad1yoyzHpv39HVicF8vZehkQeq8PB6pNyxK9zSR5Wk&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Turkey Day Trot & Talk: Prospect Park Loop #OptOutside (Easy)",
-      "date": "2026-11-27",
-      "time": "10:00 AM",
-      "dateText": "Friday, November 27, 2026 | 10:00 AM",
-      "dateISO": "2026-11-27T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Local Walks",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Eltan Samoylov"
-      ],
-      "location": "New York, NY",
-      "online": false,
-      "distanceMi": 6.9,
-      "chapter": "0015000001Sg064AAB",
-      "chapterName": "New York–North Jersey",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NIdB2AW",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012K6qoYAC&d=%2Fa%2FVX000003yBtK%2F4k8uGSg9UwU6rTV24T9WkskI1Y.Zcdujju4ZUT442y0&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
-    },
-    {
-      "title": "Black Friday Mohican Firetower, RattlesnakeSwamp Loop",
-      "date": "2026-11-27",
-      "time": "10:00 AM",
-      "dateText": "Friday, November 27, 2026 | 10:00 AM",
-      "dateISO": "2026-11-27T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Stanton de Riel"
-      ],
-      "location": "Blairstown, NJ",
-      "online": false,
-      "distanceMi": 56.2,
-      "chapter": "0015000001Sg06BAAR",
-      "chapterName": "Delaware Valley",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NKVJ2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012RvYQYA0&d=%2Fa%2FVX000003yRA5%2FL3xqOruTVWOrNZas6trTOVUW0xTw.cCKUFHpVE3mulM&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "CANCELLED - Hop River Linear Trail, Bolton - Easy",
-      "date": "2026-11-27",
-      "time": "10:00 AM",
-      "dateText": "Friday, November 27, 2026 | 10:00 AM",
-      "dateISO": "2026-11-27T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Zellene Sandler"
-      ],
-      "location": "Bolton, CT",
-      "online": false,
-      "distanceMi": 106.3,
-      "chapter": "0015000001Sg05zAAB",
-      "chapterName": "Connecticut",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MavV2AS",
-      "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
-    },
-    {
-      "title": "Day After Thanksgiving Hike at Callahan State Park",
-      "date": "2026-11-27",
-      "time": "10:00 AM",
-      "dateText": "Friday, November 27, 2026 | 10:00 AM",
-      "dateISO": "2026-11-27T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Pam Richardson"
-      ],
-      "location": "Framingham, MA",
-      "online": false,
-      "distanceMi": 168.4,
-      "chapter": "0015000001Sg061AAB",
-      "chapterName": "Boston",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001L3Wz2AK",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000yn7DvYAI&d=%2Fa%2FVX000003p5iH%2Fv9H9wi5voLmLlfXJRlmYWXbvHS2HS8OtYIRHB5Dc6xw&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
-    },
-    {
-      "title": "20s & 30s Hike at Leominster State Forest (Optional Social After)",
-      "date": "2026-11-27",
-      "time": "10:30 AM",
-      "dateText": "Friday, November 27, 2026 | 10:30 AM",
-      "dateISO": "2026-11-27T10:30:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Peter Eggleston"
-      ],
-      "location": "Princeton, MA",
-      "online": false,
-      "distanceMi": 162.7,
-      "chapter": "0015000001Sg069AAB",
-      "chapterName": "Worcester",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N7Hx2AK",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011ChePYAS&d=%2Fa%2FVX000003wNYn%2F.w0rOHIHleI.oMS7egHfET51SuIw9k_OGx_270JV9fM&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
-    },
-    {
-      "title": "7 MILES BULLS ISLAND-LOCKATONG BLACK FRIDAY LOOP HIKE",
-      "date": "2026-11-27",
-      "time": "11:45 AM",
-      "dateText": "Friday, November 27, 2026 | 11:45 AM",
-      "dateISO": "2026-11-27T11:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Welles Lobb"
-      ],
-      "location": "Stockton, NJ",
-      "online": false,
-      "distanceMi": 60.8,
-      "chapter": "0015000001Sg06BAAR",
-      "chapterName": "Delaware Valley",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NBQP2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011amxtYAA&d=%2Fa%2FVX000003x3JV%2F620j0_9NgS_XFIPky2v2bFr4_SGBkuKMosquxbIl_sY&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
     {
       "title": "Hornbeck's Creek and PEEC",
       "date": "2026-11-28",
@@ -455,7 +235,7 @@
       "chapterName": "Connecticut",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJB32AO",
       "image": "https://activities.outdoors.org/resource/1745325135000/OC_DefaultActivityImage",
-      "openForRegistration": true
+      "openForRegistration": false
     },
     {
       "title": "HOLYOKE’S HISTORIC CANALS AND DAM TOUR",
@@ -510,7 +290,7 @@
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Local Walks",
       "programType": "Volunteer Led",
-      "status": "Published",
+      "status": "Full",
       "leaders": [
         "Rebeca Galbinski"
       ],
@@ -1030,28 +810,6 @@
       "openForRegistration": true
     },
     {
-      "title": "THE PROGRESSIVE HIKING SERIES - HIKE #11",
-      "date": "2026-12-01",
-      "time": "9:45 AM",
-      "dateText": "Tuesday, December 1, 2026 | 9:45 AM",
-      "dateISO": "2026-12-01T09:45:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Ken Cohen"
-      ],
-      "location": "Braintree, MA",
-      "online": false,
-      "distanceMi": 182.3,
-      "chapter": "0015000001Sg06DAAR",
-      "chapterName": "Southeastern Massachusetts",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JVdp2AG",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xDHaYYAW&d=%2Fa%2FVX000003kFVN%2FU11pscEUjH.SREOjuPBOT6b19XcZA2309F9E7rDljKI&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "Fall Tuesday Morning Blue Hills Hike Series #11",
       "date": "2026-12-01",
       "time": "9:45 AM",
@@ -1093,6 +851,28 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001IYAj2AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000wJYXdYAO&d=%2Fa%2FVX000003hKL7%2FbpANYBWAO5pD3qZZyH50qhJdjqrSng2jNsXBNwgQnf8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "THE PROGRESSIVE HIKING SERIES - HIKE #11",
+      "date": "2026-12-01",
+      "time": "9:45 AM",
+      "dateText": "Tuesday, December 1, 2026 | 9:45 AM",
+      "dateISO": "2026-12-01T09:45:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Ken Cohen"
+      ],
+      "location": "Braintree, MA",
+      "online": false,
+      "distanceMi": 182.3,
+      "chapter": "0015000001Sg06DAAR",
+      "chapterName": "Southeastern Massachusetts",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JVdp2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xDHaYYAW&d=%2Fa%2FVX000003kFVN%2FU11pscEUjH.SREOjuPBOT6b19XcZA2309F9E7rDljKI&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2006,7 +1786,7 @@
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
-      "status": "Waitlist",
+      "status": "Full",
       "leaders": [
         "Pablo Trigo Mourino"
       ],
@@ -2504,28 +2284,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Boston Chapter Hiking/Backpacking Committee Meeting",
-      "date": "2026-12-08",
-      "time": "7:00 PM",
-      "dateText": "Tuesday, December 8, 2026 | 7:00 PM",
-      "dateISO": "2026-12-08T19:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Stephen Duly"
-      ],
-      "location": "",
-      "online": true,
-      "distanceMi": null,
-      "chapter": "0015000001Sg061AAB",
-      "chapterName": "Boston",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001EGHF2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000h3r8kYAA&d=%2Fa%2FVX000002s0eb%2FLV9OllSoT6cQKGBblXSHK4Gwxhx1nC1yZtTlGh.4GNA&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "20s & 30s book club: Bog Queen (novel)",
       "date": "2026-12-08",
       "time": "7:00 PM",
@@ -2545,6 +2303,28 @@
       "chapterName": "Boston",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MDdx2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000102oUtYAI&d=%2Fa%2FVX000003stFV%2F_sqEhZpLlx.ESOl4aPfRinbg_K6R9XloOwcxnTqPj20&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Boston Chapter Hiking/Backpacking Committee Meeting",
+      "date": "2026-12-08",
+      "time": "7:00 PM",
+      "dateText": "Tuesday, December 8, 2026 | 7:00 PM",
+      "dateISO": "2026-12-08T19:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Stephen Duly"
+      ],
+      "location": "",
+      "online": true,
+      "distanceMi": null,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001EGHF2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000h3r8kYAA&d=%2Fa%2FVX000002s0eb%2FLV9OllSoT6cQKGBblXSHK4Gwxhx1nC1yZtTlGh.4GNA&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -2856,28 +2636,6 @@
       "openForRegistration": true
     },
     {
-      "title": "WHP: Middlesex Fells Saturday",
-      "date": "2026-12-12",
-      "time": "9:00 AM",
-      "dateText": "Saturday, December 12, 2026",
-      "dateISO": "2026-12-12T09:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Robert Mackin"
-      ],
-      "location": "Stoneham, MA",
-      "online": false,
-      "distanceMi": 189.6,
-      "chapter": "0015000001Sg061AAB",
-      "chapterName": "Boston",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Lc9l2AC",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zPfGFYA0&d=%2Fa%2FVX000003qxDZ%2FjcI54YjAOITak_qc3UjE57565aFvxXSWqADhAQ8azFg&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "20s-40s Hybrid Wilderness First Aid (WFA) + CPR Course",
       "date": "2026-12-12",
       "time": "9:00 AM",
@@ -2897,6 +2655,28 @@
       "chapterName": "Boston",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001K1Qn2AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xmApXYAU&d=%2Fa%2FVX000003lxkT%2FWDQ4lwmubnkBzQvF0u_5zZOPtZ9O1Wlc3boRy_ocr3c&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "WHP: Middlesex Fells Saturday",
+      "date": "2026-12-12",
+      "time": "9:00 AM",
+      "dateText": "Saturday, December 12, 2026",
+      "dateISO": "2026-12-12T09:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Robert Mackin"
+      ],
+      "location": "Stoneham, MA",
+      "online": false,
+      "distanceMi": 189.6,
+      "chapter": "0015000001Sg061AAB",
+      "chapterName": "Boston",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Lc9l2AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zPfGFYA0&d=%2Fa%2FVX000003qxDZ%2FjcI54YjAOITak_qc3UjE57565aFvxXSWqADhAQ8azFg&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -3010,28 +2790,6 @@
       "openForRegistration": true
     },
     {
-      "title": "Trail Trace the Blue Hills - Fowl Meadow",
-      "date": "2026-12-12",
-      "time": "10:00 AM",
-      "dateText": "Saturday, December 12, 2026 | 10:00 AM",
-      "dateISO": "2026-12-12T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Abirami Natarajan"
-      ],
-      "location": "Canton, MA",
-      "online": false,
-      "distanceMi": 178,
-      "chapter": "0015000001Sg06DAAR",
-      "chapterName": "Southeastern Massachusetts",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJSn2AO",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012LyyqYAC&d=%2Fa%2FVX000003yEw1%2Fa5JNx60dGAav6ozF.LsI4mE1Rod6NeUPslYYvmCkiUk&oid=00D50000000cBTwEAM",
-      "openForRegistration": false
-    },
-    {
       "title": "20s and 30s Burrage Pond",
       "date": "2026-12-12",
       "time": "10:00 AM",
@@ -3052,6 +2810,28 @@
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001N7bJ2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011CryqYAC&d=%2Fa%2FVX000003wO6f%2FyeOY97R.OunG7.fz.wXCD5spEs6nnxiu7RkAmLriV.w&oid=00D50000000cBTwEAM",
       "openForRegistration": true
+    },
+    {
+      "title": "Trail Trace the Blue Hills - Fowl Meadow",
+      "date": "2026-12-12",
+      "time": "10:00 AM",
+      "dateText": "Saturday, December 12, 2026 | 10:00 AM",
+      "dateISO": "2026-12-12T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Abirami Natarajan"
+      ],
+      "location": "Canton, MA",
+      "online": false,
+      "distanceMi": 178,
+      "chapter": "0015000001Sg06DAAR",
+      "chapterName": "Southeastern Massachusetts",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NJSn2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012LyyqYAC&d=%2Fa%2FVX000003yEw1%2Fa5JNx60dGAav6ozF.LsI4mE1Rod6NeUPslYYvmCkiUk&oid=00D50000000cBTwEAM",
+      "openForRegistration": false
     },
     {
       "title": "Tom leads Mt Tom/ Holyoke MA.",
@@ -4242,28 +4022,6 @@
       "openForRegistration": true
     },
     {
-      "title": "French Creek Sunday Morning 10 at 10 Hike",
-      "date": "2026-12-20",
-      "time": "10:00 AM",
-      "dateText": "Sunday, December 20, 2026 | 10:00 AM",
-      "dateISO": "2026-12-20T10:00:00-05:00",
-      "activityType": "Hiking, Local Walks, & Trail Running",
-      "subType": "Hiking",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Jay Gross"
-      ],
-      "location": "Elverson, PA",
-      "online": false,
-      "distanceMi": 102.8,
-      "chapter": "0015000001Sg06BAAR",
-      "chapterName": "Delaware Valley",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHKX2A4",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010IFzOYAW&d=%2Fa%2FVX000003tYDp%2Flgmd_zwTrDkZ2RRIzON0BLjAgpgEVkWdp1F7iVMZVV8&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
       "title": "20s/30s 5 Mile Hike through Jacobsburg State Park",
       "date": "2026-12-20",
       "time": "10:00 AM",
@@ -4283,6 +4041,28 @@
       "chapterName": "Delaware Valley",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGt72AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00001298HeYAI&d=%2Fa%2FVX000003xxbp%2FRe.c9gw7qI_d6vZcJeo7D4McrmbxxYkwlq8401IZD5E&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "French Creek Sunday Morning 10 at 10 Hike",
+      "date": "2026-12-20",
+      "time": "10:00 AM",
+      "dateText": "Sunday, December 20, 2026 | 10:00 AM",
+      "dateISO": "2026-12-20T10:00:00-05:00",
+      "activityType": "Hiking, Local Walks, & Trail Running",
+      "subType": "Hiking",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Jay Gross"
+      ],
+      "location": "Elverson, PA",
+      "online": false,
+      "distanceMi": 102.8,
+      "chapter": "0015000001Sg06BAAR",
+      "chapterName": "Delaware Valley",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NHKX2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010IFzOYAW&d=%2Fa%2FVX000003tYDp%2Flgmd_zwTrDkZ2RRIzON0BLjAgpgEVkWdp1F7iVMZVV8&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -5501,28 +5281,6 @@
       "time": "10:00 AM",
       "dateText": "Friday, January 29, 2027 | 10:00 AM",
       "dateISO": "2027-01-29T10:00:00-05:00",
-      "activityType": "Skiing",
-      "subType": "Cross Country",
-      "programType": "Volunteer Led",
-      "status": "Published",
-      "leaders": [
-        "Charles Arsenault"
-      ],
-      "location": "Beaver Cove, ME",
-      "online": false,
-      "distanceMi": 401,
-      "chapter": "0015000001Sg069AAB",
-      "chapterName": "Worcester",
-      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCkf2AG",
-      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011iLCXYA2&d=%2Fa%2FVX000003xFNt%2F2PeZ3SQjQCgmaNH5OIBYkwTCSoZZy5CCf_FXUJO6i8w&oid=00D50000000cBTwEAM",
-      "openForRegistration": true
-    },
-    {
-      "title": "Winter Lodge-to-Lodge Trip in Maine Wilderness",
-      "date": "2027-01-29",
-      "time": "10:00 AM",
-      "dateText": "Friday, January 29, 2027 | 10:00 AM",
-      "dateISO": "2027-01-29T10:00:00-05:00",
       "activityType": "Hiking, Local Walks, & Trail Running",
       "subType": "Hiking",
       "programType": "Volunteer Led",
@@ -5537,6 +5295,28 @@
       "chapterName": "Worcester",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001LTb72AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011Aww5YAC&d=%2Fa%2FVX000003wKJB%2FunRxjuHuU6apc9QDBmJysuH_AaEwMK5jpb0o69Hx4Yk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Winter Lodge-to-Lodge Trip in Maine Wilderness",
+      "date": "2027-01-29",
+      "time": "10:00 AM",
+      "dateText": "Friday, January 29, 2027 | 10:00 AM",
+      "dateISO": "2027-01-29T10:00:00-05:00",
+      "activityType": "Skiing",
+      "subType": "Cross Country",
+      "programType": "Volunteer Led",
+      "status": "Published",
+      "leaders": [
+        "Charles Arsenault"
+      ],
+      "location": "Beaver Cove, ME",
+      "online": false,
+      "distanceMi": 401,
+      "chapter": "0015000001Sg069AAB",
+      "chapterName": "Worcester",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NCkf2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011iLCXYA2&d=%2Fa%2FVX000003xFNt%2F2PeZ3SQjQCgmaNH5OIBYkwTCSoZZy5CCf_FXUJO6i8w&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
