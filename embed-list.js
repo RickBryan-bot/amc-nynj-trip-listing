@@ -59,7 +59,7 @@
   // e.g. 'https://amc-nynj.github.io/amc-nynj-trip-listing/trips.json'
   var TRIPS_URL = 'https://rickbryan-bot.github.io/amc-nynj-trip-listing/trips.json';
   var DIRECTORY_URL = 'https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB';
-  var SECTION_ORDER = ['Hiking, Local Walks, & Trail Running', 'Social', 'Skiing',
+  var SECTION_ORDER = ['Hiking, Local Walks, & Trail Running', 'Social', 'Adventure Travel', 'Skiing',
     'Backpacking', 'Wilderness First Aid', 'Biking', 'Camping', 'Conservation',
     'Trail Work', 'Outdoor Leadership Training', 'Paddling', 'Climbing & Mountaineering',
     'Evening Programs', 'Nature Walks', 'Yoga'];
