@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-28T05:39:40.671Z",
+  "fetchedAt": "2026-11-28T09:27:48.760Z",
   "chapter": "0015000001Sg064AAB",
   "chapters": [
     "0015000001Sg064AAB",
@@ -15,7 +15,7 @@
     "0015000001Sg06EAAR"
   ],
   "source": "https://activities.outdoors.org/s/activity-directory?chapters=0015000001Sg064AAB,0015000001Sg06BAAR,0015000001Sg05zAAB,0015000001Sg05xAAB,0015000001Sg06DAAR,0015000001Sg061AAB,0015000001Sg069AAB,0015000001Sg066AAB,0015000001Sg065AAB,0015000001Sg060AAB,0015000001Sg06EAAR",
-  "count": 286,
+  "count": 343,
   "trips": [
     {
       "title": "Hornbeck's Creek and PEEC",
@@ -873,6 +873,28 @@
       "chapterName": "Southeastern Massachusetts",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001JVdp2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000xDHaYYAW&d=%2Fa%2FVX000003kFVN%2FU11pscEUjH.SREOjuPBOT6b19XcZA2309F9E7rDljKI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Brazil Discovery Tour",
+      "date": "2026-12-01",
+      "time": "5:00 PM",
+      "dateText": "Tuesday, December 1, 2026",
+      "dateISO": "2026-12-01T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "John English"
+      ],
+      "location": "Rio de Janeiro, RJ",
+      "online": false,
+      "distanceMi": 4824.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVrh2AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dpGIoYAM&d=%2Fa%2FVX000002f5aT%2FIOr3mXSRfBN_D2puSn_YyiiZCTaRc74hSMC4Q8mQ21o&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -4770,6 +4792,28 @@
       "openForRegistration": false
     },
     {
+      "title": "Australia's East Coast; Sydney to the Great Barrier Reef",
+      "date": "2027-01-08",
+      "time": "5:00 PM",
+      "dateText": "Friday, January 8, 2027",
+      "dateISO": "2027-01-08T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Full",
+      "leaders": [
+        "John English"
+      ],
+      "location": "Sydney",
+      "online": false,
+      "distanceMi": null,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zklt2AA",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000e5BDYYA2&d=%2Fa%2FVX000002fyn4%2FRjgUkG0N20fkndjKOEHzaqqtPnoGP_Ut34CMpHJpJQo&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "SEM Beginner Winter Hiking Series #3 - Mt. Greylock -  Adams, MA",
       "date": "2027-01-09",
       "time": "8:00 AM",
@@ -5232,6 +5276,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Hike & Explore New Zealand’s Spectacular South Island",
+      "date": "2027-01-28",
+      "time": "All Day",
+      "dateText": "Thursday, January 28, 2027 | All Day",
+      "dateISO": "2027-01-28T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Larry Yetter"
+      ],
+      "location": "Nelson",
+      "online": false,
+      "distanceMi": 9026.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001MHfx2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000Sf5GZYAZ&d=%2Fa%2FUN000007ScUX%2FFMutXy_O.qExeaKfcP71Z03xRf0iyGPen4P3AnVSIvo&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Winter Women's Weekend at Gorman Chairback Lodge",
       "date": "2027-01-29",
       "time": "All Day",
@@ -5386,6 +5452,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Costa Rica Hiking, Mindfulness, and Yoga",
+      "date": "2027-01-31",
+      "time": "All Day",
+      "dateText": "Sunday, January 31, 2027 | All Day",
+      "dateISO": "2027-01-31T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Susan Christopherson"
+      ],
+      "location": "San José",
+      "online": false,
+      "distanceMi": 2218.6,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX00000101Rl2AI",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000eMnnuYAC&d=%2Fa%2FVX000002hA4b%2FhMoGMmlkhaxmDPjbBM63oMITWZNBGVFlsBYpYzNfV8I&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Maine Woods Lodge-to-Lodge Ski Adventure",
       "date": "2027-02-02",
       "time": "All Day",
@@ -5405,6 +5493,28 @@
       "chapterName": "Maine",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001I0Qn2AK",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000beAEfYAM&d=%2Fa%2FUN000008yodF%2FO7LzKI6drsQrUNfT_xFYcxYYvo1jcV_7CXm73vEMjzg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Death Valley: Landscapes of Contrast",
+      "date": "2027-02-05",
+      "time": "All Day",
+      "dateText": "Friday, February 5, 2027 | All Day",
+      "dateISO": "2027-02-05T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Samir Patel"
+      ],
+      "location": "Las Vegas, NV",
+      "online": false,
+      "distanceMi": 2228.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001tAkX2AU",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000bhvycYAA&d=%2Fa%2FUN000008z7kk%2Fr2GWL3jY595gyxIlpicy4RJLJPeoh8b1zEBKBlOVHJc&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -5471,6 +5581,28 @@
       "chapterName": "New York–North Jersey",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NExl2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000011vB5mYAE&d=%2Fa%2FVX000003xZkn%2FQ0KA2XbtRxgTToYLshnF2KfjjLTFIh5jcYJSzx8OxX0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Trekking Patagonia in Chile and Argentina",
+      "date": "2027-02-07",
+      "time": "5:00 PM",
+      "dateText": "Sunday, February 7, 2027",
+      "dateISO": "2027-02-07T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Charles Huber"
+      ],
+      "location": "Punta Arenas",
+      "online": false,
+      "distanceMi": 6493.2,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zWSn2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dpoNhYAI&d=%2Fa%2FVX000002f8N3%2Ffgei7K.yTOHsY.9I0EQIHueLdYN1nWyl_dX4IgW7Nas&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -5559,6 +5691,72 @@
       "chapterName": "Connecticut",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NL9d2AG",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000012QSgXYAW&d=%2Fa%2FVX000003yOXB%2FUWHCpG8x.q_o.1K0Gj7kiuASZS0KG7mia3yUx.w8z48&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "TREKKING PATAGONIA IN CHILE AND ARGENTINA - Section 2 (#2718)",
+      "date": "2027-02-14",
+      "time": "All Day",
+      "dateText": "Sunday, February 14, 2027 | All Day",
+      "dateISO": "2027-02-14T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Linda Moraski"
+      ],
+      "location": "Punta Arenas",
+      "online": false,
+      "distanceMi": 6492.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000014nb32AA",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000j9A6HYAU&d=%2Fa%2FVX00000308ez%2FIdpHUiNI98HFmnfQYkJh1wIXbAT.Mxf.zxQBcDcboT0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Belize: A Treasure Trove of Biodiversity and Natural Beauty",
+      "date": "2027-02-14",
+      "time": "5:00 PM",
+      "dateText": "Sunday, February 14, 2027 | 5:00 PM",
+      "dateISO": "2027-02-14T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Full",
+      "leaders": [
+        "Pamela Madigan"
+      ],
+      "location": "Burrell Boom",
+      "online": false,
+      "distanceMi": 1818.6,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVgP2AU",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dp9pBYAQ&d=%2Fa%2FVX000002f52b%2FKO1vpBlLKZS4CrglfkFkVM8eqcoeEYGQubq8JPvKou8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "New Zealand Classics: Milford & Routeburn Tracks",
+      "date": "2027-02-15",
+      "time": "All Day",
+      "dateText": "Monday, February 15, 2027 | All Day",
+      "dateISO": "2027-02-15T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Rami Haddad"
+      ],
+      "location": "otago",
+      "online": false,
+      "distanceMi": 9273.1,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001sUer2AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000bRvwOYAS&d=%2Fa%2FUN000008xENJ%2F2IZunvPl8Kr5U_qggcuovjUORoNcVF_R7RIC9DhcjLk&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -5848,6 +6046,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Rondane Norway XC Skiing",
+      "date": "2027-03-06",
+      "time": "5:00 PM",
+      "dateText": "Saturday, March 6, 2027",
+      "dateISO": "2027-03-06T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Michael Barry"
+      ],
+      "location": "Oslo",
+      "online": false,
+      "distanceMi": 3671,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001Cm572AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qTNRYYA4&d=%2Fa%2FVX000003OfLF%2FLAdgEjAK_Ts1PR1k2iSAqG78y9ztLXcV6yMw3zUH4jg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Backpack: Ironstone (rev 11.0)",
       "date": "2027-03-20",
       "time": "8:00 AM",
@@ -5936,6 +6156,94 @@
       "openForRegistration": false
     },
     {
+      "title": "1200 Years of Tradition in Japan: Temples, Cherry Blossoms & Pilgrimage",
+      "date": "2027-03-29",
+      "time": "All Day",
+      "dateText": "Monday, March 29, 2027 | All Day",
+      "dateISO": "2027-03-29T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Rami Haddad"
+      ],
+      "location": "Osaka",
+      "online": false,
+      "distanceMi": 6896.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVmr2AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dp9dxYAA&d=%2Fa%2FVX000002f5Qn%2FoKfZ4Uc6zHfQ8lTlGK4SexNULn1r2E3mo_1jc137EoM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "St. John U.S. Virgin Isles Adventure",
+      "date": "2027-03-31",
+      "time": "All Day",
+      "dateText": "Wednesday, March 31, 2027 | All Day",
+      "dateISO": "2027-03-31T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Pamela Madigan"
+      ],
+      "location": "Cruz Bay",
+      "online": false,
+      "distanceMi": 1643.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVjd2AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dpCzxYAE&d=%2Fa%2FVX000002f5Dt%2FyL1mTPolaCccOTnEZi83K9MXrm3n0NzIKHMCMjXQTtA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Ultimate Sicily:   History, Hiking, Culture, and Cuisine (#2720)",
+      "date": "2027-04-02",
+      "time": "All Day",
+      "dateText": "Friday, April 2, 2027 | All Day",
+      "dateISO": "2027-04-02T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Stephen Cohen"
+      ],
+      "location": "Palermo",
+      "online": false,
+      "distanceMi": 4455.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017MCw2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000lC5owYAC&d=%2Fa%2FVX0000037mcT%2FbA3WMz_Mjvc6IMQp3yVPWKWH5cFQCphqprGAYxLazXk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Puglia, Italy’s Enchanted South: A Journey of Biking, Hiking, and Culture",
+      "date": "2027-04-02",
+      "time": "5:00 PM",
+      "dateText": "Friday, April 2, 2027",
+      "dateISO": "2027-04-02T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Susan Christopherson"
+      ],
+      "location": "Bari",
+      "online": false,
+      "distanceMi": 4498.7,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001D0b72AC",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qi4BjYAI&d=%2Fa%2FVX000003PLVm%2FkjQtkKuvJeFfzEHg9IH5ZBp7ytzJMaAj_H4dAs3Y4NI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "NOLS Wilderness First Aid - Boston",
       "date": "2027-04-03",
       "time": "8:00 AM",
@@ -5958,6 +6266,50 @@
       "openForRegistration": true
     },
     {
+      "title": "Greece Day Hiking & Culture – Athens and the Peloponnese Peninsula",
+      "date": "2027-04-04",
+      "time": "All Day",
+      "dateText": "Sunday, April 4, 2027 | All Day",
+      "dateISO": "2027-04-04T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Michael Wainer"
+      ],
+      "location": "Athens",
+      "online": false,
+      "distanceMi": 4921.7,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001sUBp2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000bSQwnYAG&d=%2Fa%2FUN000008xG0v%2FcdhxFi1wBPREE3xbY_3jikMG5.PWElal313VRkQ_2_M&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Exploring Wales from the Irish Sea to Brecon Beacons",
+      "date": "2027-04-10",
+      "time": "All Day",
+      "dateText": "Saturday, April 10, 2027 | All Day",
+      "dateISO": "2027-04-10T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Leslie Carson"
+      ],
+      "location": "Cardiff",
+      "online": false,
+      "distanceMi": 3333.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVzl2AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dpKr5YAE&d=%2Fa%2FVX000002f6DB%2FP13ONTgmRvkm8Fb5gLRM1W.JBF7NgiVZZ9b.lnc.z2Y&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "NOLS Wilderness First Aid - Western MA",
       "date": "2027-04-10",
       "time": "8:00 AM",
@@ -5977,6 +6329,28 @@
       "chapterName": "AMC-wide",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MPFJ2A4",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Day Hiking in the Heart of France’s Provence Region (#2721)",
+      "date": "2027-04-15",
+      "time": "All Day",
+      "dateText": "Thursday, April 15, 2027 | All Day",
+      "dateISO": "2027-04-15T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Beth Zimmer"
+      ],
+      "location": "Marseille",
+      "online": false,
+      "distanceMi": 3914.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017KmD2AU",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000lbFUrYAM&d=%2Fa%2FVX0000039EtF%2FHWtsIRS03j_RrdGNQ2IEmrI7U65wvp3Jta_6S6U2pcU&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -6068,6 +6442,28 @@
       "openForRegistration": false
     },
     {
+      "title": "Italy: Day Hiking in Abruzzo, Amalfi and Capri",
+      "date": "2027-05-01",
+      "time": "All Day",
+      "dateText": "Saturday, May 1, 2027 | All Day",
+      "dateISO": "2027-05-01T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Leslie Carson"
+      ],
+      "location": "Rome",
+      "online": false,
+      "distanceMi": 4277.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVq52AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dpG9BYAU&d=%2Fa%2FVX000002f5U1%2FY9QI0kOKRj5JMbCiYKm_fpK6vwFYbZ6d0gUHzuo_siI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Essentials of Cycle Touring Seminar",
       "date": "2027-05-01",
       "time": "9:00 AM",
@@ -6087,6 +6483,50 @@
       "chapterName": "Worcester",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001NGI12AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000123S37YAE&d=%2Fa%2FVX000003xq2U%2FCuugBHQ8LEe93cNBGXrUVRul6KX_5_w2T2rWwvjQf4o&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Day Hiking the Appalachian Trail: Georgia",
+      "date": "2027-05-01",
+      "time": "5:00 PM",
+      "dateText": "Saturday, May 1, 2027",
+      "dateISO": "2027-05-01T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Ann Boland"
+      ],
+      "location": "Atlanta, GA",
+      "online": false,
+      "distanceMi": 748.8,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CWMv2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qBj0jYAC&d=%2Fa%2FVX000003NmVF%2FpWpeDTty_bx8ISM0ADDXfi3D0OCY6qJcCwXa9yWYKuk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking England’s Salt Path from Penzance to St Ives",
+      "date": "2027-05-07",
+      "time": "5:00 PM",
+      "dateText": "Friday, May 7, 2027",
+      "dateISO": "2027-05-07T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Jeanne Blauner"
+      ],
+      "location": "London",
+      "online": false,
+      "distanceMi": 3457.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CXE92AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qCRswYAG&d=%2Fa%2FVX000003Nnr7%2FAXqiBCNbuJALFdG.24qACdNZmZNvv0PZWlcj1F_x11U&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -6112,6 +6552,50 @@
       "openForRegistration": true
     },
     {
+      "title": "Ireland: Coastal Walking on the Beara Way and the Dingle Way",
+      "date": "2027-05-14",
+      "time": "5:00 PM",
+      "dateText": "Friday, May 14, 2027",
+      "dateISO": "2027-05-14T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "David Allen"
+      ],
+      "location": "Shannon",
+      "online": false,
+      "distanceMi": 3076.6,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CcnJ2AS",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qHpYHYA0&d=%2Fa%2FVX000003O7LB%2FVeret2gjZDqhSJtZieueWT0ddjWgZXAR2uPRi71svqI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Trekking England Coast to Coast",
+      "date": "2027-05-15",
+      "time": "All Day",
+      "dateText": "Saturday, May 15, 2027 | All Day",
+      "dateISO": "2027-05-15T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Ann Boland"
+      ],
+      "location": "Saint Bees",
+      "online": false,
+      "distanceMi": 3262.6,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zW4b2AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dpI9MYAU&d=%2Fa%2FVX000002f6pt%2FrxWxzo.9jJCo3gE2mstYICvFog6i5874Qz0lUVJDd3k&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "NOLS Wilderness First Aid - Rhode Island",
       "date": "2027-05-15",
       "time": "8:00 AM",
@@ -6131,6 +6615,28 @@
       "chapterName": "AMC-wide",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MUdB2AW",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Easy Hiking in the Cotswolds (#2722)",
+      "date": "2027-05-21",
+      "time": "All Day",
+      "dateText": "Friday, May 21, 2027 | All Day",
+      "dateISO": "2027-05-21T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Full",
+      "leaders": [
+        "Karen Barsanti"
+      ],
+      "location": "Moreton-in-Marsh",
+      "online": false,
+      "distanceMi": null,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX00000172Fp2AI",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ktI55YAE&d=%2Fa%2FVX0000036Yrh%2FZq9rIWBbdkcuNS2C6sjApUvL5_HIUyo690HgveaWQD4&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -6178,6 +6684,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Safari in the Kalahari: Botswana and Victoria Falls, Zambia",
+      "date": "2027-05-25",
+      "time": "All Day",
+      "dateText": "Tuesday, May 25, 2027 | All Day",
+      "dateISO": "2027-05-25T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Dan Stone"
+      ],
+      "location": "Botswana",
+      "online": false,
+      "distanceMi": 7649.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UUN000001sTu52AE",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068UN00000bS5XJYA0&d=%2Fa%2FUN000008xCyD%2FciCOVr3TSiVncYvkS0H3mtDTipl0LcDLrp6ENTM4AQw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "NOLS Wilderness First Aid - Connecticut",
       "date": "2027-05-29",
       "time": "8:00 AM",
@@ -6200,6 +6728,490 @@
       "openForRegistration": true
     },
     {
+      "title": "Exploring Montenegro’s Five National Parks (#2723)",
+      "date": "2027-06-05",
+      "time": "All Day",
+      "dateText": "Saturday, June 5, 2027 | All Day",
+      "dateISO": "2027-06-05T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Michelle Spaziani"
+      ],
+      "location": "Podgorica",
+      "online": false,
+      "distanceMi": 4550.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017OWT2A2",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ln2GwYAI&d=%2Fa%2FVX000003A3UL%2FZQpXTNsdfyLlza3uQKz8sUoc4eeXoDyba.xnawEG7jE&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Cape Bretton Cabot Trail Bike",
+      "date": "2027-06-11",
+      "time": "5:00 PM",
+      "dateText": "Friday, June 11, 2027",
+      "dateISO": "2027-06-11T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Michael Barry"
+      ],
+      "location": "Halifax, NS",
+      "online": false,
+      "distanceMi": 590.8,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CmJd2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qTs8jYAC&d=%2Fa%2FVX000003Og1B%2Ff8bcmwGaUurWGVDstHUd9lZZxEySEFn.EEf6FuF7Xcc&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking Finland’s National Parks and Ǻland Islands",
+      "date": "2027-06-12",
+      "time": "5:00 PM",
+      "dateText": "Saturday, June 12, 2027",
+      "dateISO": "2027-06-12T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Cindy Martell"
+      ],
+      "location": "Helsinki",
+      "online": false,
+      "distanceMi": 4111.1,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CWTN2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qBTYuYAO&d=%2Fa%2FVX000003Nmev%2FY2qW8Sn7kQIaNlD7NYNLHHybDLNwOKZ7JPGWkUAGKZY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking Spain’s Costa Brava: Camí de Ronda (#2724)",
+      "date": "2027-06-16",
+      "time": "5:00 PM",
+      "dateText": "Wednesday, June 16, 2027",
+      "dateISO": "2027-06-16T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "John English"
+      ],
+      "location": "Barcelona",
+      "online": false,
+      "distanceMi": 3828.6,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017AID2A2",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000l1LNWYA2&d=%2Fa%2FVX00000375yv%2FJN.I3UALe4X6n6ngo1uy73VTDs0bkC09MQB2PHsc9s4&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Women’s + Under the Midnight Sun: Sweden’s King’s Trail",
+      "date": "2027-06-21",
+      "time": "5:00 PM",
+      "dateText": "Monday, June 21, 2027",
+      "dateISO": "2027-06-21T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Stacia Biel"
+      ],
+      "location": "Kiruna",
+      "online": false,
+      "distanceMi": 3752,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001D8FJ2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qp79bYAA&d=%2Fa%2FVX000003Plur%2FOF6eFJPsbU4NISEkx1ouRioEDhBxS9O8bQ518icv5QY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking in Italy’s Tyrolean Region: Meran and Val Venosta (#2725)",
+      "date": "2027-06-25",
+      "time": "All Day",
+      "dateText": "Friday, June 25, 2027 | All Day",
+      "dateISO": "2027-06-25T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Stephen Cohen"
+      ],
+      "location": "Merano",
+      "online": false,
+      "distanceMi": 4057.7,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017NSL2A2",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000lCxECYA0&d=%2Fa%2FVX0000037qY1%2FCU_7vGVPbbnqe2O4a5.6R2i8ooAP0eBy.Vcdb111Ajk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Young Members 20s/30s: Trek the Fjord of Light in Norway",
+      "date": "2027-07-02",
+      "time": "All Day",
+      "dateText": "Friday, July 2, 2027 | All Day",
+      "dateISO": "2027-07-02T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Rami Haddad"
+      ],
+      "location": "Stavanger",
+      "online": false,
+      "distanceMi": 3524,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000000zVtJ2AU",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000dp9fWYAQ&d=%2Fa%2FVX000002f5dh%2FDy2AFaIWVoPhxFD6FiozOkj2wLsKUAlsMnN0Pxf57hU&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking in the Italian Dolomites",
+      "date": "2027-07-04",
+      "time": "5:00 PM",
+      "dateText": "Sunday, July 4, 2027",
+      "dateISO": "2027-07-04T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Full",
+      "leaders": [
+        "Karen Barsanti"
+      ],
+      "location": "Ortisei",
+      "online": false,
+      "distanceMi": 4082.4,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CWoL2AW",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qCCtwYAG&d=%2Fa%2FVX000003Nmzt%2F8fZ0RJiD9Nj7gDfwJ8Pq6C5wyJzFkGCkmn8yAsz.FO0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Day Hiking in the Shadow of Mont Blanc (#2726)",
+      "date": "2027-07-08",
+      "time": "All Day",
+      "dateText": "Thursday, July 8, 2027 | All Day",
+      "dateISO": "2027-07-08T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Stephen Cohen"
+      ],
+      "location": "Geneva",
+      "online": false,
+      "distanceMi": 3859.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017MUf2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000lDXntYAG&d=%2Fa%2FVX0000037rST%2FdtvrHOB0kiKWjjBvsbLMSEsQYobU_hO_ijUmA0fHLM0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking the Kenai Peninsula of Alaska",
+      "date": "2027-07-16",
+      "time": "5:00 PM",
+      "dateText": "Friday, July 16, 2027",
+      "dateISO": "2027-07-16T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "John English"
+      ],
+      "location": "Anchorage, AK",
+      "online": false,
+      "distanceMi": null,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000016ulJ2AQ",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kn0JAYAY&d=%2Fa%2FVX0000036Hqr%2F8K04bDO4eKc9i6yxOMamGhTIoigc407pUtr594ls0zw&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Moorish Caravan: Solar Eclipse in Tangier Between Andalucía & Blue City (#2728)",
+      "date": "2027-07-26",
+      "time": "All Day",
+      "dateText": "Monday, July 26, 2027 | All Day",
+      "dateISO": "2027-07-26T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Rami Haddad"
+      ],
+      "location": "Seville",
+      "online": false,
+      "distanceMi": 3561.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX00000172PV2AY",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000ktOFOYA2&d=%2Fa%2FVX0000036Ziv%2FCGJwzPzJkRH2Z_KSmi5hODVdZCcNtQJU85UKbX6lE3g&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking in Italy’s Tyrolean Region: Meran and Val Venosta Section II",
+      "date": "2027-08-01",
+      "time": "All Day",
+      "dateText": "Sunday, August 1, 2027 | All Day",
+      "dateISO": "2027-08-01T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Ann Boland"
+      ],
+      "location": "Merano",
+      "online": false,
+      "distanceMi": 4057.7,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000019kEL2AY",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000nGt9DYAS&d=%2Fa%2FVX000003Eu0b%2FBH_5YeFbguDWxbH4tdw7VCwUFf0r_bMXnl8yfh_2MhM&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Iceland - ‘Land of Fire and Ice' Hiking the Laugavegur and Fimmvörðuháls Trails (#2729)",
+      "date": "2027-08-09",
+      "time": "All Day",
+      "dateText": "Monday, August 9, 2027 | All Day",
+      "dateISO": "2027-08-09T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Michael Wainer"
+      ],
+      "location": "Reykjavík",
+      "online": false,
+      "distanceMi": null,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000017ABl2AM",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000l18uwYAA&d=%2Fa%2FVX000003759J%2FbgAPZlT2tW7jg1PbZyyiqEoi.bFxElHHDYaPwV8gPXY&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking the Wild and Windswept Faroe Islands",
+      "date": "2027-08-12",
+      "time": "5:00 PM",
+      "dateText": "Thursday, August 12, 2027",
+      "dateISO": "2027-08-12T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Nancy Tutko"
+      ],
+      "location": "Vagar",
+      "online": false,
+      "distanceMi": 3058.4,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CXFl2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qCWuDYAW&d=%2Fa%2FVX000003NnxZ%2FCURPuguYsCk8hL_im_rGQzNN1htClsE._NnTds1XDDk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Newfoundland East Coast Adventure - Hikes, Wildlife, History & Explorations",
+      "date": "2027-08-13",
+      "time": "5:00 PM",
+      "dateText": "Friday, August 13, 2027",
+      "dateISO": "2027-08-13T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Beth Zimmer"
+      ],
+      "location": "St. John's, NL",
+      "online": false,
+      "distanceMi": 1146.1,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CWYD2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qBVNcYAO&d=%2Fa%2FVX000003Nmjl%2FCOuvxwk4G7w46iAtbNTxIoV5lsYyLGBkg7aLQEOJCa0&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Austrian Hiking Trifecta: the Oetztal, Zillertal, and Stubaital Alps",
+      "date": "2027-08-21",
+      "time": "5:00 PM",
+      "dateText": "Saturday, August 21, 2027",
+      "dateISO": "2027-08-21T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Larry Yetter"
+      ],
+      "location": "Sölden",
+      "online": false,
+      "distanceMi": 4042.2,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001ChQP2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qOBNlYAO&d=%2Fa%2FVX000003OPYD%2Fwyf9iP0.rZxRHPylGqE1fTZfBLg_wN4qb6laGEJBgLs&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Trek Southern Sierras to Whitney (fully supported)",
+      "date": "2027-08-22",
+      "time": "5:00 PM",
+      "dateText": "Sunday, August 22, 2027",
+      "dateISO": "2027-08-22T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Rami Haddad"
+      ],
+      "location": "Reno, NV",
+      "online": false,
+      "distanceMi": 2395.4,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CYLV2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qENA5YAO&d=%2Fa%2FVX000003NqKL%2FojCzPusFUV2YyrjBztqNOePdOCXYYxv3rtk02Sdg1O8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Exploring Slovenia’s Julian Alps and Beyond",
+      "date": "2027-08-28",
+      "time": "5:00 PM",
+      "dateText": "Saturday, August 28, 2027",
+      "dateISO": "2027-08-28T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Lisa A Hart"
+      ],
+      "location": "Ljubljana",
+      "online": false,
+      "distanceMi": 4218.1,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CXAv2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qC6GpYAK&d=%2Fa%2FVX000003Nnj3%2Fzrt77EuICHiWLEeHX2D5MdrgUeePhO8.7XnLwZMu3kI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Day Hiking On Austria’s Lechweg Trail (#2730)",
+      "date": "2027-08-30",
+      "time": "All Day",
+      "dateText": "Monday, August 30, 2027 | All Day",
+      "dateISO": "2027-08-30T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Dan Stone"
+      ],
+      "location": "Munich",
+      "online": false,
+      "distanceMi": 4028.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX0000016yIf2AI",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kqEZ4YAM&d=%2Fa%2FVX0000036PMz%2FREVUPWvvMHdrnw4avgLTYVZFhKtAqGtBNOepTYoNBF8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Day Hiking in the Shadow of Mont Blanc (2)",
+      "date": "2027-09-07",
+      "time": "All Day",
+      "dateText": "Tuesday, September 7, 2027",
+      "dateISO": "2027-09-07T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Beth Zimmer"
+      ],
+      "location": "Geneva",
+      "online": false,
+      "distanceMi": 3859.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001AtIn2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000oUAA1YAO&d=%2Fa%2FVX000003Iggb%2F1Sq1t0CT5pUF3lQiKgJQFiCIqZpNCr75W6Ul5bdkKbI&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Day Hiking in Sequoia / Kings Canyon National Parks (#2731)",
+      "date": "2027-09-11",
+      "time": "All Day",
+      "dateText": "Saturday, September 11, 2027 | All Day",
+      "dateISO": "2027-09-11T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Leslie Carson"
+      ],
+      "location": "Fresno, CA",
+      "online": false,
+      "distanceMi": 2455.9,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX00000175bt2AA",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kvsHQYAY&d=%2Fa%2FVX0000036oJl%2FyVuord0azlRJHsWX0DbvQiwG1j8bAXwQkEAtN6J1OR4&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Dolomites Biking: River Adige from Resia Pass to Lake Garda",
+      "date": "2027-09-11",
+      "time": "All Day",
+      "dateText": "Saturday, September 11, 2027",
+      "dateISO": "2027-09-11T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Michael Barry"
+      ],
+      "location": "Bolzano",
+      "online": false,
+      "distanceMi": 4071.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MRtp2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010N5zPYAS&d=%2Fa%2FVX000003tlm9%2FVe.Ts_4kQN8xAazEVdmkXG1AjuTZQRxgxhkxzGc6R68&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "NOLS Wilderness First Aid - Worcester",
       "date": "2027-09-11",
       "time": "8:00 AM",
@@ -6219,6 +7231,94 @@
       "chapterName": "AMC-wide",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MgmP2AS",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking, Kayaking & Culture: The Best of Croatia",
+      "date": "2027-09-16",
+      "time": "5:00 PM",
+      "dateText": "Thursday, September 16, 2027",
+      "dateISO": "2027-09-16T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "David Cole"
+      ],
+      "location": "Zagreb",
+      "online": false,
+      "distanceMi": 4287.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CWzd2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qCMN0YAO&d=%2Fa%2FVX000003NnPh%2FFegZdg.zJYsTGIGyqlHlXnsjIWdkMa1_CYYsYztbZTk&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking in Austria’s Salzkammergut",
+      "date": "2027-09-19",
+      "time": "All Day",
+      "dateText": "Sunday, September 19, 2027 | All Day",
+      "dateISO": "2027-09-19T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Karen Barsanti"
+      ],
+      "location": "Strobl",
+      "online": false,
+      "distanceMi": 4119.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MAPx2AO",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100f4OYAQ&d=%2Fa%2FVX000003sm5x%2FYlCNOnn.ZpnJs9hncnLIDE29tM3HzW6b363hUfF4nWg&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "New Mexico: Canyons, Peaks &amp; Ancient Worlds — A Women’s + Hiking and Wellness",
+      "date": "2027-09-21",
+      "time": "All Day",
+      "dateText": "Tuesday, September 21, 2027 | All Day",
+      "dateISO": "2027-09-21T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Stacia Biel"
+      ],
+      "location": "Albuquerque, NM",
+      "online": false,
+      "distanceMi": 1812.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MLTR2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010Fnb0YAC&d=%2Fa%2FVX000003tNTh%2Fg3iJVBcm4tkgRIOkrFNC9tg42huvh.Oy53kq0UkP7Ik&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Fall Foliage Adventure on the Superior Hiking Trail",
+      "date": "2027-09-24",
+      "time": "5:00 PM",
+      "dateText": "Friday, September 24, 2027",
+      "dateISO": "2027-09-24T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "John English"
+      ],
+      "location": "Duluth, MN",
+      "online": false,
+      "distanceMi": 993.1,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CWun2AG",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qC62sYAC&d=%2Fa%2FVX000003NnJF%2FTBs9dqqyJ04OF2CP97ch22VzsXWDNydFAzqZVfaAg4Q&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     },
     {
@@ -6266,6 +7366,28 @@
       "openForRegistration": true
     },
     {
+      "title": "Southern Charm of Kentucky & Tennessee: Music, Mountains & More",
+      "date": "2027-10-13",
+      "time": "5:00 PM",
+      "dateText": "Wednesday, October 13, 2027",
+      "dateISO": "2027-10-13T17:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Rami Haddad"
+      ],
+      "location": "Nashville, TN",
+      "online": false,
+      "distanceMi": 761.4,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001CYIH2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000qE9aBYAS&d=%2Fa%2FVX000003NqH7%2FuMANoeVnYpMBo0fc5Gv.catdxAPnKMZw9znIPN8DARc&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "Outdoor Leadership Training",
       "date": "2027-10-16",
       "time": "9:00 AM",
@@ -6288,6 +7410,50 @@
       "openForRegistration": true
     },
     {
+      "title": "Walking Japan’s Spiritual Landscapes: Timeless Trails of Japan: Kumano Kodo & Nakasendo (#2732)",
+      "date": "2027-11-01",
+      "time": "All Day",
+      "dateText": "Monday, November 1, 2027 | All Day",
+      "dateISO": "2027-11-01T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Waitlist",
+      "leaders": [
+        "Susan Christopherson"
+      ],
+      "location": "Osaka",
+      "online": false,
+      "distanceMi": 6896.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX00000171gL2AQ",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000kstt4YAA&d=%2Fa%2FVX0000036XFh%2FnEUok8cHqRfQw.I8bkhnnvZvbl_keAKE.zVPy.PcaL8&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "From Summits to Subterranean: Guadalupe Mountains and Carlsbad Caverns National Parks",
+      "date": "2027-11-12",
+      "time": "All Day",
+      "dateText": "Friday, November 12, 2027",
+      "dateISO": "2027-11-12T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Christa Ten Cate"
+      ],
+      "location": "El Paso, TX",
+      "online": false,
+      "distanceMi": 1902.2,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MQBN2A4",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX000010KHqbYAG&d=%2Fa%2FVX000003tepV%2FSPQEi.EQUiK5s1WrAcRn3F8wlzinAuxPrcGQKVPR0pQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
       "title": "NOLS Wilderness First Aid - Boston",
       "date": "2027-11-13",
       "time": "8:00 AM",
@@ -6307,6 +7473,94 @@
       "chapterName": "AMC-wide",
       "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001MPX32AO",
       "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX0000100sZRYAY&d=%2Fa%2FVX000003snEv%2FJvea5Z14mFVkLN3vEaRKFYBeLYcGRw.h5MnpxyIWRWQ&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Hiking and Culture in Cape Verde",
+      "date": "2028-01-20",
+      "time": "All Day",
+      "dateText": "Thursday, January 20, 2028 | All Day",
+      "dateISO": "2028-01-20T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Jeanne Blauner"
+      ],
+      "location": "Mindelo",
+      "online": false,
+      "distanceMi": 3337.7,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M9X72AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zyVFsYAM&d=%2Fa%2FVX000003scTB%2FLevih5kRc8ogA927z87LD8nXxEqOdvMCV6yxSTuiknA&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Wild Dominica: Hiking into Nature and Culture",
+      "date": "2028-01-20",
+      "time": "All Day",
+      "dateText": "Thursday, January 20, 2028 | All Day",
+      "dateISO": "2028-01-20T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Dan Stone"
+      ],
+      "location": "saint john parish",
+      "online": false,
+      "distanceMi": 1896.1,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M7Wv2AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zvhMtYAI&d=%2Fa%2FVX000003sVTJ%2FSvVzVtCoK_W4iSdGyQLK_.YlX0V8LAZ5uriXvf2t.hc&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "New Zealand Classics:  Milford and Routeburn Tracks",
+      "date": "2028-02-14",
+      "time": "All Day",
+      "dateText": "Monday, February 14, 2028 | All Day",
+      "dateISO": "2028-02-14T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Ann Boland"
+      ],
+      "location": "Queenstown",
+      "online": false,
+      "distanceMi": 9332.5,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M7S52AK",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zvn7JYAQ&d=%2Fa%2FVX000003sVMr%2Fo.neiPbsaVb2BNssArXWDxxvLdi36x.3DbMzMU6g_58&oid=00D50000000cBTwEAM",
+      "openForRegistration": true
+    },
+    {
+      "title": "Tasmania Trails and Tales: Hikes, History, and Culture",
+      "date": "2028-03-10",
+      "time": "All Day",
+      "dateText": "Friday, March 10, 2028 | All Day",
+      "dateISO": "2028-03-10T00:00:00-05:00",
+      "activityType": "Adventure Travel",
+      "subType": "Adventure Travel",
+      "programType": "Adventure Travel",
+      "status": "Published",
+      "leaders": [
+        "Dan Stone"
+      ],
+      "location": "Hobart, TAS",
+      "online": false,
+      "distanceMi": 10326.3,
+      "chapter": null,
+      "chapterName": "Adventure Travel",
+      "url": "https://activities.outdoors.org/s/oc-activity/a5UVX000001M7YX2A0",
+      "image": "https://outdoors.my.salesforce.com/sfc/dist/version/renditionDownload?rendition=THUMB720BY480&versionId=068VX00000zvb4ZYAQ&d=%2Fa%2FVX000003sVWX%2F.hLYmmFkT_IG9HkLI1Cq0RalGi3l4njjtOWLCkZZwMs&oid=00D50000000cBTwEAM",
       "openForRegistration": true
     }
   ]
